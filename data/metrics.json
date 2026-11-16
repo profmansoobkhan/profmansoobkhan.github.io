@@ -1,11 +1,11 @@
 {
  "updated": "2026-11-16",
- "updated_utc": "2026-11-16T12:17Z",
+ "updated_utc": "2026-11-16T12:24Z",
  "primary": {
-  "source": "OpenAlex",
-  "citations": 18100,
-  "h_index": 70,
-  "i10_index": 178,
+  "source": "Google Scholar",
+  "citations": 20908,
+  "h_index": 72,
+  "i10_index": 192,
   "as_of": "2026-11-16"
  },
  "publications": 288,
@@ -104,89 +104,127 @@
   "checked": "2026-11-16"
  },
  "scholar": {
-  "citations": 19723,
-  "h_index": 71,
-  "i10_index": 181,
-  "by_year": [],
-  "via": "manual entry",
-  "as_of": "2026-06-10"
+  "citations": 20908,
+  "h_index": 72,
+  "i10_index": 192,
+  "by_year": [
+   {
+    "year": 2013,
+    "citations": 63
+   },
+   {
+    "year": 2014,
+    "citations": 283
+   },
+   {
+    "year": 2015,
+    "citations": 502
+   },
+   {
+    "year": 2016,
+    "citations": 619
+   },
+   {
+    "year": 2017,
+    "citations": 1050
+   },
+   {
+    "year": 2018,
+    "citations": 1401
+   },
+   {
+    "year": 2019,
+    "citations": 1655
+   },
+   {
+    "year": 2020,
+    "citations": 1705
+   },
+   {
+    "year": 2021,
+    "citations": 2016
+   },
+   {
+    "year": 2022,
+    "citations": 2034
+   },
+   {
+    "year": 2023,
+    "citations": 2010
+   },
+   {
+    "year": 2024,
+    "citations": 2396
+   },
+   {
+    "year": 2025,
+    "citations": 2718
+   },
+   {
+    "year": 2026,
+    "citations": 2209
+   }
+  ],
+  "via": "Google Scholar",
+  "as_of": "2026-11-16"
  },
  "by_year": [
   {
-   "year": 2012,
-   "citations": 25,
-   "works": 4
-  },
-  {
    "year": 2013,
-   "citations": 102,
-   "works": 21
+   "citations": 63
   },
   {
    "year": 2014,
-   "citations": 279,
-   "works": 9
+   "citations": 283
   },
   {
    "year": 2015,
-   "citations": 480,
-   "works": 17
+   "citations": 502
   },
   {
    "year": 2016,
-   "citations": 634,
-   "works": 9
+   "citations": 619
   },
   {
    "year": 2017,
-   "citations": 1082,
-   "works": 6
+   "citations": 1050
   },
   {
    "year": 2018,
-   "citations": 1279,
-   "works": 20
+   "citations": 1401
   },
   {
    "year": 2019,
-   "citations": 1408,
-   "works": 8
+   "citations": 1655
   },
   {
    "year": 2020,
-   "citations": 1486,
-   "works": 12
+   "citations": 1705
   },
   {
    "year": 2021,
-   "citations": 1731,
-   "works": 26
+   "citations": 2016
   },
   {
    "year": 2022,
-   "citations": 1633,
-   "works": 26
+   "citations": 2034
   },
   {
    "year": 2023,
-   "citations": 1783,
-   "works": 34
+   "citations": 2010
   },
   {
    "year": 2024,
-   "citations": 2111,
-   "works": 33
+   "citations": 2396
   },
   {
    "year": 2025,
-   "citations": 2053,
-   "works": 53
+   "citations": 2718
   },
   {
    "year": 2026,
-   "citations": 1698,
-   "works": 15
+   "citations": 2209
   }
  ],
- "by_year_source": "OpenAlex"
+ "by_year_source": "Google Scholar"
 }
