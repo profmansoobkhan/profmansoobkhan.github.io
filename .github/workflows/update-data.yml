@@ -1,0 +1,55 @@
+name: Update research metrics
+
+# Runs once a day, refreshes data/*.json and the numbers in the HTML,
+# commits the change and asks GitHub Pages to rebuild the site.
+on:
+  schedule:
+    - cron: "17 21 * * *"   # 21:17 UTC = 05:17 in Brunei
+  workflow_dispatch:         # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch metrics and publications
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}           # optional: daily Google Scholar figures
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }} # optional
+        run: python3 scripts/update_data.py
+
+      - name: Commit if anything changed
+        id: commit
+        run: |
+          git config user.name "metrics-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data *.html
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes today."
+          else
+            git commit -m "Daily metrics update $(date -u +%F)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Ask GitHub Pages to rebuild
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"

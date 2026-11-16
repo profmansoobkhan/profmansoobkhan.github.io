@@ -1,0 +1,4836 @@
+{
+ "updated": "2026-11-16",
+ "count": 288,
+ "citation_source": "OpenAlex",
+ "items": [
+  {
+   "title": "Advancements in Eu2O3-functionalized heterostructures: Synthetic pathways, performance mechanisms, and multi-functional sustainable applications",
+   "year": 2027,
+   "month": 1,
+   "venue": "Next Materials",
+   "type": "Journal article",
+   "doi": "10.1016/j.nxmate.2026.103962",
+   "url": "https://doi.org/10.1016/j.nxmate.2026.103962",
+   "citations": 0,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Cobalt titanate: A versatile ilmenite for next-generation energy and catalytic applications",
+   "year": 2026,
+   "month": 11,
+   "venue": "Coordination Chemistry Reviews",
+   "type": "Journal article",
+   "doi": "10.1016/j.ccr.2026.218264",
+   "url": "https://doi.org/10.1016/j.ccr.2026.218264",
+   "citations": 2,
+   "authors": [
+    "Shaikh Parwaiz",
+    "James R. Jennings",
+    "Mohammad Hilni Harunsani",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Aqueous Punica granatum peel extract derived spray-dried silver nanoparticles with multifaceted bioactivity and its dental applications",
+   "year": 2026,
+   "month": 10,
+   "venue": "Odontology",
+   "type": "Journal article",
+   "doi": "10.1007/s10266-025-01267-2",
+   "url": "https://doi.org/10.1007/s10266-025-01267-2",
+   "citations": 6,
+   "authors": [
+    "Palanivel Velmurugan",
+    "Moorthy Muruganandham",
+    "Kanagasabapathy Sivasubramanian",
+    "Ramalingam Karthik Raja",
+    "Fatimah Oleyan Al-Otibi",
+    "Mohammad Mansoob Khan",
+    "Nagaraj Basavegowda"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Ni-Doped CoTiO3 Ilmenite Oxides as Durable and Methanol-Tolerant Electrocatalysts for Oxygen Reduction Reaction",
+   "year": 2026,
+   "month": 10,
+   "venue": "The Journal of Physical Chemistry C",
+   "type": "Journal article",
+   "doi": "10.1021/acs.jpcc.6c03772",
+   "url": "https://doi.org/10.1021/acs.jpcc.6c03772",
+   "citations": 0,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Fazlurrahman Khan",
+    "Min-Ung Kim",
+    "James R. Jennings",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Photoprotective potential of natural products in sunscreens: from UV-filtering mechanisms to skin cancer prevention",
+   "year": 2026,
+   "month": 9,
+   "venue": "Journal of Umm Al-Qura University for Applied Sciences",
+   "type": "Journal article",
+   "doi": "10.1007/s43994-026-00326-w",
+   "url": "https://doi.org/10.1007/s43994-026-00326-w",
+   "citations": 0,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Recent Advances and Mechanistic Insights Into CO2 Capture and Photocatalytic Conversion Using Emerging 2D Nanomaterials",
+   "year": 2026,
+   "month": 9,
+   "venue": "ChemPhotoChem",
+   "type": "Journal article",
+   "doi": "10.1002/cptc.70281",
+   "url": "https://doi.org/10.1002/cptc.70281",
+   "citations": 0,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Corrosion Inhibition of Mild Steel using Aqueous Leaf Extract of Rosmarinus officinalis L",
+   "year": 2026,
+   "month": 7,
+   "venue": "Manara-nova Journal of Sciences",
+   "type": "Journal article",
+   "doi": null,
+   "url": "https://mnjs.uomanara.edu.iq/index.php/mnjs/article/view/18",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "From Microplastics to Nanoplastics: Critical Advances and Persistent Challenges in Detection and Quantification",
+   "year": 2026,
+   "month": 4,
+   "venue": "Critical Reviews in Analytical Chemistry",
+   "type": "Journal article",
+   "doi": null,
+   "url": null,
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Recent advances in LaCoO 3 -based perovskite nanostructures for electrocatalytic and photocatalytic applications",
+   "year": 2026,
+   "month": 1,
+   "venue": "Critical Reviews in Solid State and Materials Sciences",
+   "type": "Journal article",
+   "doi": "10.1080/10408436.2025.2509646",
+   "url": "https://doi.org/10.1080/10408436.2025.2509646",
+   "citations": 16,
+   "authors": [
+    "Shaikh Parwaiz",
+    "James R. Jennings",
+    "Mohammad Hilni Harunsani",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Recent progress in photocatalytic applications of metals- and non-metals-doped MoS2",
+   "year": 2026,
+   "month": 1,
+   "venue": "Materials Science in Semiconductor Processing",
+   "type": "Journal article",
+   "doi": "10.1016/j.mssp.2025.110082",
+   "url": "https://doi.org/10.1016/j.mssp.2025.110082",
+   "citations": 7,
+   "authors": [
+    "Michael Alowakennu",
+    "Mohammad Mansoob Khan",
+    "Khadijat Olabisi Abdulwahab"
+   ],
+   "oa": false
+  },
+  {
+   "title": "From Microplastics to Nanoplastics: Critical Advances and Persistent Challenges in Detection and Quantification",
+   "year": 2026,
+   "month": null,
+   "venue": "Critical Reviews in Analytical Chemistry",
+   "type": "Journal article",
+   "doi": "10.1080/10408347.2026.2658239",
+   "url": "https://doi.org/10.1080/10408347.2026.2658239",
+   "citations": 2,
+   "authors": [
+    "Mohd Fazal Ur Rehman",
+    "Mohammad Muaz Khan",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Phytogenic synthesized selected metal oxides, properties, and biotechnological applications",
+   "year": 2026,
+   "month": null,
+   "venue": "Discover Applied Sciences",
+   "type": "Journal article",
+   "doi": "10.1007/s42452-026-08763-2",
+   "url": "https://doi.org/10.1007/s42452-026-08763-2",
+   "citations": 2,
+   "authors": [
+    "Ashmalina Rahman",
+    "Shaidatul Najihah Matussin",
+    "Mohammed Danish",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Progress in Advanced Photocatalysis and Photoelectrocatalysis",
+   "year": 2026,
+   "month": null,
+   "venue": "Journal of Saudi Chemical Society",
+   "type": "Journal article",
+   "doi": "10.1007/s44442-025-00049-3",
+   "url": "https://doi.org/10.1007/s44442-025-00049-3",
+   "citations": 9,
+   "authors": [
+    "Youngku Sohn",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Surface evolution and multifunctionality of NiO thin films grown by SILAR",
+   "year": 2026,
+   "month": null,
+   "venue": "Journal of Electron Spectroscopy and Related Phenomena",
+   "type": "Journal article",
+   "doi": "10.1016/j.elspec.2026.147623",
+   "url": "https://doi.org/10.1016/j.elspec.2026.147623",
+   "citations": 0,
+   "authors": [
+    "Souad Kouider Akil",
+    "M’hamed Guezzoul",
+    "Azzeddine Mokadem",
+    "Hadjer Herir",
+    "Oussama Baraka",
+    "Farid Bennabi",
+    "Youssef Larbah",
+    "M. Ellouze",
+    "Meriem Fodil",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Valorization of date palm waste and recycled HDPE into functional bio-composites via chemical fiber treatment and Nano-ZnO synergy",
+   "year": 2026,
+   "month": null,
+   "venue": "Polymers and Polymer Composites",
+   "type": "Journal article",
+   "doi": "10.1177/09673911261440570",
+   "url": "https://doi.org/10.1177/09673911261440570",
+   "citations": 0,
+   "authors": [
+    "Hadda Benaceur",
+    "Fatma Zohra Benabid",
+    "Haroun Houicha",
+    "Oum Keltoum Mallem",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Cu2XSnS4 (X = Mg, Ba, Sr, Fe, Mn, Co, Ni, and Cd) for Visible‐Light‐Induced Photocatalytic Applications",
+   "year": 2025,
+   "month": 12,
+   "venue": "ChemistrySelect",
+   "type": "Journal article",
+   "doi": "10.1002/slct.202504500",
+   "url": "https://doi.org/10.1002/slct.202504500",
+   "citations": 1,
+   "authors": [
+    "Ashmalina Rahman",
+    "Shaikh Parwaiz",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Hydrophobic Deep Eutectic Solvents: Synthesis, Properties, Applications, and Future Directions",
+   "year": 2025,
+   "month": 12,
+   "venue": "Journal of Chemical & Engineering Data",
+   "type": "Journal article",
+   "doi": "10.1021/acs.jced.5c00578",
+   "url": "https://doi.org/10.1021/acs.jced.5c00578",
+   "citations": 13,
+   "authors": [
+    "Aswin Falahudin",
+    "Numpon Insin",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Impact of microplastics and nanoplastics on human health: Mechanistic insights and exposure pathways",
+   "year": 2025,
+   "month": 12,
+   "venue": "Toxicology Letters",
+   "type": "Journal article",
+   "doi": "10.1016/j.toxlet.2025.111769",
+   "url": "https://doi.org/10.1016/j.toxlet.2025.111769",
+   "citations": 32,
+   "authors": [
+    "Mohd Fazal Ur Rehman",
+    "Mohammad Muaz Khan",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Unraveling genetic and epigenetic interplay in type 2 diabetes mellitus and cardiovascular risk",
+   "year": 2025,
+   "month": 12,
+   "venue": "Discover Medicine",
+   "type": "Journal article",
+   "doi": "10.1007/s44337-025-00556-7",
+   "url": "https://doi.org/10.1007/s44337-025-00556-7",
+   "citations": 2,
+   "authors": [
+    "Mohd Fazal Ur Rehman",
+    "Norhayati Ahmad",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Biocompatible Metal Sulfide‐Based Nanomaterials for Antimicrobial and Wound Healing Applications",
+   "year": 2025,
+   "month": 11,
+   "venue": "ChemBioChem",
+   "type": "Journal article",
+   "doi": "10.1002/cbic.202500604",
+   "url": "https://doi.org/10.1002/cbic.202500604",
+   "citations": 2,
+   "authors": [
+    "Ashmalina Rahman",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Effect of Ni-Doping in LaCo1–xNixO3 on Electrocatalytic Oxygen Reduction Reaction",
+   "year": 2025,
+   "month": 11,
+   "venue": "ACS Omega",
+   "type": "Journal article",
+   "doi": "10.1021/acsomega.5c05357",
+   "url": "https://doi.org/10.1021/acsomega.5c05357",
+   "citations": 8,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Fazlurrahman Khan",
+    "James R. Jennings",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Recent Advances in Photocatalysis: From Laboratory to Market",
+   "year": 2025,
+   "month": 11,
+   "venue": "Results in Chemistry",
+   "type": "Journal article",
+   "doi": "10.1016/j.rechem.2025.102672",
+   "url": "https://doi.org/10.1016/j.rechem.2025.102672",
+   "citations": 26,
+   "authors": [
+    "Abdul Wafi",
+    "Demas Aji",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "A green approach for morphology and size-controlled fabrication of cerium oxide using leaf extract of Mangifera indica for photocatalytic activities",
+   "year": 2025,
+   "month": 9,
+   "venue": "Journal of Umm Al-Qura University for Applied Sciences",
+   "type": "Journal article",
+   "doi": "10.1007/s43994-024-00206-1",
+   "url": "https://doi.org/10.1007/s43994-024-00206-1",
+   "citations": 6,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Gd2O3 and Gd2O3-Based Nanostructures: Role of Anions, Solvents, Temperature, Etc. in the Synthesis, Structure, Morphology, and Properties",
+   "year": 2025,
+   "month": 8,
+   "venue": "Crystal Growth & Design",
+   "type": "Journal article",
+   "doi": "10.1021/acs.cgd.5c00324",
+   "url": "https://doi.org/10.1021/acs.cgd.5c00324",
+   "citations": 2,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Gd(OH)3 and Gd(OH)3-based heterostructures: Synthesis and their photocatalytic, drug delivery, contrast agents, and toxicity studies",
+   "year": 2025,
+   "month": 6,
+   "venue": "Journal of Rare Earths",
+   "type": "Journal article",
+   "doi": "10.1016/j.jre.2024.07.012",
+   "url": "https://doi.org/10.1016/j.jre.2024.07.012",
+   "citations": 6,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Mohammad Hilni Harunsani",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Green synthesized ZnO and ZnO-based composites for wound healing applications",
+   "year": 2025,
+   "month": 4,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-024-03123-z",
+   "url": "https://doi.org/10.1007/s00449-024-03123-z",
+   "citations": 27,
+   "authors": [
+    "Abdul Wafi",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Advances in Artificial Photosynthesis: The Role of Chalcogenides and Chalcogenide‐Based Heterostructures",
+   "year": 2025,
+   "month": 3,
+   "venue": "ChemPhotoChem",
+   "type": "Journal article",
+   "doi": "10.1002/cptc.202400234",
+   "url": "https://doi.org/10.1002/cptc.202400234",
+   "citations": 9,
+   "authors": [
+    "Ashmalina Rahman",
+    "Shaikh Parwaiz",
+    "Youngku Sohn",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Gd(OH)3 and Co-Doped Gd(OH)3 for Photocatalytic Degradation of 4-Nitrophenol and Brilliant Green",
+   "year": 2025,
+   "month": 3,
+   "venue": "ACS Omega",
+   "type": "Journal article",
+   "doi": "10.1021/acsomega.4c09351",
+   "url": "https://doi.org/10.1021/acsomega.4c09351",
+   "citations": 6,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Fazlurrahman Khan",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Insights into MXenes and MXene-based heterostructures for various photocatalytic applications",
+   "year": 2025,
+   "month": 2,
+   "venue": "Materials Science in Semiconductor Processing",
+   "type": "Journal article",
+   "doi": "10.1016/j.mssp.2024.109099",
+   "url": "https://doi.org/10.1016/j.mssp.2024.109099",
+   "citations": 13,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Youngku Sohn",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Absorption spectroscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00014-9",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00014-9",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Atomic force microscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00024-1",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00024-1",
+   "citations": 4,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Chemical vapor deposition synthesis method",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00009-5",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00009-5",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Dynamic light scattering",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00023-x",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00023-x",
+   "citations": 34,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Electrochemical deposition synthesis methods",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00012-5",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00012-5",
+   "citations": 1,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Emission spectroscopy: photoluminescence spectroscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00019-8",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00019-8",
+   "citations": 1,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Fourier transform infrared spectroscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00017-4",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00017-4",
+   "citations": 10,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Green synthesis methods",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00011-3",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00011-3",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Hydrothermal synthesis method",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00005-8",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00005-8",
+   "citations": 2,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Introduction of synthesis methods",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00002-2",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00002-2",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Introduction to characterization methods",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00013-7",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00013-7",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Kinetic properties of the photocatalysts using electrochemical techniques",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00029-0",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00029-0",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Microwave synthesis method",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00007-1",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00007-1",
+   "citations": 1,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Photocatalytic efficiency of the photocatalysts using electrochemical techniques",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00030-7",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00030-7",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Physical vapor deposition synthesis method",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00010-1",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00010-1",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Precipitation and coprecipitation synthesis methods",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00003-4",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00003-4",
+   "citations": 18,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Raman spectroscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00018-6",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00018-6",
+   "citations": 3,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Scanning electron microscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00025-3",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00025-3",
+   "citations": 15,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Sol-gel synthesis method",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00004-6",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00004-6",
+   "citations": 4,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Solvothermal synthesis method",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00006-x",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00006-x",
+   "citations": 1,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Sonochemical synthesis method",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00008-3",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00008-3",
+   "citations": 2,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Surface area and porosity measurements",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00022-8",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00022-8",
+   "citations": 1,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Thermodynamic properties of the photocatalysts using electrochemical techniques",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00028-9",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00028-9",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Transmission electron microscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00026-5",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00026-5",
+   "citations": 3,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "UV-visible spectroscopy and diffuse reflectance spectroscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00015-0",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00015-0",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Vibrational spectroscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00016-2",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00016-2",
+   "citations": 5,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "X-ray diffraction",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00020-4",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00020-4",
+   "citations": 6,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "X-ray fluorescence spectroscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00021-6",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00021-6",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "X-ray photoelectron spectroscopy",
+   "year": 2025,
+   "month": 1,
+   "venue": "Photocatalysts: Synthesis and Characterization Methods",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-443-28913-2.00027-7",
+   "url": "https://doi.org/10.1016/b978-0-443-28913-2.00027-7",
+   "citations": 4,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Biomass derived nitrogen-doped water soluble carbon dots from Prosopis juliflora for Fe3+ sensing",
+   "year": 2025,
+   "month": null,
+   "venue": "Microchemical Journal",
+   "type": "Journal article",
+   "doi": "10.1016/j.microc.2025.113286",
+   "url": "https://doi.org/10.1016/j.microc.2025.113286",
+   "citations": 26,
+   "authors": [
+    "Kaviyapriya Kirubanithy",
+    "Amutha Santhanam",
+    "Paulraj Arunkumar",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "CeNiO3/rGO composite as an efficient photocatalyst for the removal of environmental pollutants",
+   "year": 2025,
+   "month": null,
+   "venue": "Fullerenes, Nanotubes and Carbon Nanostructures",
+   "type": "Journal article",
+   "doi": "10.1080/1536383x.2024.2399243",
+   "url": "https://doi.org/10.1080/1536383x.2024.2399243",
+   "citations": 13,
+   "authors": [
+    "Shomaila Noureen",
+    "Javeria Sultana",
+    "Madeeha Rani",
+    "Iftikhar Ahmad",
+    "Waqas Ali Shah",
+    "Mohammad Mansoob Khan",
+    "Amir Waseem"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Harvesting thermal energy with green-synthesised copper oxide / silver nanocomposites",
+   "year": 2025,
+   "month": null,
+   "venue": "International Journal of Sustainable Energy",
+   "type": "Journal article",
+   "doi": "10.1080/14786451.2025.2481969",
+   "url": "https://doi.org/10.1080/14786451.2025.2481969",
+   "citations": 9,
+   "authors": [
+    "Vinos Mushir Faris",
+    "Samir Mustafa Hamad",
+    "Azeez A. Barzinjy",
+    "Mohammad Mansoob Khan",
+    "Dilshad Shaikhah"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Photocatalysts: Synthesis and Characterization Methods",
+   "year": 2025,
+   "month": null,
+   "venue": "Photocatalysts Synthesis and Characterization Methods",
+   "type": "Book",
+   "doi": "10.1016/c2023-0-50790-6",
+   "url": "https://doi.org/10.1016/c2023-0-50790-6",
+   "citations": 7,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Potential of Green Synthesis of Silver and Gold Nanoparticles for the Management of Metabolic Associated Steatotic Liver Disease: A Mini Review",
+   "year": 2025,
+   "month": null,
+   "venue": "Asean Journal on Science and Technology for Development",
+   "type": "Journal article",
+   "doi": "10.61931/2224-9028.1633",
+   "url": "https://doi.org/10.61931/2224-9028.1633",
+   "citations": 0,
+   "authors": [
+    "Nur Atiqah Suhaili",
+    "Ya Chee Lim",
+    "Mei Ann Lim",
+    "Lee Hoon Lim",
+    "Mohammad Mansoob Khan",
+    "Monowarul Mobin Siddique"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Recent Advances in Photocatalytic Reactor Design and Process Optimization for Effluent Treatment",
+   "year": 2025,
+   "month": null,
+   "venue": "ACS symposium series",
+   "type": "Journal article",
+   "doi": "10.1021/bk-2025-1518.ch007",
+   "url": "https://doi.org/10.1021/bk-2025-1518.ch007",
+   "citations": 7,
+   "authors": [
+    "Kingsley Tamunokuro Amakiri",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Recent progress of Cu2ZnSnS4 and Cu2ZnSnS4-based heterostructures for photocatalysis",
+   "year": 2025,
+   "month": null,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/d4nj04974h",
+   "url": "https://doi.org/10.1039/d4nj04974h",
+   "citations": 8,
+   "authors": [
+    "Ashmalina Rahman",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Rice Waste-Derived Carbon Nanomaterials for Environmental Applications",
+   "year": 2025,
+   "month": null,
+   "venue": "Nanostructure Science and Technology",
+   "type": "Book chapter",
+   "doi": "10.1007/978-3-031-75247-6_7",
+   "url": "https://doi.org/10.1007/978-3-031-75247-6_7",
+   "citations": 2,
+   "authors": [
+    "Raheel Akram",
+    "Naveed Anwar",
+    "Anila Arshad",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Synergistic effects of Bi-metal oxide–graphene oxide nanocomposites in photodegradation applications",
+   "year": 2025,
+   "month": null,
+   "venue": "Next Nanotechnology",
+   "type": "Journal article",
+   "doi": "10.1016/j.nxnano.2025.100208",
+   "url": "https://doi.org/10.1016/j.nxnano.2025.100208",
+   "citations": 3,
+   "authors": [
+    "Govindarajalu Kishore",
+    "Periyasamy Pritha",
+    "S. Xavier",
+    "D. Bhakiaraj",
+    "Francisxavier Paularokiadoss",
+    "Christian A. Celaya",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Tailoring LaBO3 (B = Mn, Fe, Co, Ni) perovskite oxides for methanol-tolerant oxygen reduction reaction electrocatalysts",
+   "year": 2025,
+   "month": null,
+   "venue": "Physical Chemistry Chemical Physics",
+   "type": "Journal article",
+   "doi": "10.1039/d5cp01963j",
+   "url": "https://doi.org/10.1039/d5cp01963j",
+   "citations": 4,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Fazlurrahman Khan",
+    "James R. Jennings",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Unveiling growth and characterization of alkali metals-doped SnS2 thin films for resistive humidity sensing",
+   "year": 2025,
+   "month": null,
+   "venue": "Sensors and Actuators A: Physical",
+   "type": "Journal article",
+   "doi": "10.1016/j.sna.2025.116308",
+   "url": "https://doi.org/10.1016/j.sna.2025.116308",
+   "citations": 7,
+   "authors": [
+    "Imane Radja",
+    "Florin Tudorache",
+    "Bouhalouane Amrani",
+    "M’hamed Guezzoul",
+    "Abdelkader Nebatti Ech‐Chergui",
+    "Ali Sadek Kadari",
+    "Kouider Driss-Khodja",
+    "Minnam Reddy Vasudeva Reddy",
+    "Mehdi Adjdir",
+    "Choukry Kamel Bendeddouche",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Visible light active Cu(3−x)ZnxSnS4 for efficient photocatalytic degradation of brilliant green dye",
+   "year": 2025,
+   "month": null,
+   "venue": "Scientific Reports",
+   "type": "Journal article",
+   "doi": "10.1038/s41598-025-97680-2",
+   "url": "https://doi.org/10.1038/s41598-025-97680-2",
+   "citations": 12,
+   "authors": [
+    "Ashmalina Rahman",
+    "Fazlurrahman Khan",
+    "James R. Jennings",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Antimicrobial and anti-biofilm activities of photosynthesized Ag@TiO2 and Ag@N-TiO2 nanocomposites against clinically isolated multidrug resistance Klebsiella pneumoniae",
+   "year": 2024,
+   "month": 11,
+   "venue": "Chemical Papers",
+   "type": "Journal article",
+   "doi": "10.1007/s11696-024-03737-3",
+   "url": "https://doi.org/10.1007/s11696-024-03737-3",
+   "citations": 4,
+   "authors": [
+    "Alif Firman Firdausy",
+    "Liszulfah Roza",
+    "Mohammad Mansoob Khan",
+    "Abdul Wafi"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Metals- and non-metals-doped ZnS for various photocatalytic applications",
+   "year": 2024,
+   "month": 10,
+   "venue": "Materials Science in Semiconductor Processing",
+   "type": "Journal article",
+   "doi": "10.1016/j.mssp.2024.108634",
+   "url": "https://doi.org/10.1016/j.mssp.2024.108634",
+   "citations": 33,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Khadijat Olabisi Abdulwahab"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Ca-doped ZnO nanoparticles for MB dye degradation and adsorptive removal of tinidazole",
+   "year": 2024,
+   "month": 8,
+   "venue": "Environmental Monitoring and Assessment",
+   "type": "Journal article",
+   "doi": "10.1007/s10661-024-12843-4",
+   "url": "https://doi.org/10.1007/s10661-024-12843-4",
+   "citations": 7,
+   "authors": [
+    "Nelligere Arkeswaraiah Chamaraja",
+    "Mohammad Mansoob Khan",
+    "H. N. Hemalatha",
+    "Nagaraju Rajendraprasad",
+    "Prasanna Doddakunche Shivaramu"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Editorial for potential of plants for the fabrication of nanomaterials for biotechnological applications",
+   "year": 2024,
+   "month": 8,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-024-03064-7",
+   "url": "https://doi.org/10.1007/s00449-024-03064-7",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Potentials of roots, stems, leaves, flowers, fruits, and seeds extract for the synthesis of silver nanoparticles",
+   "year": 2024,
+   "month": 8,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-024-03044-x",
+   "url": "https://doi.org/10.1007/s00449-024-03044-x",
+   "citations": 25,
+   "authors": [
+    "Nurul Nazirah Saifuddin",
+    "Shaidatul Najihah Matussin",
+    "Qazi Fariduddin",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Bifunctional praseodymium-doped SnS2 thin films for photocatalytic and antibacterial applications",
+   "year": 2024,
+   "month": 2,
+   "venue": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+   "type": "Journal article",
+   "doi": "10.1016/j.colsurfa.2024.133362",
+   "url": "https://doi.org/10.1016/j.colsurfa.2024.133362",
+   "citations": 22,
+   "authors": [
+    "Abdelkader Nebatti Ech‐Chergui",
+    "Farid Bennabi",
+    "M. Isik",
+    "Yasmina Khane",
+    "F.J. García-García",
+    "Ali Sadek Kadari",
+    "M’hamed Guezzoul",
+    "Ashmalina Rahman",
+    "Mohammad Mansoob Khan",
+    "Mehdi Adjdir",
+    "Kouider Driss-Khodja",
+    "Bouhalouane Amrani"
+   ],
+   "oa": true
+  },
+  {
+   "title": "The effect of microwave and muffle furnace-assisted heating on the surface characteristics of teff husk activated carbons: Thermodynamic, isotherm, and kinetics study of Pb removal",
+   "year": 2024,
+   "month": 2,
+   "venue": "Diamond and Related Materials",
+   "type": "Journal article",
+   "doi": "10.1016/j.diamond.2024.110912",
+   "url": "https://doi.org/10.1016/j.diamond.2024.110912",
+   "citations": 11,
+   "authors": [
+    "Khalid Siraj",
+    "James Simon Aballa",
+    "Mohammed Danish",
+    "Tanweer Ahmad",
+    "Mohammad Mansoob Khan",
+    "Shahnaz Majeed",
+    "Birtukan Adane"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Application of nanopesticides and its toxicity evaluation through Drosophila model",
+   "year": 2024,
+   "month": null,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-023-02932-y",
+   "url": "https://doi.org/10.1007/s00449-023-02932-y",
+   "citations": 9,
+   "authors": [
+    "Mohd Fazal Ur Rehman",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "CdS@CuInS2 nanocomposites for enhanced photocatalytic activity under visible light irradiation",
+   "year": 2024,
+   "month": null,
+   "venue": "Materials Science in Semiconductor Processing",
+   "type": "Journal article",
+   "doi": "10.1016/j.mssp.2024.108365",
+   "url": "https://doi.org/10.1016/j.mssp.2024.108365",
+   "citations": 12,
+   "authors": [
+    "Ashmalina Rahman",
+    "Fazlurrahman Khan",
+    "James R. Jennings",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "CuInS2 and CuInS2-based nanostructures as photocatalysts",
+   "year": 2024,
+   "month": null,
+   "venue": "Materials Science in Semiconductor Processing",
+   "type": "Journal article",
+   "doi": "10.1016/j.mssp.2023.107930",
+   "url": "https://doi.org/10.1016/j.mssp.2023.107930",
+   "citations": 47,
+   "authors": [
+    "Ashmalina Rahman",
+    "James R. Jennings",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Effect of CdS loading on the properties and photocatalytic activity of MoS2 nanosheets",
+   "year": 2024,
+   "month": null,
+   "venue": "BMC Chemistry",
+   "type": "Journal article",
+   "doi": "10.1186/s13065-024-01250-y",
+   "url": "https://doi.org/10.1186/s13065-024-01250-y",
+   "citations": 21,
+   "authors": [
+    "Ashmalina Rahman",
+    "Fazlurrahman Khan",
+    "James R. Jennings",
+    "Ai Ling Tan",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Eu(OH)3 and Eu(OH)3-based nanostructures: Synthesis, properties, and uses",
+   "year": 2024,
+   "month": null,
+   "venue": "Materials Today Communications",
+   "type": "Journal article",
+   "doi": "10.1016/j.mtcomm.2024.108775",
+   "url": "https://doi.org/10.1016/j.mtcomm.2024.108775",
+   "citations": 12,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Mohammad Hilni Harunsani",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Ferrite-based photocatalysts: Synthesis, modifications, and key parameters in photocatalytic-related applications",
+   "year": 2024,
+   "month": null,
+   "venue": "Materials Today Communications",
+   "type": "Journal article",
+   "doi": "10.1016/j.mtcomm.2024.109556",
+   "url": "https://doi.org/10.1016/j.mtcomm.2024.109556",
+   "citations": 24,
+   "authors": [
+    "Asfandyar Khan",
+    "Zsolt Valicsek",
+    "Ottó Horváth",
+    "Mohammad Mansoob Khan",
+    "Abdul Wafi"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Ferrites and ferrite-based composites for energy conversion and storage applications",
+   "year": 2024,
+   "month": null,
+   "venue": "Critical Reviews in Solid State and Materials Sciences",
+   "type": "Journal article",
+   "doi": "10.1080/10408436.2023.2272963",
+   "url": "https://doi.org/10.1080/10408436.2023.2272963",
+   "citations": 106,
+   "authors": [
+    "Khadijat Olabisi Abdulwahab",
+    "Mohammad Mansoob Khan",
+    "James R. Jennings"
+   ],
+   "oa": false
+  },
+  {
+   "title": "HAP-Based Nanocomposite and Vitamin C for Sustained Drug Delivery of Amoxicillin",
+   "year": 2024,
+   "month": null,
+   "venue": "BioNanoScience",
+   "type": "Journal article",
+   "doi": "10.1007/s12668-023-01285-w",
+   "url": "https://doi.org/10.1007/s12668-023-01285-w",
+   "citations": 9,
+   "authors": [
+    "Velmurugan Sekar",
+    "Jayaraman Narenkumar",
+    "Aruliah Rajasekar",
+    "Amutha Santhanam",
+    "Palanivel Velmurugan",
+    "Mohammad Mansoob Khan",
+    "Nagaraj Basavegowda"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Hydrothermal-Assisted Synthesis of Fluorescent N-Doped Carbon Dots from the Bark of Prosopis Juliflora for Fe3+ Detection",
+   "year": 2024,
+   "month": null,
+   "venue": "Ssrn",
+   "type": "Other",
+   "doi": "10.2139/ssrn.4826674",
+   "url": "https://doi.org/10.2139/ssrn.4826674",
+   "citations": 0,
+   "authors": [
+    "Kaviyapriya Kirubanithy",
+    "Mohammad Mansoob Khan",
+    "Paulraj Arunkumar",
+    "Amutha Santhanam"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Impact of Co-Doping on the Visible Light-Driven Photocatalytic and Photoelectrochemical Activities of Eu(OH)3",
+   "year": 2024,
+   "month": null,
+   "venue": "ACS Omega",
+   "type": "Journal article",
+   "doi": "10.1021/acsomega.3c10416",
+   "url": "https://doi.org/10.1021/acsomega.3c10416",
+   "citations": 8,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Fazlurrahman Khan",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Influence of Cu doping on the functionality of spray coated SnS2 thin films and its photocatalytic degradation of dyes and antibacterial activity",
+   "year": 2024,
+   "month": null,
+   "venue": "Physica Scripta",
+   "type": "Journal article",
+   "doi": "10.1088/1402-4896/ad3483",
+   "url": "https://doi.org/10.1088/1402-4896/ad3483",
+   "citations": 17,
+   "authors": [
+    "Imane Radja",
+    "Abdelkader Nebatti Ech‐Chergui",
+    "Atef Zekri",
+    "Ashmalina Rahman",
+    "Yasmina Khane",
+    "Farid Bennabi",
+    "Ali Sadek Kadari",
+    "M’hamed Guezzoul",
+    "Adriana Popa",
+    "Kouider Driss-Khodja",
+    "Brahim Aïssa",
+    "Bouhalouane Amrani",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Microwave-assisted synthesis of Ni-doped europium hydroxide for photocatalytic degradation of 4-nitrophenol",
+   "year": 2024,
+   "month": null,
+   "venue": "Heliyon",
+   "type": "Journal article",
+   "doi": "10.1016/j.heliyon.2024.e32719",
+   "url": "https://doi.org/10.1016/j.heliyon.2024.e32719",
+   "citations": 7,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Fazlurrahman Khan",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Microwave-assisted synthesis of ZnS@CuInxSy for photocatalytic degradation of coloured and non-coloured pollutants",
+   "year": 2024,
+   "month": null,
+   "venue": "Scientific Reports",
+   "type": "Journal article",
+   "doi": "10.1038/s41598-024-66100-2",
+   "url": "https://doi.org/10.1038/s41598-024-66100-2",
+   "citations": 10,
+   "authors": [
+    "Ashmalina Rahman",
+    "Fazlurrahman Khan",
+    "James R. Jennings",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "N-doped TiO2 for photocatalytic degradation of colorless and colored organic pollutants under visible light irradiation",
+   "year": 2024,
+   "month": null,
+   "venue": "Transition Metal Chemistry",
+   "type": "Journal article",
+   "doi": "10.1007/s11243-024-00584-9",
+   "url": "https://doi.org/10.1007/s11243-024-00584-9",
+   "citations": 18,
+   "authors": [
+    "Abdul Wafi",
+    "Liszulfah Roza",
+    "Gerald Ensang Timuda",
+    "Demas Aji",
+    "Deni Shidqi Khaerudini",
+    "Nono Darsono",
+    "Nurfina Yudasarı",
+    "Erzsébet Szabó‐Bárdos",
+    "Ottó Horváth",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Nb2O5/BiOCl composite as a visible-light-active photocatalyst for the removal of RhB dye and photoelectrochemical studies",
+   "year": 2024,
+   "month": null,
+   "venue": "Journal of Photochemistry and Photobiology A Chemistry",
+   "type": "Journal article",
+   "doi": "10.1016/j.jphotochem.2023.115177",
+   "url": "https://doi.org/10.1016/j.jphotochem.2023.115177",
+   "citations": 45,
+   "authors": [
+    "Asyiqin Zulkiflee",
+    "Mohammad Mansoob Khan",
+    "Mohd Yusuf Khan",
+    "Abuzar Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Perovskite oxide nanoparticles: Dual role as supports for luminescent Eu (III) ions and photocatalysts for bisphenol degradation",
+   "year": 2024,
+   "month": null,
+   "venue": "Materials Chemistry and Physics",
+   "type": "Journal article",
+   "doi": "10.1016/j.matchemphys.2024.129554",
+   "url": "https://doi.org/10.1016/j.matchemphys.2024.129554",
+   "citations": 3,
+   "authors": [
+    "So Young Kim",
+    "Ju Young Maeng",
+    "Seon Young Hwang",
+    "Hyojin Hwang",
+    "Soohoon Choi",
+    "Jeongkwon Kim",
+    "Mohammad Mansoob Khan",
+    "Youngku Sohn"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Perovskites and perovskite-based heterostructures for photocatalytic energy and environmental applications",
+   "year": 2024,
+   "month": null,
+   "venue": "Journal of Environmental Chemical Engineering",
+   "type": "Journal article",
+   "doi": "10.1016/j.jece.2024.113175",
+   "url": "https://doi.org/10.1016/j.jece.2024.113175",
+   "citations": 45,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Photocatalytic degradation of brilliant green and 4-nitrophenol using Ni-doped Gd(OH)3 nanorods",
+   "year": 2024,
+   "month": null,
+   "venue": "Scientific Reports",
+   "type": "Journal article",
+   "doi": "10.1038/s41598-024-58688-2",
+   "url": "https://doi.org/10.1038/s41598-024-58688-2",
+   "citations": 34,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Fazlurrahman Khan",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Recent advancements in deciphering the therapeutic properties of plant secondary metabolites: phenolics, terpenes, and alkaloids",
+   "year": 2024,
+   "month": null,
+   "venue": "Plant Physiology and Biochemistry",
+   "type": "Journal article",
+   "doi": "10.1016/j.plaphy.2024.108674",
+   "url": "https://doi.org/10.1016/j.plaphy.2024.108674",
+   "citations": 163,
+   "authors": [
+    "Bisma Hilal",
+    "Mohammad Mansoob Khan",
+    "Qazi Fariduddin"
+   ],
+   "oa": false
+  },
+  {
+   "title": "SnS2 and Ho-doped SnS2 thin films: Synergistic, DFT, photocatalytic, and antibacterial studies",
+   "year": 2024,
+   "month": null,
+   "venue": "Ceramics International",
+   "type": "Journal article",
+   "doi": "10.1016/j.ceramint.2024.07.150",
+   "url": "https://doi.org/10.1016/j.ceramint.2024.07.150",
+   "citations": 13,
+   "authors": [
+    "Imane Radja",
+    "Yasmina Khane",
+    "Marisa Carvalho de Oliveira",
+    "E. Longo",
+    "Renan Augusto Pontes Ribeiro",
+    "Mehmit Isik",
+    "Farid Bennabi",
+    "Abdelkader Nebatti Ech‐Chergui",
+    "M’hamed Guezzoul",
+    "Sanat Kumar Mukherjee",
+    "Brahim Aïssa",
+    "Bouhalouane Amrani",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Ultraviolet Light-Assisted Decontamination of Chemical Warfare Agent Simulant 2-Chloroethyl Phenyl Sulfide on Metal-Loaded TiO2/Ti Surfaces",
+   "year": 2024,
+   "month": null,
+   "venue": "Chemistryopen",
+   "type": "Journal article",
+   "doi": "10.1002/open.202300246",
+   "url": "https://doi.org/10.1002/open.202300246",
+   "citations": 3,
+   "authors": [
+    "Hye Ji Jang",
+    "Gaeun Yun",
+    "Huieun Shim",
+    "Seon Young Hwang",
+    "So Young Kim",
+    "Jeongkwon Kim",
+    "Heesoo Jung",
+    "Mohammad Mansoob Khan",
+    "Youngku Sohn"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Visible-light-active type-II heterojunction CdS@Cu0.5Mg2.5SnS4 composites for the efficient removal of brilliant green dye",
+   "year": 2024,
+   "month": null,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/d4nj03782k",
+   "url": "https://doi.org/10.1039/d4nj03782k",
+   "citations": 9,
+   "authors": [
+    "Ashmalina Rahman",
+    "Fazlurrahman Khan",
+    "James R. Jennings",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "α-Glucosidase Inhibitory Activity and Cytotoxicity of CeO2 Nanoparticles Fabricated Using a Mixture of Different Cerium Precursors",
+   "year": 2024,
+   "month": null,
+   "venue": "ACS Omega",
+   "type": "Journal article",
+   "doi": "10.1021/acsomega.3c02524",
+   "url": "https://doi.org/10.1021/acsomega.3c02524",
+   "citations": 15,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Fazlurrahman Khan",
+    "Pathum Chandika",
+    "Mohammad Hilni Harunsani",
+    "Norhayati Ahmad",
+    "Young‐Mog Kim",
+    "Won‐Kyo Jung",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Silver niobate-based photocatalysts: Relevance in dye degradation",
+   "year": 2023,
+   "month": 6,
+   "venue": "Chemical Physics Impact",
+   "type": "Journal article",
+   "doi": "10.1016/j.chphi.2022.100141",
+   "url": "https://doi.org/10.1016/j.chphi.2022.100141",
+   "citations": 13,
+   "authors": [
+    "Chun Mun Khor",
+    "Mohammad Mansoob Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Synthesis and optical properties of II–VI semiconductor quantum dots: a review",
+   "year": 2023,
+   "month": 4,
+   "venue": "Journal of Materials Science: Materials in Electronics",
+   "type": "Journal article",
+   "doi": "10.1007/s10854-023-10435-5",
+   "url": "https://doi.org/10.1007/s10854-023-10435-5",
+   "citations": 70,
+   "authors": [
+    "Yarub Al-Douri",
+    "Mohammad Mansoob Khan",
+    "James R. Jennings"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Optimization of the adsorption of lead (II) by hydroxyapatite using a factorial design: Density functional theory and molecular dynamics",
+   "year": 2023,
+   "month": 3,
+   "venue": "Frontiers in Environmental Science",
+   "type": "Journal article",
+   "doi": "10.3389/fenvs.2023.1112019",
+   "url": "https://doi.org/10.3389/fenvs.2023.1112019",
+   "citations": 34,
+   "authors": [
+    "Larbi El Hammari",
+    "Rinad Hamed",
+    "Khalil Azzaoui",
+    "Shehdeh W. Jodeh",
+    "Souhayla Latifi",
+    "Sanaâ Saoiabi",
+    "Omar Boukra",
+    "Anas Krime",
+    "Ali Boukra",
+    "Ahmed Saoiabi",
+    "Belkheir Hammouti",
+    "Mohammad Mansoob Khan",
+    "Rachid Sabbahi",
+    "Ghadir Hanbali",
+    "Авни Бериша",
+    "Mustapha Taleb",
+    "Omar Dagdag"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Zr-doped AgNbO3 with Enhanced Visible Light-induced Photocatalytic Performance",
+   "year": 2023,
+   "month": 3,
+   "venue": "Results in Chemistry",
+   "type": "Journal article",
+   "doi": "10.1016/j.rechem.2023.100891",
+   "url": "https://doi.org/10.1016/j.rechem.2023.100891",
+   "citations": 6,
+   "authors": [
+    "Chun Mun Khor",
+    "Mohammad Mansoob Khan",
+    "Mohd Yusuf Khan",
+    "Abuzar Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Applications of photocatalytic materials",
+   "year": 2023,
+   "month": 2,
+   "venue": "Theoretical Concepts of Photocatalysis",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-323-95191-3.00003-1",
+   "url": "https://doi.org/10.1016/b978-0-323-95191-3.00003-1",
+   "citations": 4,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Common characterization techniques for photocatalytic materials",
+   "year": 2023,
+   "month": 2,
+   "venue": "Theoretical Concepts of Photocatalysis",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-323-95191-3.00002-x",
+   "url": "https://doi.org/10.1016/b978-0-323-95191-3.00002-x",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Determination of urinary spermine using controlled dissolution of polysulfide modified gold electrode",
+   "year": 2023,
+   "month": 2,
+   "venue": "Microchimica Acta",
+   "type": "Journal article",
+   "doi": "10.1007/s00604-023-05664-8",
+   "url": "https://doi.org/10.1007/s00604-023-05664-8",
+   "citations": 2,
+   "authors": [
+    "K. Sanjeev Kumar",
+    "Subramani Esakkiappa",
+    "A. Esokkiya",
+    "Sudalaimuthu Sudalaimani",
+    "Yusran Sulaiman",
+    "Mohammad Mansoob Khan",
+    "Chinnaiah Jeyabharathi",
+    "Krishnan Giribabu"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Fundamentals and principles of photocatalysis",
+   "year": 2023,
+   "month": 2,
+   "venue": "Theoretical Concepts of Photocatalysis",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-323-95191-3.00008-0",
+   "url": "https://doi.org/10.1016/b978-0-323-95191-3.00008-0",
+   "citations": 5,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Future challenges for photocatalytic materials",
+   "year": 2023,
+   "month": 2,
+   "venue": "Theoretical Concepts of Photocatalysis",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-323-95191-3.00014-6",
+   "url": "https://doi.org/10.1016/b978-0-323-95191-3.00014-6",
+   "citations": 1,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Introduction of photocatalysis and photocatalysts",
+   "year": 2023,
+   "month": 2,
+   "venue": "Theoretical Concepts of Photocatalysis",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-323-95191-3.00005-5",
+   "url": "https://doi.org/10.1016/b978-0-323-95191-3.00005-5",
+   "citations": 4,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Photocatalysis: laboratory to market",
+   "year": 2023,
+   "month": 2,
+   "venue": "Theoretical Concepts of Photocatalysis",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-323-95191-3.00013-4",
+   "url": "https://doi.org/10.1016/b978-0-323-95191-3.00013-4",
+   "citations": 3,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Semiconductors as photocatalysts: UV light active materials",
+   "year": 2023,
+   "month": 2,
+   "venue": "Theoretical Concepts of Photocatalysis",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-323-95191-3.00004-3",
+   "url": "https://doi.org/10.1016/b978-0-323-95191-3.00004-3",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Semiconductors as photocatalysts: visible-light active materials",
+   "year": 2023,
+   "month": 2,
+   "venue": "Theoretical Concepts of Photocatalysis",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-323-95191-3.00007-9",
+   "url": "https://doi.org/10.1016/b978-0-323-95191-3.00007-9",
+   "citations": 7,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Synthesis methods for photocatalytic materials",
+   "year": 2023,
+   "month": 2,
+   "venue": "Theoretical Concepts of Photocatalysis",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-323-95191-3.00006-7",
+   "url": "https://doi.org/10.1016/b978-0-323-95191-3.00006-7",
+   "citations": 2,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Theoretical Concepts of Photocatalysis",
+   "year": 2023,
+   "month": 1,
+   "venue": "Elsevier",
+   "type": "Book",
+   "doi": null,
+   "url": "https://shop.elsevier.com/books/theoretical-concepts-of-photocatalysis/mansoob-khan/978-0-323-95191-3#full-description",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Theoretical Concepts of Photocatalysis",
+   "year": 2023,
+   "month": 1,
+   "venue": "Elsevier",
+   "type": "Book",
+   "doi": "10.1016/c2021-0-01798-3",
+   "url": "https://doi.org/10.1016/c2021-0-01798-3",
+   "citations": 15,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Bifunctional Praseodymium-Doped Sns2 Thin Films for Photocatalytic and Antibacterial Applications",
+   "year": 2023,
+   "month": null,
+   "venue": "Ssrn",
+   "type": "Other",
+   "doi": "10.2139/ssrn.4549141",
+   "url": "https://doi.org/10.2139/ssrn.4549141",
+   "citations": 22,
+   "authors": [
+    "Abdelkader Nebatti Ech‐Chergui",
+    "Farid Bennabi",
+    "M. Isik",
+    "Yasmina Khane",
+    "F.J. García-García",
+    "Ali Sadek Kadari",
+    "M’hamed Guezzoul",
+    "Ashmalina Rahman",
+    "Mohammad Mansoob Khan",
+    "Mehdi Adjdir",
+    "Kouider Driss-Khodja",
+    "Bouhalouane Amrani"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Bismuth oxyhalides: Recent progress and its applications in photocatalysis, hydrogen production, antibacterial studies, and sensors",
+   "year": 2023,
+   "month": null,
+   "venue": "Materials Science in Semiconductor Processing",
+   "type": "Journal article",
+   "doi": "10.1016/j.mssp.2023.107547",
+   "url": "https://doi.org/10.1016/j.mssp.2023.107547",
+   "citations": 55,
+   "authors": [
+    "Asyiqin Zulkiflee",
+    "Mohammad Mansoob Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": false
+  },
+  {
+   "title": "CeO2 and CeO2-based nanomaterials for photocatalytic, antioxidant and antimicrobial activities",
+   "year": 2023,
+   "month": null,
+   "venue": "Journal of Rare Earths",
+   "type": "Journal article",
+   "doi": "10.1016/j.jre.2022.09.003",
+   "url": "https://doi.org/10.1016/j.jre.2022.09.003",
+   "citations": 208,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Mohammad Hilni Harunsani",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "CuxMn1-xFe2O4 as oxygen carrier for chemical looping steam methane reforming",
+   "year": 2023,
+   "month": null,
+   "venue": "Chemical Physics Impact",
+   "type": "Journal article",
+   "doi": "10.1016/j.chphi.2023.100191",
+   "url": "https://doi.org/10.1016/j.chphi.2023.100191",
+   "citations": 7,
+   "authors": [
+    "Mousa Nazari",
+    "Nahid Ghasemi",
+    "Mohammad Mansoob Khan",
+    "Mahsaalsadat Rokni",
+    "Seyed Reza Taghavi"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Doped Ceria Nanomaterials: Preparation, Properties, and Uses",
+   "year": 2023,
+   "month": null,
+   "venue": "ACS Omega",
+   "type": "Journal article",
+   "doi": "10.1021/acsomega.3c01199",
+   "url": "https://doi.org/10.1021/acsomega.3c01199",
+   "citations": 127,
+   "authors": [
+    "Khadijat Olabisi Abdulwahab",
+    "Mohammad Mansoob Khan",
+    "James R. Jennings"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Effect of Pd-Doping Concentrations on the Photocatalytic, Photoelectrochemical, and Photoantibacterial Properties of CeO2",
+   "year": 2023,
+   "month": null,
+   "venue": "Catalysts",
+   "type": "Journal article",
+   "doi": "10.3390/catal13010096",
+   "url": "https://doi.org/10.3390/catal13010096",
+   "citations": 40,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Fazlurrahman Khan",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Effects of NO3−, Cl−, and CH3COO− anions and diethylene glycol on the morphological, structural, antidiabetic, and cell viability properties of CeO2 nanoparticles",
+   "year": 2023,
+   "month": null,
+   "venue": "Rsc Advances",
+   "type": "Journal article",
+   "doi": "10.1039/d3ra02474a",
+   "url": "https://doi.org/10.1039/d3ra02474a",
+   "citations": 10,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Fazlurrahman Khan",
+    "Pathum Chandika",
+    "Mohammad Hilni Harunsani",
+    "Norhayati Ahmad",
+    "Young‐Mog Kim",
+    "Won‐Kyo Jung",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Machine Learning-Assisted Estimation of the Photoantioxidant Activities of Bare, Mg, Cu, and Mg/Cu Dual-Doped ZnO",
+   "year": 2023,
+   "month": null,
+   "venue": "Journal of Physical Chemistry C",
+   "type": "Journal article",
+   "doi": "10.1021/acs.jpcc.3c02479",
+   "url": "https://doi.org/10.1021/acs.jpcc.3c02479",
+   "citations": 3,
+   "authors": [
+    "Ashmalina Rahman",
+    "Owais Ahmed Malik",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Recent development of metal oxides and chalcogenides as antimicrobial agents",
+   "year": 2023,
+   "month": null,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-023-02878-1",
+   "url": "https://doi.org/10.1007/s00449-023-02878-1",
+   "citations": 15,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Shaidatul Najihah Matussin",
+    "Ashmalina Rahman"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Recent developments in tuning the efficacy of different types of sunscreens",
+   "year": 2023,
+   "month": null,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-023-02919-9",
+   "url": "https://doi.org/10.1007/s00449-023-02919-9",
+   "citations": 12,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Sm2O3 and Sm2O3-based nanostructures for photocatalysis, sensors, CO conversion, and biological applications",
+   "year": 2023,
+   "month": null,
+   "venue": "Catalysis Science and Technology",
+   "type": "Journal article",
+   "doi": "10.1039/d2cy01976k",
+   "url": "https://doi.org/10.1039/d2cy01976k",
+   "citations": 37,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Shaidatul Najihah Matussin"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Sn-doped BiOCl for photoelectrochemical activities and photocatalytic dye degradation under visible light",
+   "year": 2023,
+   "month": null,
+   "venue": "Heliyon",
+   "type": "Journal article",
+   "doi": "10.1016/j.heliyon.2023.e21270",
+   "url": "https://doi.org/10.1016/j.heliyon.2023.e21270",
+   "citations": 34,
+   "authors": [
+    "Asyiqin Zulkiflee",
+    "Mohammad Mansoob Khan",
+    "Abuzar Khan",
+    "Mohd Yusuf Khan",
+    "Hatim Dafalla",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Sunlight harvesting for heat generation inside water using biosynthesized magnetite nanoparticles",
+   "year": 2023,
+   "month": null,
+   "venue": "Biomaterials Science",
+   "type": "Journal article",
+   "doi": "10.1039/d2bm02132c",
+   "url": "https://doi.org/10.1039/d2bm02132c",
+   "citations": 13,
+   "authors": [
+    "Azeez A. Barzinjy",
+    "Samir Mustafa Hamad",
+    "Vinos Mushir Faris",
+    "Ahmed Fattah Abdulrahman",
+    "Mohammad Mansoob Khan",
+    "Amir Abdulrahman Ahmad"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Visible-Light-Induced Photocatalytic and Photoantibacterial Activities of Co-Doped CeO2",
+   "year": 2023,
+   "month": null,
+   "venue": "ACS Omega",
+   "type": "Journal article",
+   "doi": "10.1021/acsomega.2c07058",
+   "url": "https://doi.org/10.1021/acsomega.2c07058",
+   "citations": 101,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Fazlurrahman Khan",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Zirconium-doped BiOCl for enhanced visible light-induced photocatalytic degradation of RhB dye and photoelectrochemical studies",
+   "year": 2023,
+   "month": null,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/d3nj02294c",
+   "url": "https://doi.org/10.1039/d3nj02294c",
+   "citations": 17,
+   "authors": [
+    "Asyiqin Zulkiflee",
+    "Mohammad Mansoob Khan",
+    "Mohd Yusuf Khan",
+    "Abuzar Khan",
+    "Aniz Chennampilly Ummer",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Ag3PO4 and Ag3PO4–based visible light active photocatalysts: Recent progress, synthesis, and photocatalytic applications",
+   "year": 2022,
+   "month": 12,
+   "venue": "Catalysis Communications",
+   "type": "Journal article",
+   "doi": "10.1016/j.catcom.2022.106556",
+   "url": "https://doi.org/10.1016/j.catcom.2022.106556",
+   "citations": 80,
+   "authors": [
+    "Amiezatul Amirulsyafiee",
+    "Mohammad Mansoob Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Spray pyrolysis-assisted fabrication of Eu-doped ZnO thin films for antibacterial activities under visible light irradiation",
+   "year": 2022,
+   "month": 10,
+   "venue": "Chemical Papers",
+   "type": "Journal article",
+   "doi": "10.1007/s11696-022-02543-z",
+   "url": "https://doi.org/10.1007/s11696-022-02543-z",
+   "citations": 27,
+   "authors": [
+    "Abdelkader Nebatti Ech‐Chergui",
+    "Ali Sadek Kadari",
+    "Mohammad Mansoob Khan",
+    "Adriana Popad",
+    "Yasmina Khane",
+    "M’hamed Guezzoul",
+    "Cristian Leoștean",
+    "Dan Silipas",
+    "Lucian Barbu–Tudoran",
+    "Abdelhalim Zoukel",
+    "Farid Bennabi",
+    "Kouider Driss-Khodja",
+    "Bouhalouane Amrani"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Zr-doped silver niobates for photocatalytic degradation of methylene blue and Rhodamine B dyes",
+   "year": 2022,
+   "month": 10,
+   "venue": "Optik",
+   "type": "Journal article",
+   "doi": "10.1016/j.ijleo.2022.169732",
+   "url": "https://doi.org/10.1016/j.ijleo.2022.169732",
+   "citations": 14,
+   "authors": [
+    "Chun Mun Khor",
+    "Mohammad Mansoob Khan",
+    "Mohd Yusuf Khan",
+    "Mohd Yusuf Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Enhanced photocatalytic activity of La and Zr-codoped AgNbO3 for rhodamine B and methylene blue degradation",
+   "year": 2022,
+   "month": 9,
+   "venue": "Journal of Saudi Chemical Society",
+   "type": "Journal article",
+   "doi": "10.1016/j.jscs.2022.101534",
+   "url": "https://doi.org/10.1016/j.jscs.2022.101534",
+   "citations": 20,
+   "authors": [
+    "Chun Mun Khor",
+    "Mohammad Mansoob Khan",
+    "Mohd Yusuf Khan",
+    "Abuzar Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Evaluation of photoantioxidant activities of SnO2, doped SnO2, and dual-doped SnO2 using artificial neural networks and neuro-fuzzy system",
+   "year": 2022,
+   "month": 8,
+   "venue": "Materials Today Communications",
+   "type": "Journal article",
+   "doi": "10.1016/j.mtcomm.2022.103882",
+   "url": "https://doi.org/10.1016/j.mtcomm.2022.103882",
+   "citations": 6,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Owais Ahmed Malik",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "La, Zr co-doped Ag3PO4 for enhanced visible-light photocatalytic degradation of dyes and Cr(VI) photoreduction",
+   "year": 2022,
+   "month": 8,
+   "venue": "Chemical Physics Impact",
+   "type": "Journal article",
+   "doi": "10.1016/j.chphi.2022.100102",
+   "url": "https://doi.org/10.1016/j.chphi.2022.100102",
+   "citations": 15,
+   "authors": [
+    "Amiezatul Amirulsyafiee",
+    "Mohammad Mansoob Khan",
+    "Mohd Yusuf Khan",
+    "Abuzar Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Microplastic accumulation in oysters along a Bornean coastline (Brunei, South China Sea): Insights into local sources and sinks",
+   "year": 2022,
+   "month": 4,
+   "venue": "Marine Pollution Bulletin",
+   "type": "Journal article",
+   "doi": "10.1016/j.marpolbul.2022.113478",
+   "url": "https://doi.org/10.1016/j.marpolbul.2022.113478",
+   "citations": 28,
+   "authors": [
+    "Huan Chiao Lee",
+    "Mohammad Mansoob Khan",
+    "Amal 'Aqilah Yusli",
+    "Nor Asmaa' Jaya",
+    "David J. Marshall"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Role of Anions in the Synthesis and Crystal Growth of Selected Semiconductors",
+   "year": 2022,
+   "month": 4,
+   "venue": "Frontiers in Chemistry",
+   "type": "Journal article",
+   "doi": "10.3389/fchem.2022.881518",
+   "url": "https://doi.org/10.3389/fchem.2022.881518",
+   "citations": 38,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Ashmalina Rahman",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Chalcogenides for visible light-induced photocatalysis",
+   "year": 2022,
+   "month": 1,
+   "venue": "Nanostructured Materials for Visible Light Photocatalysis",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-12-823018-3.00019-1",
+   "url": "https://doi.org/10.1016/b978-0-12-823018-3.00019-1",
+   "citations": 6,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "???????Enhanced photocatalytic activity of La and Zr-codoped AgNbO3 for rhodamine B and methylene blue degradation",
+   "year": 2022,
+   "month": null,
+   "venue": "Journal of Saudi Chemical Society",
+   "type": "Journal article",
+   "doi": "10.1016/j.jscs.2022.1015341319-6103",
+   "url": "https://doi.org/10.1016/j.jscs.2022.1015341319-6103",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Chalcogenides and Chalcogenide-Based Heterostructures as Photocatalysts for Water Splitting",
+   "year": 2022,
+   "month": null,
+   "venue": "Catalysts",
+   "type": "Journal article",
+   "doi": "10.3390/catal12111338",
+   "url": "https://doi.org/10.3390/catal12111338",
+   "citations": 44,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Ashmalina Rahman"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Combined experimental and theoretical investigation of electronic properties of nitrides",
+   "year": 2022,
+   "month": null,
+   "venue": "Experimental and Theoretical Nanotechnology",
+   "type": "Journal article",
+   "doi": "10.56053/6.3.69",
+   "url": "https://doi.org/10.56053/6.3.69",
+   "citations": 0,
+   "authors": [
+    "N. N. Jandow"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Comprehensive review on carbon nanotubes embedded in different metal and polymer matrix: fabrications and applications",
+   "year": 2022,
+   "month": null,
+   "venue": "Critical Reviews in Solid State and Materials Sciences",
+   "type": "Journal article",
+   "doi": "10.1080/10408436.2021.1935713",
+   "url": "https://doi.org/10.1080/10408436.2021.1935713",
+   "citations": 81,
+   "authors": [
+    "Fahad Saleem Ahmed Khan",
+    "Nabisab Mujawar Mubarak",
+    "Mohammad Khalid",
+    "Mohammad Mansoob Khan",
+    "Yie Hua Tan",
+    "Rashmi Walvekar",
+    "E.C. Abdullah",
+    "Rama Rao Karri",
+    "Muhammad Ekhlasur Rahman"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Effect of La3+-doping in silver niobate for enhanced photocatalytic degradation of methylene blue and Rhodamine B",
+   "year": 2022,
+   "month": null,
+   "venue": "Chemical Physics Impact",
+   "type": "Journal article",
+   "doi": "10.1016/j.chphi.2022.100082",
+   "url": "https://doi.org/10.1016/j.chphi.2022.100082",
+   "citations": 15,
+   "authors": [
+    "Chun Mun Khor",
+    "Mohammad Mansoob Khan",
+    "Mohd Yusuf Khan",
+    "Abuzar Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Effect of Zr doping on photoantioxidant and antibiofilm properties of CeO2 NPs fabricated using aqueous leaf extract of Pometia pinnata",
+   "year": 2022,
+   "month": null,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-021-02656-x",
+   "url": "https://doi.org/10.1007/s00449-021-02656-x",
+   "citations": 24,
+   "authors": [
+    "Siti Najihah Naidi",
+    "Fazlurrahman Khan",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Influence of Zr doping on Ag3PO4 for photocatalytic degradation of dyes and Cr(VI) reduction under visible light irradiation",
+   "year": 2022,
+   "month": null,
+   "venue": "Materials Chemistry and Physics",
+   "type": "Journal article",
+   "doi": "10.1016/j.matchemphys.2022.126673",
+   "url": "https://doi.org/10.1016/j.matchemphys.2022.126673",
+   "citations": 23,
+   "authors": [
+    "Amiezatul Amirulsyafiee",
+    "Mohammad Mansoob Khan",
+    "Abuzar Khan",
+    "Mohd Yusuf Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": false
+  },
+  {
+   "title": "La-substituted AgNbO3 for photocatalytic degradation of Rhodamine B and methylene blue dyes",
+   "year": 2022,
+   "month": null,
+   "venue": "Reaction Kinetics Mechanisms and Catalysis",
+   "type": "Journal article",
+   "doi": "10.1007/s11144-022-02199-6",
+   "url": "https://doi.org/10.1007/s11144-022-02199-6",
+   "citations": 16,
+   "authors": [
+    "Chun Mun Khor",
+    "Mohammad Mansoob Khan",
+    "Abuzar Khan",
+    "Mohd Yusuf Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Molybdenum Disulfide-Based Nanomaterials for Visible-Light-Induced Photocatalysis",
+   "year": 2022,
+   "month": null,
+   "venue": "ACS Omega",
+   "type": "Journal article",
+   "doi": "10.1021/acsomega.2c01314",
+   "url": "https://doi.org/10.1021/acsomega.2c01314",
+   "citations": 142,
+   "authors": [
+    "Ashmalina Rahman",
+    "James R. Jennings",
+    "Ai Ling Tan",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Phytogenic fabrication of CeO2@SnO2 heterojunction nanostructures for antioxidant studies",
+   "year": 2022,
+   "month": null,
+   "venue": "Chemical Papers",
+   "type": "Journal article",
+   "doi": "10.1007/s11696-021-01977-1",
+   "url": "https://doi.org/10.1007/s11696-021-01977-1",
+   "citations": 12,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Recent Progress of Metal-Organic Frameworks and Metal-Organic Frameworks-Based Heterostructures as Photocatalysts",
+   "year": 2022,
+   "month": null,
+   "venue": "Nanomaterials",
+   "type": "Journal article",
+   "doi": "10.3390/nano12162820",
+   "url": "https://doi.org/10.3390/nano12162820",
+   "citations": 65,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Ashmalina Rahman",
+    "Shaidatul Najihah Matussin"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Recent progress of phytogenic synthesis of ZnO, SnO2, and CeO2 nanomaterials",
+   "year": 2022,
+   "month": null,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-022-02713-z",
+   "url": "https://doi.org/10.1007/s00449-022-02713-z",
+   "citations": 27,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Shaidatul Najihah Matussin",
+    "Ashmalina Rahman"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Silica-based polymer nanocomposites and their biomedical applications",
+   "year": 2022,
+   "month": null,
+   "venue": "Smart Polymer Nanocomposites Design Synthesis Functionalization Properties and Applications",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-323-91611-0.00006-2",
+   "url": "https://doi.org/10.1016/b978-0-323-91611-0.00006-2",
+   "citations": 6,
+   "authors": [
+    "Manahil Bakhtiar",
+    "Farman Ali",
+    "Nisar Ali",
+    "Shaukat Saeed",
+    "Mohammad Mansoob Khan",
+    "Sami Rtimi",
+    "Pau Loke Show",
+    "Muhammad Bilal"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Structural, Morphological and Optical Studies of CeO2 Nanoparticles Synthesized Using Aqueous Leaf Extract of Pometia pinnata",
+   "year": 2022,
+   "month": null,
+   "venue": "Bionanoscience",
+   "type": "Journal article",
+   "doi": "10.1007/s12668-022-00956-4",
+   "url": "https://doi.org/10.1007/s12668-022-00956-4",
+   "citations": 29,
+   "authors": [
+    "Siti Najihah Naidi",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Understanding and combating COVID-19 using the biology and chemistry of SARS-CoV-2",
+   "year": 2022,
+   "month": null,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-022-02788-8",
+   "url": "https://doi.org/10.1007/s00449-022-02788-8",
+   "citations": 6,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Yea-Wen Goh",
+    "Norhayati Ahmad",
+    "Monowarul Mobin Siddique"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Visible light active La-doped Ag3PO4 for photocatalytic degradation of dyes and reduction of Cr(VI)",
+   "year": 2022,
+   "month": null,
+   "venue": "Solid State Sciences",
+   "type": "Journal article",
+   "doi": "10.1016/j.solidstatesciences.2022.106950",
+   "url": "https://doi.org/10.1016/j.solidstatesciences.2022.106950",
+   "citations": 30,
+   "authors": [
+    "Amiezatul Amirulsyafiee",
+    "Mohammad Mansoob Khan",
+    "Abuzar Khan",
+    "Abuzar Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": false
+  },
+  {
+   "title": "ZnO-based antimicrobial coatings for biomedical applications",
+   "year": 2022,
+   "month": null,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-022-02733-9",
+   "url": "https://doi.org/10.1007/s00449-022-02733-9",
+   "citations": 207,
+   "authors": [
+    "Vinda Puspasari",
+    "Aga Ridhova",
+    "Angga Hermawan",
+    "Muhamad Ikhlasul Amal",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Zr, La-dual doped silver niobate for photocatalytic degradation of dyes under visible light irradiation",
+   "year": 2022,
+   "month": null,
+   "venue": "Heliyon",
+   "type": "Journal article",
+   "doi": "10.1016/j.heliyon.2022.e10264",
+   "url": "https://doi.org/10.1016/j.heliyon.2022.e10264",
+   "citations": 15,
+   "authors": [
+    "Chun Mun Khor",
+    "Mohammad Mansoob Khan",
+    "Abuzar Khan",
+    "Mohd Yusuf Khan",
+    "Mohammad Hilni Harunsani"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Chalcogenides as photocatalysts",
+   "year": 2021,
+   "month": 11,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/d1nj04346c",
+   "url": "https://doi.org/10.1039/d1nj04346c",
+   "citations": 164,
+   "authors": [
+    "Ashmalina Rahman",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Nanomaterial-based biosensors for COVID-19 detection",
+   "year": 2021,
+   "month": 11,
+   "venue": "Critical Reviews in Solid State and Materials Sciences",
+   "type": "Journal article",
+   "doi": "10.1080/10408436.2021.1989665",
+   "url": "https://doi.org/10.1080/10408436.2021.1989665",
+   "citations": 10,
+   "authors": [
+    "Yarub Al-Douri",
+    "Mohammad Mansoob Khan",
+    "James R. Jennings",
+    "Alaa Farag Abd El-Rehim"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Synergistic Extraction of Europium (III) using Di-n-Butylsulfoxide and Picrolonic Acid",
+   "year": 2021,
+   "month": 6,
+   "venue": "Combinatorial Chemistry & High Throughput Screening",
+   "type": "Journal article",
+   "doi": "10.2174/1386207324666210210105511",
+   "url": "https://doi.org/10.2174/1386207324666210210105511",
+   "citations": 0,
+   "authors": [
+    "Farid Menaa",
+    "Wajid Ur Rehman",
+    "Srosh Fazil",
+    "Khurram Liaqat",
+    "Muhammad Haleem Khan",
+    "Mohammad Mansoob Khan",
+    "Sirajul Haq",
+    "Muhammad Sajid",
+    "Muhammad Farooq",
+    "Bouzid Menaa",
+    "Muhammad Hafeez"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Zinc oxide-based nanomaterials for photocatalytic degradation of environmental and agricultural pollutants",
+   "year": 2021,
+   "month": 5,
+   "venue": "Zinc-Based Nanostructures for Environmental and Agricultural Applications",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-12-822836-4.00028-8",
+   "url": "https://doi.org/10.1016/b978-0-12-822836-4.00028-8",
+   "citations": 2,
+   "authors": [
+    "Ashmalina Rahman",
+    "Ai Ling Tan",
+    "Mohammad Hilni Harunsani",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Advances in chalcogenides and chalcogenides-based nanomaterials such as sulfides, selenides, and tellurides",
+   "year": 2021,
+   "month": 4,
+   "venue": "Chalcogenide-based Nanomaterials as Photocatalysts",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-12-820498-6.00002-0",
+   "url": "https://doi.org/10.1016/b978-0-12-820498-6.00002-0",
+   "citations": 31,
+   "authors": [
+    "Ersan Y. Muslih",
+    "Badrul Munir",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Chalcogenide-Based Nanomaterials as Photocatalysts",
+   "year": 2021,
+   "month": 4,
+   "venue": "Elsevier",
+   "type": "Book",
+   "doi": null,
+   "url": "https://www.elsevier.com/books/chalcogenide-based-nanomaterials-as-photocatalysts/mansoob-khan/978-0-12-820498-6",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Green synthesis of CeO2 and Zr/Sn-dual doped CeO2 nanoparticles with photoantioxidant and antibiofilm activities",
+   "year": 2021,
+   "month": 4,
+   "venue": "Biomaterials Science",
+   "type": "Journal article",
+   "doi": "10.1039/d1bm00298h",
+   "url": "https://doi.org/10.1039/d1bm00298h",
+   "citations": 62,
+   "authors": [
+    "Siti Najihah Naidi",
+    "Fazlurrahman Khan",
+    "Ai Ling Tan",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Introduction and fundamentals of chalcogenides and chalcogenides-based nanomaterials",
+   "year": 2021,
+   "month": 4,
+   "venue": "Chalcogenide-based Nanomaterials as Photocatalysts",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-12-820498-6.00001-9",
+   "url": "https://doi.org/10.1016/b978-0-12-820498-6.00001-9",
+   "citations": 33,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Photoantioxidant and antibiofilm studies of green synthesized Sn-doped CeO2 nanoparticles using aqueous leaf extracts of Pometia pinnata",
+   "year": 2021,
+   "month": 4,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/d1nj00416f",
+   "url": "https://doi.org/10.1039/d1nj00416f",
+   "citations": 52,
+   "authors": [
+    "Siti Najihah Naidi",
+    "Fazlurrahman Khan",
+    "Ai Ling Tan",
+    "Mohammad Hilni Harunsani",
+    "Young‐Mog Kim",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Photocatalytic N2 fixation using chalcogenide-based nanomaterials in Chalcogenide-based Nanomaterials as Photocatalysts",
+   "year": 2021,
+   "month": 4,
+   "venue": "Chalcogenide-Based Nanomaterials as Photocatalysts",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-12-820498-6.00012-3",
+   "url": "https://doi.org/10.1016/b978-0-12-820498-6.00012-3",
+   "citations": 2,
+   "authors": [
+    "Yasser M. A. Mohamed",
+    "Hossam A. El Nazer",
+    "Elzahraa A. Elgohary",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Smart polymer biomaterials for tissue engineering",
+   "year": 2021,
+   "month": 3,
+   "venue": "Smart Polymer Nanocomposites",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-12-819961-9.00001-3",
+   "url": "https://doi.org/10.1016/b978-0-12-819961-9.00001-3",
+   "citations": 2,
+   "authors": [
+    "Haryanto Haryanto",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Green and Phytogenic Fabrication of Co-Doped SnO2 Using Aqueous Leaf Extract of Tradescantia spathacea for Photoantioxidant and Photocatalytic Studies",
+   "year": 2021,
+   "month": 1,
+   "venue": "BioNanoScience",
+   "type": "Journal article",
+   "doi": "10.1007/s12668-020-00820-3",
+   "url": "https://doi.org/10.1007/s12668-020-00820-3",
+   "citations": 20,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Ai Ling Tan",
+    "Mohammad Hilni Harunsani",
+    "Moo Hwan Cho",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Antioxidant and antibacterial studies of phytogenic fabricated ZnO using aqueous leaf extract of Ziziphus mauritiana Lam",
+   "year": 2021,
+   "month": null,
+   "venue": "Chemical Papers",
+   "type": "Journal article",
+   "doi": "10.1007/s11696-021-01553-7",
+   "url": "https://doi.org/10.1007/s11696-021-01553-7",
+   "citations": 40,
+   "authors": [
+    "Ashmalina Rahman",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Norhayati Ahmad",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Chalcogenide-Based Nanomaterials as Photocatalysts",
+   "year": 2021,
+   "month": null,
+   "venue": "Chalcogenide Based Nanomaterials as Photocatalysts",
+   "type": "Book",
+   "doi": "10.1016/c2019-0-01819-5",
+   "url": "https://doi.org/10.1016/c2019-0-01819-5",
+   "citations": 72,
+   "authors": [
+    "Khan, Mohammad Mansoob"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Effect of Mg doping on ZnO fabricated using aqueous leaf extract of Ziziphus mauritiana Lam. for antioxidant and antibacterial studies",
+   "year": 2021,
+   "month": null,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-020-02496-1",
+   "url": "https://doi.org/10.1007/s00449-020-02496-1",
+   "citations": 68,
+   "authors": [
+    "Ashmalina Rahman",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Norhayati Ahmad",
+    "Mirabbos Hojamberdiev",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Green-synthesized CeO2nanoparticles for photocatalytic, antimicrobial, antioxidant and cytotoxicity activities",
+   "year": 2021,
+   "month": null,
+   "venue": "Journal of Materials Chemistry B",
+   "type": "Journal article",
+   "doi": "10.1039/d1tb00248a",
+   "url": "https://doi.org/10.1039/d1tb00248a",
+   "citations": 172,
+   "authors": [
+    "Siti Najihah Naidi",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Influence of Mg and Cu dual-doping on phytogenic synthesized ZnO for light induced antibacterial and radical scavenging activities",
+   "year": 2021,
+   "month": null,
+   "venue": "Materials Science in Semiconductor Processing",
+   "type": "Journal article",
+   "doi": "10.1016/j.mssp.2021.105761",
+   "url": "https://doi.org/10.1016/j.mssp.2021.105761",
+   "citations": 60,
+   "authors": [
+    "Ashmalina Rahman",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Norhayati Ahmad",
+    "Bong‐Ki Min",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Ion-Pair Facilitated Non-Enzymatic Electrochemical Sensing of Cadaverine and Putrescine",
+   "year": 2021,
+   "month": null,
+   "venue": "Journal of the Electrochemical Society",
+   "type": "Journal article",
+   "doi": "10.1149/1945-7111/abf263",
+   "url": "https://doi.org/10.1149/1945-7111/abf263",
+   "citations": 10,
+   "authors": [
+    "K. Sanjeev Kumar",
+    "M. Charles Arockiaraj",
+    "A. Esokkiya",
+    "Sudalaimuthu Sudalaimani",
+    "Shekhar Hansda",
+    "Chinnaiah Sivakumar",
+    "Yusran Sulaiman",
+    "Mohammad Mansoob Khan",
+    "Krishnan Giribabu"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Preface",
+   "year": 2021,
+   "month": null,
+   "venue": "Chalcogenide Based Nanomaterials as Photocatalysts",
+   "type": "Book",
+   "doi": "10.1016/b978-0-12-820498-6.00019-6",
+   "url": "https://doi.org/10.1016/b978-0-12-820498-6.00019-6",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Principles and mechanisms of photocatalysis",
+   "year": 2021,
+   "month": null,
+   "venue": "Photocatalytic Systems by Design Materials Mechanisms and Applications",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-12-820532-7.00008-4",
+   "url": "https://doi.org/10.1016/b978-0-12-820532-7.00008-4",
+   "citations": 26,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Suppression of hyphal formation and virulence of Candida albicans by natural and synthetic compounds",
+   "year": 2021,
+   "month": null,
+   "venue": "Biofouling",
+   "type": "Journal article",
+   "doi": "10.1080/08927014.2021.1948538",
+   "url": "https://doi.org/10.1080/08927014.2021.1948538",
+   "citations": 38,
+   "authors": [
+    "Fazlurrahman Khan",
+    "Nilushi Indika Bamunuarachchi",
+    "Nazia Tabassum",
+    "Du‐Min Jo",
+    "Mohammad Mansoob Khan",
+    "Young‐Mog Kim"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Visible light induced antibacterial and antioxidant studies of ZnO and Cu-doped ZnO fabricated using aqueous leaf extract of Ziziphus mauritiana Lam",
+   "year": 2021,
+   "month": null,
+   "venue": "Journal of Environmental Chemical Engineering",
+   "type": "Journal article",
+   "doi": "10.1016/j.jece.2021.105481",
+   "url": "https://doi.org/10.1016/j.jece.2021.105481",
+   "citations": 61,
+   "authors": [
+    "Ashmalina Rahman",
+    "Ai Ling Tan",
+    "Mohammad Hilni Harunsani",
+    "Norhayati Ahmad",
+    "Mirabbos Hojamberdiev",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Zinc oxide and zinc oxide-based nanostructures: biogenic and phytogenic synthesis, properties and applications",
+   "year": 2021,
+   "month": null,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-021-02530-w",
+   "url": "https://doi.org/10.1007/s00449-021-02530-w",
+   "citations": 128,
+   "authors": [
+    "Ashmalina Rahman",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Phytogenic fabrication of ZnO and gold decorated ZnO nanoparticles for photocatalytic degradation of Rhodamine B",
+   "year": 2020,
+   "month": 11,
+   "venue": "Journal of Environmental Chemical Engineering",
+   "type": "Journal article",
+   "doi": "10.1016/j.jece.2020.104725",
+   "url": "https://doi.org/10.1016/j.jece.2020.104725",
+   "citations": 298,
+   "authors": [
+    "Munir Ahmad",
+    "Wajid Ur Rehman",
+    "Mohammad Mansoob Khan",
+    "Muhammad Tauseef Qureshi",
+    "Anadil Gul",
+    "Sirajul Haq",
+    "Rizwan Ullah",
+    "Abdur Rab",
+    "Farid Menaa"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Effect of Co2+ and Ni2+ co-doping on SnO2 synthesized via phytogenic method for photoantioxidant studies and photoconversion of 4-nitrophenol",
+   "year": 2020,
+   "month": 9,
+   "venue": "Materials Today Communications",
+   "type": "Journal article",
+   "doi": "10.1016/j.mtcomm.2020.101677",
+   "url": "https://doi.org/10.1016/j.mtcomm.2020.101677",
+   "citations": 34,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Moo Hwan Cho",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Effect of Ni-doping on properties of the SnO2 synthesized using Tradescantia spathacea for photoantioxidant studies",
+   "year": 2020,
+   "month": 9,
+   "venue": "Materials Chemistry and Physics",
+   "type": "Journal article",
+   "doi": "10.1016/j.matchemphys.2020.123293",
+   "url": "https://doi.org/10.1016/j.matchemphys.2020.123293",
+   "citations": 54,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Ai Ling Tan",
+    "Mohammad Hilni Harunsani",
+    "Akbar Mohammad",
+    "Moo Hwan Cho",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Fabrication of co‐PVDF/modacrylic/SiO2 nanofibrous membrane: Composite separator for safe and high performance lithium‐ion batteries",
+   "year": 2020,
+   "month": 8,
+   "venue": "Journal of Applied Polymer Science",
+   "type": "Journal article",
+   "doi": "10.1002/app.49835",
+   "url": "https://doi.org/10.1002/app.49835",
+   "citations": 17,
+   "authors": [
+    "Adel Al Rai",
+    "Elena Stojanovska",
+    "Yasin Akgül",
+    "Mohammad Mansoob Khan",
+    "Ali Kılıç",
+    "Şafak Yılmaz"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Assessment of nitrate, nitrite and chloride in selected cured meat products and their exposure to school children in Brunei Darussalam",
+   "year": 2020,
+   "month": 5,
+   "venue": "Journal of Food Composition and Analysis",
+   "type": "Journal article",
+   "doi": "10.1016/j.jfca.2020.103520",
+   "url": "https://doi.org/10.1016/j.jfca.2020.103520",
+   "citations": 21,
+   "authors": [
+    "Nurul Farhanah Haji Abd Hamid",
+    "Mohammad Mansoob Khan",
+    "Lee Hoon Lim"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Photoantioxidant studies of the SnO2 nanoparticles fabricated using aqueous leaf extract of Tradescantia spathacea",
+   "year": 2020,
+   "month": 5,
+   "venue": "Solid State Sciences",
+   "type": "Journal article",
+   "doi": "10.1016/j.solidstatesciences.2020.106279",
+   "url": "https://doi.org/10.1016/j.solidstatesciences.2020.106279",
+   "citations": 54,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Akbar Mohammad",
+    "Moo Hwan Cho",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Antibacterial activities of zinc oxide and Mn-doped zinc oxide synthesized using Melastoma malabathricum (L.) leaf extract.",
+   "year": 2020,
+   "month": 4,
+   "venue": "Bioprocess and biosystems engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-020-02343-3",
+   "url": "https://doi.org/10.1007/s00449-020-02343-3",
+   "citations": 70,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Mirabbos Hojamberdiev",
+    "Syafiqah Azamay",
+    "Norhayati Ahmad"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Nitrogen-doped TiO2 fibers for visible-light-induced photocatalytic activities",
+   "year": 2020,
+   "month": 4,
+   "venue": "Ceramics International",
+   "type": "Journal article",
+   "doi": "10.1016/j.ceramint.2020.03.250",
+   "url": "https://doi.org/10.1016/j.ceramint.2020.03.250",
+   "citations": 69,
+   "authors": [
+    "Mehmet D. Çalişir",
+    "Melike Güngör",
+    "Ali Demir",
+    "Ali Kılıç",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Editorial Team",
+   "year": 2020,
+   "month": 3,
+   "venue": "IOP Conference Series: Materials Science and Engineering",
+   "type": "Journal article",
+   "doi": "10.1088/1757-899x/771/1/011002",
+   "url": "https://doi.org/10.1088/1757-899x/771/1/011002",
+   "citations": 0,
+   "authors": [],
+   "oa": true
+  },
+  {
+   "title": "Antibacterial Studies of ZnO and Cu-Doped ZnO Nanoparticles Synthesized Using Aqueous Leaf Extract of Stachytarpheta jamaicensis",
+   "year": 2020,
+   "month": null,
+   "venue": "Bionanoscience",
+   "type": "Journal article",
+   "doi": "10.1007/s12668-020-00775-5",
+   "url": "https://doi.org/10.1007/s12668-020-00775-5",
+   "citations": 76,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Mirabbos Hojamberdiev",
+    "Yap Ai Poi",
+    "Norhayati Ahmad"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Antibiofilm action of zno, sno2 and ceo2 nanoparticles towards gram-positive biofilm forming pathogenic bacteria",
+   "year": 2020,
+   "month": null,
+   "venue": "Recent Patents on Nanotechnology",
+   "type": "Journal article",
+   "doi": "10.2174/1872210514666200313121953",
+   "url": "https://doi.org/10.2174/1872210514666200313121953",
+   "citations": 30,
+   "authors": [
+    "Fazlurrahman Khan",
+    "Jang-Won Lee",
+    "Dung Thuy Nguyen Pham",
+    "Mohammad Mansoob Khan",
+    "Seulki Park",
+    "Il‐Shik Shin",
+    "Young‐Mog Kim"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Plant-Extract-Mediated SnO2 Nanoparticles: Synthesis and Applications",
+   "year": 2020,
+   "month": null,
+   "venue": "ACS Sustainable Chemistry and Engineering",
+   "type": "Journal article",
+   "doi": "10.1021/acssuschemeng.9b06398",
+   "url": "https://doi.org/10.1021/acssuschemeng.9b06398",
+   "citations": 190,
+   "authors": [
+    "Shaidatul Najihah Matussin",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Selected nanotechnologies and nanostructures for drug delivery, nanomedicine and cure",
+   "year": 2020,
+   "month": null,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-020-02330-8",
+   "url": "https://doi.org/10.1007/s00449-020-02330-8",
+   "citations": 92,
+   "authors": [
+    "Azhar Ullah Khan",
+    "M. Rizwan Khan",
+    "Moo Hwan Cho",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Metal Oxide–Graphene and Metal–Graphene Nanocomposites for Energy and Environment",
+   "year": 2019,
+   "month": 12,
+   "venue": "Functionalized Graphene Nanocomposites and their Derivatives",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-12-814548-7.00014-3",
+   "url": "https://doi.org/10.1016/b978-0-12-814548-7.00014-3",
+   "citations": 9,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Synergistic effect of g-C3N4, Ni(OH)2 and halloysite in nanocomposite photocatalyst on efficient photocatalytic hydrogen generation",
+   "year": 2019,
+   "month": 8,
+   "venue": "Renewable Energy",
+   "type": "Journal article",
+   "doi": "10.1016/j.renene.2019.01.103",
+   "url": "https://doi.org/10.1016/j.renene.2019.01.103",
+   "citations": 60,
+   "authors": [
+    "Mirabbos Hojamberdiev",
+    "Mohammad Mansoob Khan",
+    "Zukhra Chingizovna Kadirova",
+    "Kenta Kawashima",
+    "Kunio Yubuta",
+    "Katsuya Teshima",
+    "Ralf Riedel",
+    "Masashi Hasegawa"
+   ],
+   "oa": true
+  },
+  {
+   "title": "CeO2-based nanocomposites: An advanced alternative to TiO2 and ZnO in sunscreens",
+   "year": 2019,
+   "month": 5,
+   "venue": "Materials Express",
+   "type": "Journal article",
+   "doi": null,
+   "url": "https://www.ingentaconnect.com/content/asp/me/2019/00000009/00000003/art00001%3bjsessionid=5d3035dunwr1b.x-ic-live-03",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Plant-Assisted Fabrication of SnO2 and SnO2-Based Nanostructures for Various Applications",
+   "year": 2019,
+   "month": 3,
+   "venue": "Nanomaterials and Plant Potential",
+   "type": "Book chapter",
+   "doi": "10.1007/978-3-030-05569-1_11",
+   "url": "https://doi.org/10.1007/978-3-030-05569-1_11",
+   "citations": 2,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Mohammad Hilni Harunsani",
+    "Adedayo Rasak Adedeji"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Potentials of Costus woodsonii leaf extract in producing narrow band gap ZnO nanoparticles",
+   "year": 2019,
+   "month": 3,
+   "venue": "Materials Science in Semiconductor Processing",
+   "type": "Journal article",
+   "doi": "10.1016/j.mssp.2018.11.030",
+   "url": "https://doi.org/10.1016/j.mssp.2018.11.030",
+   "citations": 130,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Nurin Hayatus Saadah",
+    "Mohammad Ehtisham Khan",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Recent progress of algae and blue–green algae-assisted synthesis of gold nanoparticles for various applications",
+   "year": 2019,
+   "month": 1,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-018-2012-2",
+   "url": "https://doi.org/10.1007/s00449-018-2012-2",
+   "citations": 125,
+   "authors": [
+    "Azhar Ullah Khan",
+    "M. Rizwan Khan",
+    "Nazia Malik",
+    "Moo Hwan Cho",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Antifungal and Antibacterial Assay by Silver Nanoparticles Synthesized from Aqueous Leaf Extract of Trigonella foenum-graecum",
+   "year": 2019,
+   "month": null,
+   "venue": "Bionanoscience",
+   "type": "Journal article",
+   "doi": "10.1007/s12668-019-00643-x",
+   "url": "https://doi.org/10.1007/s12668-019-00643-x",
+   "citations": 63,
+   "authors": [
+    "Azhar Ullah Khan",
+    "M. Rizwan Khan",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Biofilm-Assisted Fabrication of Ag@SnO2- g-C3N4 Nanostructures for Visible Light-Induced Photocatalysis and Photoelectrochemical Performance",
+   "year": 2019,
+   "month": null,
+   "venue": "Journal of Physical Chemistry C",
+   "type": "Journal article",
+   "doi": "10.1021/acs.jpcc.9b05105",
+   "url": "https://doi.org/10.1021/acs.jpcc.9b05105",
+   "citations": 84,
+   "authors": [
+    "Akbar Mohammad",
+    "Md Rezaul Karim",
+    "Mohammad Ehtisham Khan",
+    "Mohammad Mansoob Khan",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "CeO2-based nanocomposites: An advanced alternative to TiO2 and ZnO in sunscreens",
+   "year": 2019,
+   "month": null,
+   "venue": "Materials Express",
+   "type": "Journal article",
+   "doi": "10.1166/mex.2019.1495",
+   "url": "https://doi.org/10.1166/mex.2019.1495",
+   "citations": 68,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Mohammad Mansoob Khan",
+    "Debabrata Pradhan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Phytogenic Synthesis of Band Gap-Narrowed ZnO Nanoparticles Using the Bulb Extract of Costus woodsonii",
+   "year": 2019,
+   "month": null,
+   "venue": "Bionanoscience",
+   "type": "Journal article",
+   "doi": "10.1007/s12668-019-00616-0",
+   "url": "https://doi.org/10.1007/s12668-019-00616-0",
+   "citations": 57,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Nurin Hayatus Saadah",
+    "Mohammad Ehtisham Khan",
+    "Mohammad Hilni Harunsani",
+    "Ai Ling Tan",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Machine-Learning-Based Cyclic Voltammetry Behavior Model for Supercapacitance of Co-Doped Ceria/rGO Nanocomposite",
+   "year": 2018,
+   "month": 12,
+   "venue": "Journal of Chemical Information and Modeling",
+   "type": "Journal article",
+   "doi": "10.1021/acs.jcim.8b00612",
+   "url": "https://doi.org/10.1021/acs.jcim.8b00612",
+   "citations": 46,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Owais Ahmed Malik",
+    "Debabrata Pradhan",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Polymer nanocomposite application in sorption processes for removal of environmental contaminants",
+   "year": 2018,
+   "month": 12,
+   "venue": "Polymer-based Nanocomposites for Energy and Environmental Applications",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-08-102262-7.00018-0",
+   "url": "https://doi.org/10.1016/b978-0-08-102262-7.00018-0",
+   "citations": 2,
+   "authors": [
+    "Haryanto Haryanto",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Advanced Nanomaterials for Biological Applications",
+   "year": 2018,
+   "month": 8,
+   "venue": "Journal of Nanomaterials",
+   "type": "Journal article",
+   "doi": "10.1155/2018/3692420",
+   "url": "https://doi.org/10.1155/2018/3692420",
+   "citations": 5,
+   "authors": [
+    "Faheem Ahmed",
+    "Ameer Azam",
+    "Mohammad Mansoob Khan",
+    "Samuel M. Mugo"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Positively Charged Gold Nanoparticles for Hydrogen Peroxide Detection",
+   "year": 2018,
+   "month": 6,
+   "venue": "BioNanoScience",
+   "type": "Journal article",
+   "doi": "10.1007/s12668-018-0503-x",
+   "url": "https://doi.org/10.1007/s12668-018-0503-x",
+   "citations": 14,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Moo Hwan Cho"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Metal oxide powder photocatalysts",
+   "year": 2018,
+   "month": 3,
+   "venue": "Multifunctional Photocatalytic Materials for Energy",
+   "type": "Book chapter",
+   "doi": "10.1016/b978-0-08-101977-1.00002-8",
+   "url": "https://doi.org/10.1016/b978-0-08-101977-1.00002-8",
+   "citations": 14,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Electrically Conductive Polymers and Composites for Biomedical Applications",
+   "year": 2018,
+   "month": 1,
+   "venue": "Electrically Conductive Polymer and Polymer Composites: From Synthesis to Biomedical Applications",
+   "type": "Book chapter",
+   "doi": "10.1002/9783527807918.ch11",
+   "url": "https://doi.org/10.1002/9783527807918.ch11",
+   "citations": 4,
+   "authors": [
+    "Haryanto Haryanto",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Fungi-assisted silver nanoparticle synthesis and their applications",
+   "year": 2018,
+   "month": 1,
+   "venue": "Bioprocess and Biosystems Engineering",
+   "type": "Journal article",
+   "doi": "10.1007/s00449-017-1846-3",
+   "url": "https://doi.org/10.1007/s00449-017-1846-3",
+   "citations": 227,
+   "authors": [
+    "Azhar Ullah Khan",
+    "Nazia Malik",
+    "M. Rizwan Khan",
+    "Moo Hwan Cho",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Microbial fuel cell assisted band gap narrowed TiO2 for visible light-induced photocatalytic activities and power generation",
+   "year": 2018,
+   "month": 1,
+   "venue": "Scientific Reports",
+   "type": "Journal article",
+   "doi": "10.1038/s41598-018-19617-2",
+   "url": "https://doi.org/10.1038/s41598-018-19617-2",
+   "citations": 150,
+   "authors": [
+    "Mohammad Ehtisham Khan",
+    "Mohammad Mansoob Khan",
+    "Bong‐Ki Min",
+    "Moo Hwan Cho"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Polymer-based Nanocomposites for Energy and Environmental Applications",
+   "year": 2018,
+   "month": 1,
+   "venue": "Elsevier",
+   "type": "Book",
+   "doi": null,
+   "url": "https://www.elsevier.com/books/polymer-based-nanocomposites-for-energy-and-environmental-applications/jawaid/978-0-08-101910-8",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Binary flux-promoted formation of trigonal ZnIn2S4 layered crystals using ZnS-containing industrial waste and their photocatalytic performance for H2 production",
+   "year": 2018,
+   "month": null,
+   "venue": "Green Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/c8gc01746h",
+   "url": "https://doi.org/10.1039/c8gc01746h",
+   "citations": 59,
+   "authors": [
+    "Mirabbos Hojamberdiev",
+    "Yanfei Cai",
+    "Junie Jhon M. Vequizo",
+    "Mohammad Mansoob Khan",
+    "Ronald Vargas",
+    "Kunio Yubuta",
+    "Akira Yamakata",
+    "Katsuya Teshima",
+    "Masashi Hasegawa"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Diversity of Bacterial Synthesis of Silver Nanoparticles",
+   "year": 2018,
+   "month": null,
+   "venue": "BioNanoScience",
+   "type": "Journal article",
+   "doi": "10.1007/s12668-017-0496-x",
+   "url": "https://doi.org/10.1007/s12668-017-0496-x",
+   "citations": 150,
+   "authors": [
+    "Aqib Javaid",
+    "Sandra Folarin Oloketuyi",
+    "Mohammad Mansoob Khan",
+    "Fazlurrahman Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Environmentally sustainable biogenic fabrication of AuNP decorated-graphitic g-C3N4 nanostructures towards improved photoelectrochemical performances",
+   "year": 2018,
+   "month": null,
+   "venue": "RSC Advances",
+   "type": "Journal article",
+   "doi": "10.1039/c8ra00690c",
+   "url": "https://doi.org/10.1039/c8ra00690c",
+   "citations": 61,
+   "authors": [
+    "Mohammad Ehtisham Khan",
+    "Mohammad Mansoob Khan",
+    "Moo Hwan Cho"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Environmentally sustainable fabrication of ag@ g-c3n4 nanostructures and their multifunctional efficacy as antibacterial agents and Photocatalysts",
+   "year": 2018,
+   "month": null,
+   "venue": "ACS Applied Nano Materials",
+   "type": "Journal article",
+   "doi": "10.1021/acsanm.8b00548",
+   "url": "https://doi.org/10.1021/acsanm.8b00548",
+   "citations": 183,
+   "authors": [
+    "Mohammad Ehtisham Khan",
+    "Thi Hiep Han",
+    "Mohammad Mansoob Khan",
+    "Md Rezaul Karim",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Line defect Ce3+ induced Ag/CeO2/ZnO nanostructure for visible-light photocatalytic activity",
+   "year": 2018,
+   "month": null,
+   "venue": "Journal of Photochemistry and Photobiology A Chemistry",
+   "type": "Journal article",
+   "doi": "10.1016/j.jphotochem.2017.12.011",
+   "url": "https://doi.org/10.1016/j.jphotochem.2017.12.011",
+   "citations": 99,
+   "authors": [
+    "R. Saravanan",
+    "Shilpi Agarwal",
+    "Vinod Kumar Gupta",
+    "Mohammad Mansoob Khan",
+    "Francisco J. Gracia",
+    "Edgar Eduardo Mosquera",
+    "V. Narayanan",
+    "Arumainathan Stephen"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Mechanothermal synthesis of Ag/TiO2 for photocatalytic methyl orange degradation and hydrogen production",
+   "year": 2018,
+   "month": null,
+   "venue": "Process Safety and Environmental Protection",
+   "type": "Journal article",
+   "doi": "10.1016/j.psep.2018.09.015",
+   "url": "https://doi.org/10.1016/j.psep.2018.09.015",
+   "citations": 144,
+   "authors": [
+    "Rajendran Saravanan",
+    "Devaraj Manoj",
+    "Jiaqian Qin",
+    "Mu. Naushad",
+    "Francisco J. Gracia",
+    "Adam Fraser Lee",
+    "Mohammad Mansoob Khan",
+    "M.A. Gracia-Pinilla"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Polymer-based Nanocomposites for Energy and Environmental Applications: A volume in Woodhead Publishing Series in Composites Science and Engineering",
+   "year": 2018,
+   "month": null,
+   "venue": "Polymer Based Nanocomposites for Energy and Environmental Applications A Volume in Woodhead Publishing Series in Composites Science and Engineering",
+   "type": "Book",
+   "doi": "10.1016/c2016-0-01006-9",
+   "url": "https://doi.org/10.1016/c2016-0-01006-9",
+   "citations": 109,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Preface",
+   "year": 2018,
+   "month": null,
+   "venue": "Polymer Based Nanocomposites for Energy and Environmental Applications A Volume in Woodhead Publishing Series in Composites Science and Engineering",
+   "type": "Book",
+   "doi": "10.1016/b978-0-08-102262-7.09000-0",
+   "url": "https://doi.org/10.1016/b978-0-08-102262-7.09000-0",
+   "citations": 0,
+   "authors": [
+    "Mohammad Jawaid",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Recent progress and future perspectives of antibiofilm drugs immobilized on nanomaterials",
+   "year": 2018,
+   "month": null,
+   "venue": "Current Pharmaceutical Biotechnology",
+   "type": "Journal article",
+   "doi": "10.2174/1389201019666180828090052",
+   "url": "https://doi.org/10.2174/1389201019666180828090052",
+   "citations": 33,
+   "authors": [
+    "Fazlurrahman Khan",
+    "Mohammad Mansoob Khan",
+    "Young‐Mog Kim"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Recent progress of metal–graphene nanostructures in photocatalysis",
+   "year": 2018,
+   "month": null,
+   "venue": "Nanoscale",
+   "type": "Journal article",
+   "doi": "10.1039/c8nr03500h",
+   "url": "https://doi.org/10.1039/c8nr03500h",
+   "citations": 123,
+   "authors": [
+    "Mohammad Ehtisham Khan",
+    "Mohammad Mansoob Khan",
+    "Moo Hwan Cho"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Nanocomposites for Visible Light-induced Photocatalysis",
+   "year": 2017,
+   "month": 9,
+   "venue": "Springer International Publishing",
+   "type": "Book",
+   "doi": "10.1007/978-3-319-62446-4",
+   "url": "https://doi.org/10.1007/978-3-319-62446-4",
+   "citations": 188,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Proceedings of the International Seminar on Metallurgy and Materials (ISMM 2017)",
+   "year": 2017,
+   "month": 9,
+   "venue": "International Seminar on Metallurgy and Materials (ISMM 2017)",
+   "type": "Conference",
+   "doi": "10.1063/1.5038282",
+   "url": "https://doi.org/10.1063/1.5038282",
+   "citations": 0,
+   "authors": [],
+   "oa": true
+  },
+  {
+   "title": "Ce3+-ion, Surface Oxygen Vacancy, and Visible Light-induced Photocatalytic Dye Degradation and Photocapacitive Performance of CeO2-Graphene Nanostructures",
+   "year": 2017,
+   "month": 7,
+   "venue": "Scientific Reports",
+   "type": "Journal article",
+   "doi": "10.1038/s41598-017-06139-6",
+   "url": "https://doi.org/10.1038/s41598-017-06139-6",
+   "citations": 309,
+   "authors": [
+    "Mohammad Ehtisham Khan",
+    "Mohammad Mansoob Khan",
+    "Moo Hwan Cho"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Cobalt-Doped Ceria/Reduced Graphene Oxide Nanocomposite as an Efficient Oxygen Reduction Reaction Catalyst and Supercapacitor Material",
+   "year": 2017,
+   "month": null,
+   "venue": "Journal of Physical Chemistry C",
+   "type": "Journal article",
+   "doi": "10.1021/acs.jpcc.7b06846",
+   "url": "https://doi.org/10.1021/acs.jpcc.7b06846",
+   "citations": 119,
+   "authors": [
+    "Shaikh Parwaiz",
+    "Kousik Bhunia",
+    "Ashok Kumar Das",
+    "Mohammad Mansoob Khan",
+    "Debabrata Pradhan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Defected graphene nano-platelets for enhanced hydrophilic nature and visible light-induced photoelectrochemical performances",
+   "year": 2017,
+   "month": null,
+   "venue": "Journal of Physics and Chemistry of Solids",
+   "type": "Journal article",
+   "doi": "10.1016/j.jpcs.2017.01.027",
+   "url": "https://doi.org/10.1016/j.jpcs.2017.01.027",
+   "citations": 29,
+   "authors": [
+    "Mohammad Ehtisham Khan",
+    "Mohammad Mansoob Khan",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Preface",
+   "year": 2017,
+   "month": null,
+   "venue": "Springer Series on Polymer and Composite Materials",
+   "type": "Book",
+   "doi": null,
+   "url": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105035915302&partnerID=MN8TOARS",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Ce3+ -ion-induced visible-light photocatalytic degradation and electrochemical activity of ZnO/CeO2 nanocomposite",
+   "year": 2016,
+   "month": 8,
+   "venue": "Scientific Reports",
+   "type": "Journal article",
+   "doi": "10.1038/srep31641",
+   "url": "https://doi.org/10.1038/srep31641",
+   "citations": 625,
+   "authors": [
+    "Saravanan Rajendran",
+    "Mohammad Mansoob Khan",
+    "Francisco J. Gracia",
+    "Jiaqian Qin",
+    "Vinod Kumar Gupta",
+    "Arumainathan Stephen"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Fabrication of ZnO, ZnS, Ag-ZnS, and Au-ZnS microspheres for photocatalytic activities, CO oxidation and 2-hydroxyterephthalic acid synthesis",
+   "year": 2016,
+   "month": 8,
+   "venue": "Journal of Alloys and Compounds",
+   "type": "Journal article",
+   "doi": "10.1016/j.jallcom.2016.03.070",
+   "url": "https://doi.org/10.1016/j.jallcom.2016.03.070",
+   "citations": 114,
+   "authors": [
+    "Young In Choi",
+    "Seungwon Lee",
+    "Seog K. Kim",
+    "Young‐Il Kim",
+    "Dae Won Cho",
+    "Mohammad Mansoob Khan",
+    "Youngku Sohn"
+   ],
+   "oa": false
+  },
+  {
+   "title": "CdS-graphene Nanocomposite for Efficient Visible-light-driven Photocatalytic and Photoelectrochemical Applications",
+   "year": 2016,
+   "month": 7,
+   "venue": "Journal of Colloid and Interface Science",
+   "type": "Journal article",
+   "doi": "10.1016/j.jcis.2016.07.070",
+   "url": "https://doi.org/10.1016/j.jcis.2016.07.070",
+   "citations": 171,
+   "authors": [
+    "Mohammad Ehtisham Khan",
+    "Mohammad Mansoob Khan",
+    "Moo Hwan Cho"
+   ],
+   "oa": true
+  },
+  {
+   "title": "ChemInform Abstract: Nitrogen-Doped Titanium Dioxide (N-Doped TiO2) for Visible Light Photocatalysis",
+   "year": 2016,
+   "month": 6,
+   "venue": "ChemInform",
+   "type": "Journal article",
+   "doi": "10.1002/chin.201625222",
+   "url": "https://doi.org/10.1002/chin.201625222",
+   "citations": 3,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Mohd Omaish Ansari",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Conducting PANI stimulated ZnO system for visible light photocatalytic degradation of coloured dyes",
+   "year": 2016,
+   "month": 6,
+   "venue": "Journal of Molecular Liquids",
+   "type": "Journal article",
+   "doi": "10.1016/j.molliq.2016.06.074",
+   "url": "https://doi.org/10.1016/j.molliq.2016.06.074",
+   "citations": 692,
+   "authors": [
+    "Rajendran Saravanan",
+    "Elisban Juani Sacari Sacari",
+    "Francisco J. Gracia",
+    "Mohammad Mansoob Khan",
+    "Edgar Eduardo Mosquera",
+    "Vinod Kumar Gupta"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Fabrication of WO3 nanorods on graphene nanosheets for improved visible light-induced photocapacitive and photocatalytic performance",
+   "year": 2016,
+   "month": 2,
+   "venue": "RSC Advances",
+   "type": "Journal article",
+   "doi": "10.1039/c5ra24575c",
+   "url": "https://doi.org/10.1039/c5ra24575c",
+   "citations": 136,
+   "authors": [
+    "Mohammad Ehtisham Khan",
+    "Mohammad Mansoob Khan",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Nitrogen-doped titanium dioxide (N-doped TiO2) for visible light photocatalysis",
+   "year": 2016,
+   "month": 2,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/c5nj03478g",
+   "url": "https://doi.org/10.1039/c5nj03478g",
+   "citations": 705,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Mohd Omaish Ansari",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "TiO2/BiOX (X = Cl, Br, I) hybrid microspheres for artificial waste water and real sample treatment under visible light irradiation",
+   "year": 2016,
+   "month": 1,
+   "venue": "Separation and Purification Technology",
+   "type": "Journal article",
+   "doi": "10.1016/j.seppur.2016.01.009",
+   "url": "https://doi.org/10.1016/j.seppur.2016.01.009",
+   "citations": 61,
+   "authors": [
+    "Young In Choi",
+    "Kyung Hee Jeon",
+    "Hye Sun Kim",
+    "Jun Hyok Lee",
+    "Seong Jun Park",
+    "Jangeon Roh",
+    "Mohammad Mansoob Khan",
+    "Youngku Sohn"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Editorial",
+   "year": 2015,
+   "month": 9,
+   "venue": "Journal of Saudi Chemical Society",
+   "type": "Journal article",
+   "doi": "10.1016/j.jscs.2015.09.001",
+   "url": "https://doi.org/10.1016/j.jscs.2015.09.001",
+   "citations": 0,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Biogenic synthesis of a Ag–graphene nanocomposite with efficient photocatalytic degradation, electrical conductivity and photoelectrochemical performance",
+   "year": 2015,
+   "month": 8,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/c5nj01320h",
+   "url": "https://doi.org/10.1039/c5nj01320h",
+   "citations": 147,
+   "authors": [
+    "Mohammad Ehtisham Khan",
+    "Mohammad Mansoob Khan",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Electrically conductive polyaniline sensitized defective-TiO2 for improved visible light photocatalytic and photoelectrochemical performance: a synergistic effect",
+   "year": 2015,
+   "month": 8,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/c5nj01127b",
+   "url": "https://doi.org/10.1039/c5nj01127b",
+   "citations": 50,
+   "authors": [
+    "Mohd Omaish Ansari",
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Polythiophene nanocomposites for photodegradation applications: Past, present and future",
+   "year": 2015,
+   "month": 7,
+   "venue": "Journal of Saudi Chemical Society",
+   "type": "Journal article",
+   "doi": "10.1016/j.jscs.2015.06.004",
+   "url": "https://doi.org/10.1016/j.jscs.2015.06.004",
+   "citations": 118,
+   "authors": [
+    "Mohd Omaish Ansari",
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Moo Hwan Cho"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Silver nanoparticles and defect-induced visible light photocatalytic and photoelectrochemical performance of Ag@m-TiO2 nanocomposite",
+   "year": 2015,
+   "month": 6,
+   "venue": "Solar Energy Materials and Solar Cells",
+   "type": "Journal article",
+   "doi": "10.1016/j.solmat.2015.05.029",
+   "url": "https://doi.org/10.1016/j.solmat.2015.05.029",
+   "citations": 149,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Mohd Omaish Ansari",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "ZnO/CdO nanocomposites for textile effluent degradation and electrochemical detection",
+   "year": 2015,
+   "month": 6,
+   "venue": "Journal of Molecular Liquids",
+   "type": "Journal article",
+   "doi": "10.1016/j.molliq.2015.05.040",
+   "url": "https://doi.org/10.1016/j.molliq.2015.05.040",
+   "citations": 177,
+   "authors": [
+    "R. Saravanan",
+    "Francisco J. Gracia",
+    "Mohammad Mansoob Khan",
+    "V Poornima",
+    "Vinod Kumar Gupta",
+    "V. Narayanan",
+    "Arumainathan Stephen"
+   ],
+   "oa": true
+  },
+  {
+   "title": "DC Electrical Conductivity Retention and Electrical Compensation of Polyaniline by TiO2 at Higher Loading Percentages in Polyaniline@TiO2 Nanocomposites",
+   "year": 2015,
+   "month": 4,
+   "venue": "Electronic Materials Letters",
+   "type": "Journal article",
+   "doi": "10.1007/s13391-015-5073-2",
+   "url": "https://doi.org/10.1007/s13391-015-5073-2",
+   "citations": 14,
+   "authors": [
+    "Mohd Omaish Ansari",
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Gold nanoparticle-sensitized wide and narrow band gap TiO2 for visible light applications: a comparative study",
+   "year": 2015,
+   "month": 4,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/c5nj00556f",
+   "url": "https://doi.org/10.1039/c5nj00556f",
+   "citations": 106,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Mohd Omaish Ansari",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Improved electrode performance in microbial fuel cells and the enhanced visible light-induced photo-electrochemical behavior of PtOx@M-TiO2 nanocomposites",
+   "year": 2015,
+   "month": 4,
+   "venue": "Ceramics International",
+   "type": "Journal article",
+   "doi": "10.1016/j.ceramint.2015.03.321",
+   "url": "https://doi.org/10.1016/j.ceramint.2015.03.321",
+   "citations": 44,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Mohd Omaish Ansari",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Metal oxides as photocatalysts",
+   "year": 2015,
+   "month": 4,
+   "venue": "Journal of Saudi Chemical Society",
+   "type": "Journal article",
+   "doi": "10.1016/j.jscs.2015.04.003",
+   "url": "https://doi.org/10.1016/j.jscs.2015.04.003",
+   "citations": 696,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Syed Farooq Adil",
+    "Abdullah Mohammed Al-Mayouf"
+   ],
+   "oa": true
+  },
+  {
+   "title": "ZnO/Ag/CdO nanocomposite for visible light-induced photocatalytic degradation of industrial textile effluents",
+   "year": 2015,
+   "month": 4,
+   "venue": "Journal of Colloid and Interface Science",
+   "type": "Journal article",
+   "doi": "10.1016/j.jcis.2015.04.035",
+   "url": "https://doi.org/10.1016/j.jcis.2015.04.035",
+   "citations": 640,
+   "authors": [
+    "Rajendran Saravanan",
+    "Mohammad Mansoob Khan",
+    "Vinod Kumar Gupta",
+    "Edgar Eduardo Mosquera",
+    "Francisco J. Gracia",
+    "V. Narayanan",
+    "Arumainathan Stephen"
+   ],
+   "oa": true
+  },
+  {
+   "title": "ZnO/Ag/Mn2O3 nanocomposite for visible lightinduced industrial textile effluent degradation, uric acid and ascorbic acid sensing and antimicrobial activity",
+   "year": 2015,
+   "month": 4,
+   "venue": "RSC Advances",
+   "type": "Journal article",
+   "doi": "10.1039/c5ra02557e",
+   "url": "https://doi.org/10.1039/c5ra02557e",
+   "citations": 447,
+   "authors": [
+    "Rajendran Saravanan",
+    "Mohammad Mansoob Khan",
+    "Vinod Kumar Gupta",
+    "Edgar Eduardo Mosquera",
+    "Francisco J. Gracia",
+    "V. Narayanan",
+    "Arumainathan Stephen"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Green Synthesis, Photocatalytic and Photoelectrochemical Performance of Au-Graphene Nanocomposite",
+   "year": 2015,
+   "month": 3,
+   "venue": "RSC Advances",
+   "type": "Journal article",
+   "doi": "10.1039/c5ra01864a",
+   "url": "https://doi.org/10.1039/c5ra01864a",
+   "citations": 88,
+   "authors": [
+    "Mohammad Ehtisham Khan",
+    "Mohammad Mansoob Khan",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Visible light-induced enhanced photoelectrochemical and photocatalytic studies of gold decorated SnO2 nanostructures",
+   "year": 2015,
+   "month": 1,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/c4nj02245a",
+   "url": "https://doi.org/10.1039/c4nj02245a",
+   "citations": 109,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Mohammad Ehtisham Khan",
+    "Mohd Omaish Ansari",
+    "Bong‐Ki Min",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Bioenergy derived from electrochemically active biofilms",
+   "year": 2015,
+   "month": null,
+   "venue": "Biomass and Bioenergy Applications",
+   "type": "Book chapter",
+   "doi": "10.1007/978-3-319-07578-5_4",
+   "url": "https://doi.org/10.1007/978-3-319-07578-5_4",
+   "citations": 2,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Electrochemically active biofilm assisted synthesis of Ag@CeO2 nanocomposites for antimicrobial activity, photocatalysis and photoelectrodes",
+   "year": 2014,
+   "month": 6,
+   "venue": "Journal of Colloid and Interface Science",
+   "type": "Journal article",
+   "doi": "10.1016/j.jcis.2014.06.026",
+   "url": "https://doi.org/10.1016/j.jcis.2014.06.026",
+   "citations": 128,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Jin‐Hyung Lee",
+    "Mohammad Omaish Ansari",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Visible light-driven photocatalytic and photoelectrochemical studies of Ag-SnO2 nanocomposites synthesized using an electrochemically active biofilm",
+   "year": 2014,
+   "month": 6,
+   "venue": "RSC Adv.",
+   "type": "Journal article",
+   "doi": "10.1039/c4ra03448a",
+   "url": "https://doi.org/10.1039/c4ra03448a",
+   "citations": 124,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Mohd Omaish Ansari",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Defect-Induced Band Gap Narrowed CeO2 Nanostructures for Visible Light Activities",
+   "year": 2014,
+   "month": 5,
+   "venue": "Ind. Eng. Chem. Res.",
+   "type": "Journal article",
+   "doi": "10.1021/ie500986n",
+   "url": "https://doi.org/10.1021/ie500986n",
+   "citations": 367,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Debabrata Pradhan",
+    "Do Hung Han",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Enhanced Thermal Stability under DC Electrical Conductivity Retention and Visible Light Activity of Ag/TiO2@Polyaniline Nanocomposite Film",
+   "year": 2014,
+   "month": 5,
+   "venue": "ACS Appl. Mater. Interfaces",
+   "type": "Journal article",
+   "doi": "doi: 10.1021/am500488e",
+   "url": "https://doi.org/doi: 10.1021/am500488e",
+   "citations": 90,
+   "authors": [
+    "Mohd Omaish Ansari",
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Kati Raju",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Enhanced thermoelectric behaviour and visible light activity of Ag@TiO2/polyaniline nanocomposite synthesized by biogenic-chemical route",
+   "year": 2014,
+   "month": 5,
+   "venue": "RSC Advances",
+   "type": "Journal article",
+   "doi": "10.1039/c4ra02602k",
+   "url": "https://doi.org/10.1039/c4ra02602k",
+   "citations": 82,
+   "authors": [
+    "Mohd Omaish Ansari",
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Biogenic fabrication of Au@CeO2 nanocomposite with enhanced visible light activity",
+   "year": 2014,
+   "month": 4,
+   "venue": "Journal of Physical Chemistry C",
+   "type": "Journal article",
+   "doi": "10.1021/jp500933t",
+   "url": "https://doi.org/10.1021/jp500933t",
+   "citations": 133,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Mohd Omaish Ansari",
+    "B. K. Min",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Band gap engineering of CeO2 nanostructure using an electrochemically active biofilm for visible light applications",
+   "year": 2014,
+   "month": 3,
+   "venue": "RSC Advances",
+   "type": "Journal article",
+   "doi": "10.1039/c4ra00861h",
+   "url": "https://doi.org/10.1039/c4ra00861h",
+   "citations": 349,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Mohd Omaish Ansari",
+    "Shafeer Kalathil",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "pTSA doped conducting graphene/polyaniline nanocomposite fibers: Thermoelectric behavior and electrode analysis",
+   "year": 2014,
+   "month": 3,
+   "venue": "Chemical Engineering Journal",
+   "type": "Journal article",
+   "doi": "10.1016/j.cej.2013.12.033",
+   "url": "https://doi.org/10.1016/j.cej.2013.12.033",
+   "citations": 82,
+   "authors": [
+    "Mohd Omaish Ansari",
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Ikhlasul Amal",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Highly photoactive SnO2 nanostructures engineered by electrochemically active biofilm",
+   "year": 2014,
+   "month": 2,
+   "venue": "New Journal of Chemistry",
+   "type": "Journal article",
+   "doi": "10.1039/c3nj01488f",
+   "url": "https://doi.org/10.1039/c3nj01488f",
+   "citations": 72,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Mohd Omaish Ansari",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Au@TiO2 nanocomposites for the catalytic degradation of methyl orange and methylene blue: An electron relay effect",
+   "year": 2014,
+   "month": null,
+   "venue": "Journal of Industrial and Engineering Chemistry",
+   "type": "Journal article",
+   "doi": "10.1016/j.jiec.2013.08.002",
+   "url": "https://doi.org/10.1016/j.jiec.2013.08.002",
+   "citations": 279,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Enhanced thermoelectric performance and ammonia sensing properties of sulfonated polyaniline/graphene thin films",
+   "year": 2014,
+   "month": null,
+   "venue": "Materials Letters",
+   "type": "Journal article",
+   "doi": "10.1016/j.matlet.2013.09.098",
+   "url": "https://doi.org/10.1016/j.matlet.2013.09.098",
+   "citations": 49,
+   "authors": [
+    "Mohd Omaish Ansari",
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Ikhlasul Amal",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Mixed culture electrochemically active biofilms and their microscopic and spectroelectrochemical studies",
+   "year": 2014,
+   "month": null,
+   "venue": "ACS Sustainable Chemistry & Engineering",
+   "type": "Journal article",
+   "doi": "10.1021/sc400330r",
+   "url": "https://doi.org/10.1021/sc400330r",
+   "citations": 52,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Jin‐Hyung Lee",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Optimization of positively charged gold nanoparticles synthesized using a stainless-steel mesh and its application for colorimetric hydrogen peroxide detection",
+   "year": 2014,
+   "month": null,
+   "venue": "Journal of Industrial and Engineering Chemistry",
+   "type": "Journal article",
+   "doi": "10.1016/j.jiec.2013.09.023",
+   "url": "https://doi.org/10.1016/j.jiec.2013.09.023",
+   "citations": 23,
+   "authors": [
+    "Thi Hiep Han",
+    "Mohammad Mansoob Khan",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Mixed Culture Electrochemically Active Biofilms and their Microscopic and Spectroelectrochemical Studies",
+   "year": 2013,
+   "month": 12,
+   "venue": "ACS Sustainable Chemistry and Engineering",
+   "type": "Journal article",
+   "doi": "dx.doi.org/10.1021/sc400330r|",
+   "url": "https://doi.org/dx.doi.org/10.1021/sc400330r|",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Band gap engineered TiO2 nanoparticles for visible light induced photoelectrochemical and photocatalytic studies",
+   "year": 2013,
+   "month": 10,
+   "venue": "Journal of Materials Chemistry A",
+   "type": "Journal article",
+   "doi": "10.1039/c3ta14052k",
+   "url": "https://doi.org/10.1039/c3ta14052k",
+   "citations": 894,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Debabrata Pradhan",
+    "Mohd Omaish Ansari",
+    "Do Hung Han",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Au@TiO2 nanocomposites for the catalytic degradation of methyl orange and methylene blue: An electron relay effect",
+   "year": 2013,
+   "month": 8,
+   "venue": null,
+   "type": "Journal article",
+   "doi": null,
+   "url": "http://www.sciencedirect.com/science/article/pii/S1226086X1300364X",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Highly visible light active Ag@ZnO nanocomposites synthesized by gel-combustion route",
+   "year": 2013,
+   "month": 8,
+   "venue": "Journal of Industrial and Engineering Chemistry",
+   "type": "Journal article",
+   "doi": "10.1016/j.jiec.2013.08.006",
+   "url": "https://doi.org/10.1016/j.jiec.2013.08.006",
+   "citations": 126,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Novel Ag@TiO2nanocomposite synthesized by electrochemically active biofilm for nonenzymatic hydrogen peroxide sensor",
+   "year": 2013,
+   "month": 7,
+   "venue": null,
+   "type": "Journal article",
+   "doi": null,
+   "url": "http://www.sciencedirect.com/science/article/pii/S0928493113004311",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Oxygen vacancy induced band gap narrowing of ZnO nanostructures by an electrochemically active biofilm",
+   "year": 2013,
+   "month": 7,
+   "venue": "Nanoscale",
+   "type": "Journal article",
+   "doi": "10.1039/c3nr02678g",
+   "url": "https://doi.org/10.1039/c3nr02678g",
+   "citations": 636,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Shafeer Kalathil",
+    "Ambreen Nisar",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Biogenic synthesis, photocatalytic, and photoelectrochemical performance of Ag-ZnO nanocomposite",
+   "year": 2013,
+   "month": null,
+   "venue": "The Journal of Physical Chemistry C",
+   "type": "Journal article",
+   "doi": "10.1021/jp410063p",
+   "url": "https://doi.org/10.1021/jp410063p",
+   "citations": 430,
+   "authors": [
+    "Sajid Ali Ansari",
+    "Mohammad Mansoob Khan",
+    "Mohd Omaish Ansari",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Electrochemically active biofilm mediated bio-hydrogen production catalyzed by positively charged gold nanoparticles",
+   "year": 2013,
+   "month": null,
+   "venue": "International Journal of Hydrogen Energy",
+   "type": "Journal article",
+   "doi": "10.1016/j.ijhydene.2013.02.080",
+   "url": "https://doi.org/10.1016/j.ijhydene.2013.02.080",
+   "citations": 83,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Enhanced optical, visible light catalytic and electrochemical properties of Au@TiO2 nanocomposites",
+   "year": 2013,
+   "month": null,
+   "venue": "Journal of Industrial and Engineering Chemistry",
+   "type": "Journal article",
+   "doi": "10.1016/j.jiec.2013.02.030",
+   "url": "https://doi.org/10.1016/j.jiec.2013.02.030",
+   "citations": 35,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Enhanced performance of a microbial fuel cell using CNT/MnO2 nanocomposite as a bioanode material.",
+   "year": 2013,
+   "month": null,
+   "venue": "Journal of nanoscience and nanotechnology",
+   "type": "Journal article",
+   "doi": null,
+   "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84891525974&partnerID=MN8TOARS",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Novel Ag@TiO2 nanocomposite synthesized by electrochemically active biofilm for nonenzymatic hydrogen peroxide sensor",
+   "year": 2013,
+   "month": null,
+   "venue": "Materials Science and Engineering C",
+   "type": "Journal article",
+   "doi": "10.1016/j.msec.2013.07.028",
+   "url": "https://doi.org/10.1016/j.msec.2013.07.028",
+   "citations": 76,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "SYNTHESIS AND PHYSICO-CHEMICAL INVESTIGATIONS ON 16 AND 18 MEMBERED [N4] MACROCYCLES MODIFIED WITH APPROPRIATE CARBONYL FUNCTIONS - A CLOSER MIMIC TO A SYNTHETIC CYCLIC TETRAPEPTIDE; ISOLATION OF STABLE ENCAPSULATED DERIVATIVES WITH Zn(II),Cd(II) AND Hg(II) IONS",
+   "year": 2013,
+   "month": null,
+   "venue": "Nanoscale",
+   "type": "Journal article",
+   "doi": "10.1039/c3nr01280h",
+   "url": "https://doi.org/10.1039/c3nr01280h",
+   "citations": 175,
+   "authors": [
+    "Shafeer Kalathil",
+    "Mohammad Mansoob Khan",
+    "Sajid Ali Ansari",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Spectroscopic and physico-chemical characterization of Ir(I) and Ru(III) complexes of 32-membered unsymmetrical dinucleating macrocyclic ligand",
+   "year": 2013,
+   "month": null,
+   "venue": "Journal of Inclusion Phenomena and Macrocyclic Chemistry",
+   "type": "Journal article",
+   "doi": "10.1007/s10847-013-0294-1",
+   "url": "https://doi.org/10.1007/s10847-013-0294-1",
+   "citations": 2,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "A simple biogenic route to rapid synthesis of Au@TiO 2 nanocomposites by electrochemically active biofilms",
+   "year": 2012,
+   "month": null,
+   "venue": "Journal of Nanoparticle Research",
+   "type": "Journal article",
+   "doi": "10.1007/s11051-012-1051-x",
+   "url": "https://doi.org/10.1007/s11051-012-1051-x",
+   "citations": 37,
+   "authors": [
+    "Shafeer Kalathil",
+    "Mohammad Mansoob Khan",
+    "Arghya Narayan Banerjee",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Enhancement in the photocatalytic activity of Au@TiO 2 nanocomposites by pretreatment of TiO 2 with UV light",
+   "year": 2012,
+   "month": null,
+   "venue": "Bulletin of the Korean Chemical Society",
+   "type": "Journal article",
+   "doi": "10.5012/bkcs.2012.33.5.1753",
+   "url": "https://doi.org/10.5012/bkcs.2012.33.5.1753",
+   "citations": 48,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Shafeer Kalathil",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Synthesis of cysteine capped silver nanoparticles by electrochemically active biofilm and their antibacterial activities",
+   "year": 2012,
+   "month": null,
+   "venue": "Bulletin of the Korean Chemical Society",
+   "type": "Journal article",
+   "doi": "10.5012/bkcs.2012.33.8.2592",
+   "url": "https://doi.org/10.5012/bkcs.2012.33.8.2592",
+   "citations": 95,
+   "authors": [
+    "Mohammad Mansoob Khan",
+    "Shafeer Kalathil",
+    "Jintae Lee",
+    "Moo Hwan Cho"
+   ],
+   "oa": true
+  },
+  {
+   "title": "Ru(III), Pd(II), Pt(III), and Pt(IV) Complexes of a Novel 32-Membered Unsymmetrical Dinucleating Macrocyclic Ligand",
+   "year": 2010,
+   "month": null,
+   "venue": "Synthesis and Reactivity in Inorganic Metal-Organic and Nano-Metal Chemistry",
+   "type": "Journal article",
+   "doi": "10.1080/15533171003629063",
+   "url": "https://doi.org/10.1080/15533171003629063",
+   "citations": 2,
+   "authors": [
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Suitability assessment of water quality of river shinta and its impacts on the users: A case study from gondar town of ethiopia",
+   "year": 2009,
+   "month": null,
+   "venue": "Indian Journal of Environmental Protection",
+   "type": "Journal article",
+   "doi": null,
+   "url": null,
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Spectral and electrochemical characterization of bimetallic complexes of a novel 32-membered unsymmetrical [N12] macrocycle",
+   "year": 2007,
+   "month": null,
+   "venue": "Transition Metal Chemistry",
+   "type": "Journal article",
+   "doi": "10.1007/s11243-007-0254-y",
+   "url": "https://doi.org/10.1007/s11243-007-0254-y",
+   "citations": 37,
+   "authors": [
+    "Zafar A. Siddiqi",
+    "Mohammad Mansoob Khan",
+    "Mohd Khalid",
+    "Sarvendra Kumar"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Synthesis and physico-chemical and spectroscopic investigations of sodium dihydrobis (1,2,3-benzotriazolyl) borate ligand and its transition metal complexes",
+   "year": 2007,
+   "month": null,
+   "venue": "Turkish Journal of Chemistry",
+   "type": "Journal article",
+   "doi": null,
+   "url": null,
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Synthesis and spectral studies of a novel 20-membered unsymmetrical dinucleating [N-8] macrocycle and its bimetallic complexes, M2LCln(ClO4)(2) (n=2, M = Co, Ni or Cu; n=4, M = Cr or Fe)",
+   "year": 2006,
+   "month": null,
+   "venue": "Polish Journal of Chemistry",
+   "type": "Journal article",
+   "doi": null,
+   "url": null,
+   "citations": null,
+   "authors": [],
+   "oa": false
+  },
+  {
+   "title": "Synthesis and characterization of a novel 32-membered unsymmetrical dinucleating [N-12] macrocycle: Preparation of bimetallic complexes M2LX2(ClO4)(2) (M = Zn, Cd, or Hg; X = Cl, NCS, or NO3)",
+   "year": 2004,
+   "month": null,
+   "venue": "Synthesis and Reactivity in Inorganic and Metal-Organic Chemistry",
+   "type": "Journal article",
+   "doi": "10.1081/sim-120037515",
+   "url": "https://doi.org/10.1081/sim-120037515",
+   "citations": 6,
+   "authors": [
+    "Zafar A. Siddiqi",
+    "Mohammad Mansoob Khan"
+   ],
+   "oa": false
+  },
+  {
+   "title": "Synthesis and physico-chemical investigations on 16 and 18 membered [N-4] macrocycles modified with appropriate carbonyl functions - A closer mimic to a synthetic cyclic tetrapeptide; Isolation of stable encapsulated derivatives with Zn(II), Cd(II) and Hg(II) ions",
+   "year": 2001,
+   "month": null,
+   "venue": "Main Group Metal Chemistry",
+   "type": "Journal article",
+   "doi": null,
+   "url": "https://publons.com/wos-op/publon/12906266/",
+   "citations": null,
+   "authors": [],
+   "oa": false
+  }
+ ]
+}

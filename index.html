@@ -2,10 +2,10 @@
 <html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Prof. Mohammad Mansoob Khan — Inorganic Chemistry & Nanotechnology | Universiti Brunei Darussalam</title>
-<meta name="description" content="Official site of Prof. Mohammad Mansoob Khan, Professor of Inorganic Chemistry & Nanotechnology at Universiti Brunei Darussalam. Green nanomaterials & visible-light photocatalysis. 19,723 citations, h-index 71, Top 2% Scientist.">
+<meta name="description" content="Official site of Prof. Mohammad Mansoob Khan, Professor of Inorganic Chemistry & Nanotechnology at Universiti Brunei Darussalam. Green nanomaterials & visible-light photocatalysis. 18,100 citations, h-index 70, Top 2% Scientist.">
 <link rel="canonical" href="https://profmansoobkhan.github.io/">
 <meta property="og:type" content="profile"><meta property="og:title" content="Prof. Mohammad Mansoob Khan — Inorganic Chemistry & Nanotechnology | Universiti Brunei Darussalam">
-<meta property="og:description" content="Official site of Prof. Mohammad Mansoob Khan, Professor of Inorganic Chemistry & Nanotechnology at Universiti Brunei Darussalam. Green nanomaterials & visible-light photocatalysis. 19,723 citations, h-index 71, Top 2% Scientist."><meta property="og:url" content="https://profmansoobkhan.github.io/">
+<meta property="og:description" content="Official site of Prof. Mohammad Mansoob Khan, Professor of Inorganic Chemistry & Nanotechnology at Universiti Brunei Darussalam. Green nanomaterials & visible-light photocatalysis. 18,100 citations, h-index 70, Top 2% Scientist."><meta property="og:url" content="https://profmansoobkhan.github.io/">
 <meta property="og:image" content="https://profmansoobkhan.github.io/assets/img/MMK.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="assets/img/MMK.png" type="image/png">
@@ -172,6 +172,7 @@ footer.site a:hover{color:#fff}
 .fchips a{width:38px;height:38px;border-radius:50%;display:flex;align-items:center;justify-content:center;background:#16314c}
 .fchips a:hover{background:var(--teal)}
 </style>
+<link rel="stylesheet" href="assets/css/live.css">
 </head><body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="nav"><div class="wrap nav-in">
@@ -197,9 +198,18 @@ footer.site a:hover{color:#fff}
 <div class="wrap">
   <div class="band">
     <div class="eyebrow">Research impact</div>
-    <div class="mrow"><div class="metric"><div class="n">275+</div><div class="l">Publications</div></div><div class="metric"><div class="n">19,723</div><div class="l">Citations</div></div><div class="metric"><div class="n">71</div><div class="l">h-index</div></div><div class="metric"><div class="n">181</div><div class="l">i10-index</div></div><div class="metric"><div class="n">6</div><div class="l">Books</div></div><div class="metric accent"><div class="n">Top 2%</div><div class="l">World rank</div></div></div>
-    <p class="livenote" id="livenote">Source: Google Scholar, 10 June 2026 (i10-index 181). Live cross-check loads automatically when online.</p>
+    <div class="mrow"><div class="metric"><div class="n" data-live="publications">288</div><div class="l">Publications</div><div class="s" data-live="publications_alt"></div></div><div class="metric"><div class="n" data-live="citations">18,100</div><div class="l">Citations</div><div class="s" data-live="citations_alt"></div></div><div class="metric"><div class="n" data-live="h_index">70</div><div class="l">h-index</div><div class="s" data-live="h_index_alt"></div></div><div class="metric"><div class="n" data-live="i10_index">178</div><div class="l">i10-index</div><div class="s" data-live="i10_index_alt"></div></div><div class="metric"><div class="n">6</div><div class="l">Books</div></div><div class="metric accent"><div class="n">Top 2%</div><div class="l">World rank</div></div></div>
+    <p class="livenote" id="livenote">Figures are refreshed automatically every day from OpenAlex, ORCID and Google Scholar.</p>
   </div>
+</div>
+
+<div class="wrap">
+  <section class="block" style="border-top:0;padding-top:26px">
+    <div class="sec-head"><div class="eyebrow">Tracked daily</div><h2>Citation record</h2>
+    <p>How often his work is cited each year, and how the totals have moved since daily tracking began.</p></div>
+    <div class="chartcard"><h3>Citations received per year</h3><div class="sub">Number of citing works published in each year</div><div id="cite-chart"><p class="chartnote">The chart loads when the page is online.</p></div></div>
+    <div class="growth" id="growth"></div>
+  </section>
 </div>
 
 <div class="wrap">
@@ -240,14 +250,7 @@ footer.site a:hover{color:#fff}
 <li>Universiti Brunei Darussalam</li>
 <li>Gadong BE 1410, Brunei Darussalam</li></ul></div>
 </div>
-<div class="fbot">© 2026 Mohammad Mansoob Khan · Built to be discoverable worldwide. Metrics from Google Scholar &amp; OpenAlex.</div>
+<div class="fbot">© 2026 Mohammad Mansoob Khan · Built to be discoverable worldwide. Metrics refreshed daily from OpenAlex, ORCID &amp; Google Scholar.</div>
 </div></footer>
-<script>
-(async function(){try{
- var r=await fetch("https://api.openalex.org/authors/orcid:0000-0002-8633-7493");if(!r.ok)return;
- var a=await r.json();var f=function(n){return Number(n).toLocaleString("en-US")};
- var note=document.getElementById("livenote");
- if(note){note.innerHTML='<span class="livedot" style="display:inline-block"></span>Source: Google Scholar (10 Jun 2026). Live cross-check via OpenAlex'+(a.updated_date?" ("+a.updated_date.slice(0,10)+")":"")+': '+f(a.cited_by_count)+' citations · h-index '+a.summary_stats.h_index+'. Databases count differently — Scholar and Scopus show their own live totals.';}
-}catch(e){}})();
-</script>
+<script src="assets/js/live.js" defer></script>
 </body></html>

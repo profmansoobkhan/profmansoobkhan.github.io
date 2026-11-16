@@ -1,0 +1,192 @@
+{
+ "updated": "2026-11-16",
+ "updated_utc": "2026-11-16T12:17Z",
+ "primary": {
+  "source": "OpenAlex",
+  "citations": 18100,
+  "h_index": 70,
+  "i10_index": 178,
+  "as_of": "2026-11-16"
+ },
+ "publications": 288,
+ "publications_by_type": {
+  "Journal article": 221,
+  "Book chapter": 53,
+  "Book": 11,
+  "Other": 2,
+  "Conference": 1
+ },
+ "books": 6,
+ "openalex": {
+  "citations": 18100,
+  "h_index": 70,
+  "i10_index": 178,
+  "indexed_works": 320,
+  "by_year": [
+   {
+    "year": 2012,
+    "citations": 25,
+    "works": 4
+   },
+   {
+    "year": 2013,
+    "citations": 102,
+    "works": 21
+   },
+   {
+    "year": 2014,
+    "citations": 279,
+    "works": 9
+   },
+   {
+    "year": 2015,
+    "citations": 480,
+    "works": 17
+   },
+   {
+    "year": 2016,
+    "citations": 634,
+    "works": 9
+   },
+   {
+    "year": 2017,
+    "citations": 1082,
+    "works": 6
+   },
+   {
+    "year": 2018,
+    "citations": 1279,
+    "works": 20
+   },
+   {
+    "year": 2019,
+    "citations": 1408,
+    "works": 8
+   },
+   {
+    "year": 2020,
+    "citations": 1486,
+    "works": 12
+   },
+   {
+    "year": 2021,
+    "citations": 1731,
+    "works": 26
+   },
+   {
+    "year": 2022,
+    "citations": 1633,
+    "works": 26
+   },
+   {
+    "year": 2023,
+    "citations": 1783,
+    "works": 34
+   },
+   {
+    "year": 2024,
+    "citations": 2111,
+    "works": 33
+   },
+   {
+    "year": 2025,
+    "citations": 2053,
+    "works": 53
+   },
+   {
+    "year": 2026,
+    "citations": 1698,
+    "works": 15
+   }
+  ],
+  "as_of": "2026-11-15",
+  "url": "https://openalex.org/A5036505076",
+  "checked": "2026-11-16"
+ },
+ "scholar": {
+  "citations": 19723,
+  "h_index": 71,
+  "i10_index": 181,
+  "by_year": [],
+  "via": "manual entry",
+  "as_of": "2026-06-10"
+ },
+ "by_year": [
+  {
+   "year": 2012,
+   "citations": 25,
+   "works": 4
+  },
+  {
+   "year": 2013,
+   "citations": 102,
+   "works": 21
+  },
+  {
+   "year": 2014,
+   "citations": 279,
+   "works": 9
+  },
+  {
+   "year": 2015,
+   "citations": 480,
+   "works": 17
+  },
+  {
+   "year": 2016,
+   "citations": 634,
+   "works": 9
+  },
+  {
+   "year": 2017,
+   "citations": 1082,
+   "works": 6
+  },
+  {
+   "year": 2018,
+   "citations": 1279,
+   "works": 20
+  },
+  {
+   "year": 2019,
+   "citations": 1408,
+   "works": 8
+  },
+  {
+   "year": 2020,
+   "citations": 1486,
+   "works": 12
+  },
+  {
+   "year": 2021,
+   "citations": 1731,
+   "works": 26
+  },
+  {
+   "year": 2022,
+   "citations": 1633,
+   "works": 26
+  },
+  {
+   "year": 2023,
+   "citations": 1783,
+   "works": 34
+  },
+  {
+   "year": 2024,
+   "citations": 2111,
+   "works": 33
+  },
+  {
+   "year": 2025,
+   "citations": 2053,
+   "works": 53
+  },
+  {
+   "year": 2026,
+   "citations": 1698,
+   "works": 15
+  }
+ ],
+ "by_year_source": "OpenAlex"
+}

@@ -1,35 +1,51 @@
-# Prof. Mohammad Mansoob Khan — Website v2 (redesigned)
+# Prof. Mohammad Mansoob Khan — website (v3, self-updating)
 
-A polished, fully self-contained academic site. **Every icon is real and embedded inside the HTML** (official ORCID, Google Scholar, Scopus, ResearchGate and Web of Science brand glyphs as inline SVG), and the **photo + all book covers are embedded as data URIs** — so there are *no separate icon/image files that can ever 404*. The only external file is `assets/img/MMK.png` (used for the social-share preview and favicon), and it's already on your server.
+A static GitHub Pages site whose figures refresh themselves once a day.
+
+## How the daily update works
+
+`.github/workflows/update-data.yml` runs every day at 21:17 UTC (05:17 in Brunei). It runs
+`scripts/update_data.py`, which:
+
+1. reads citations, h-index, i10-index and citations-per-year from **OpenAlex**;
+2. reads the full list of works from the **ORCID** record, and looks up each paper's citation count in OpenAlex;
+3. tries to read **Google Scholar** (see below);
+4. writes `data/metrics.json`, `data/publications.json` and appends one point to `data/history.json`;
+5. rewrites the numbers inside the HTML so search engines and link previews show current figures;
+6. commits the change, which republishes the site.
+
+The pages load those JSON files through `assets/js/live.js`. If a source is down on a given day, the
+previous values are kept; nothing is ever blanked.
+
+## One-time setup (after uploading these files)
+
+1. **Settings → Actions → General → Workflow permissions → "Read and write permissions" → Save.**
+2. **Actions tab → "Update research metrics" → Run workflow** to do the first run by hand.
+   After that it runs by itself every day.
+
+## Google Scholar
+
+Google Scholar has no API and refuses automated requests from cloud servers, so by default the big
+numbers come from OpenAlex and the last Scholar reading is shown beneath them with its date.
+Two ways to keep the Scholar figures current:
+
+- **Automatic (recommended):** create a free account at serpapi.com (250 searches a month; this uses
+  about 30), then add the key under **Settings → Secrets and variables → Actions → New repository
+  secret**, named `SERPAPI_KEY`. Once a Scholar reading is less than 14 days old it becomes the
+  headline source automatically.
+- **Manual:** edit `data/scholar_manual.json` (three numbers and a date) whenever you like.
 
 ## Files
+
 ```
-index.html       Home — hero, live metrics band, about, highlights, affiliations
-research.html    Research areas, signature themes, grants
-Papers.html      Profile cards (real logos) + LIVE latest publications + most-cited + recent
-Books.html       Six books with embedded covers + DOIs
-Awards.html      Honours, recent keynotes, editorial & community service
-404.html         Friendly redirect page
-sitemap.xml, robots.txt, .nojekyll
-assets/img/MMK.png   (social-preview + favicon only)
+index.html, research.html, Papers.html, Books.html, Awards.html, 404.html
+assets/js/live.js, assets/css/live.css      live-data layer
+data/metrics.json                           headline figures (written by the Action)
+data/publications.json                      all works + citation counts (written by the Action)
+data/history.json                           one reading per day (written by the Action)
+data/scholar_manual.json                    optional manual Scholar figures (edited by you)
+scripts/update_data.py                      the updater (Python standard library only)
+.github/workflows/update-data.yml           the daily schedule
 ```
 
-## What's better than v1
-- Real, accurate brand logos (no more letter-badges or broken images) — embedded inline, impossible to break.
-- Refined editorial design: serif display headings, navy/teal/gold palette, asymmetric hero, metric band.
-- More content: dedicated Research page, richer About, most-cited papers, keynotes, service.
-- Live cross-check of citations/h-index via OpenAlex; live auto-updating "Latest publications" feed.
-- Mobile-tested, console-clean on every page, full SEO + schema.org Person JSON-LD.
-
-## Deploy (replace what's on GitHub)
-1. On your repo, **Add file → Upload files**.
-2. Unzip this folder and drag in **everything inside it** (the 5 HTML files, `404.html`, `sitemap.xml`, `robots.txt`, `.nojekyll`, and the `assets` folder). Same filenames overwrite the old ones; `research.html` is new.
-3. **Commit changes** → wait ~1 min → open the site and press **Ctrl+F5**.
-
-Because the icons and images are baked into the HTML, even if a drag-and-drop misses a file, the pages still render perfectly. The only file that matters is `assets/img/MMK.png`, which is already live.
-
-## After deploying
-- Google Search Console → submit `sitemap.xml`, request indexing (makes him findable worldwide).
-- Add the site URL to his Google Scholar, ORCID, ResearchGate, LinkedIn and UBD profiles.
-
-Metrics shown: Google Scholar (10 Jun 2026) — 19,723 citations, h-index 71, i10-index 181 — with a live OpenAlex cross-check that updates on every visit.
+To correct the publication list, edit the ORCID record; the site follows it the next day.
