@@ -50,3 +50,21 @@ details.tableview th:first-child,details.tableview td:first-child{text-align:lef
 .more{display:block;margin:18px auto 0;font:inherit;font-weight:700;font-size:.92rem;padding:12px 22px;border-radius:10px;border:1px solid var(--ink);background:#fff;color:var(--ink);cursor:pointer;min-height:44px}
 .more:hover{background:var(--ink);color:#fff}
 .srconly{position:absolute;left:-9999px}
+
+/* Stanford–Elsevier ranking panel */
+.rankgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.rk{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px}
+.rk b{display:block;font-family:"Spectral",Georgia,serif;font-size:1.9rem;line-height:1.1;color:var(--ink)}
+.rk b small{font-size:.85rem;font-weight:600;color:var(--muted);font-family:"Public Sans",-apple-system,"Segoe UI",sans-serif}
+.rk span{display:block;font-size:.84rem;color:var(--muted);margin-top:6px;line-height:1.45}
+.rk.top{background:var(--ink);border-color:var(--ink)}
+.rk.top b{color:#e9c46a}
+.rk.top span{color:#c9d6e2}
+@media(max-width:900px){.rankgrid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:480px){.rankgrid{grid-template-columns:1fr}}
+.ranktable{width:100%;border-collapse:collapse;margin-top:18px;font-size:.9rem}
+.ranktable th,.ranktable td{padding:10px 12px;text-align:right;border-bottom:1px solid var(--line)}
+.ranktable th:first-child{text-align:left}
+.ranktable thead th{font-size:.74rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.ranktable tbody th{font-weight:600;color:var(--ink)}
+@media(max-width:620px){.ranktable{display:block;overflow-x:auto;white-space:nowrap}}
