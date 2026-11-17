@@ -291,7 +291,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.toxlet.2025.111769",
    "url": "https://doi.org/10.1016/j.toxlet.2025.111769",
-   "citations": 32,
+   "citations": 33,
    "authors": [
     "Mohd Fazal Ur Rehman",
     "Mohammad Muaz Khan",
@@ -779,7 +779,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00022-8",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00022-8",
-   "citations": 1,
+   "citations": 2,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -1758,7 +1758,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-323-95191-3.00002-x",
    "url": "https://doi.org/10.1016/b978-0-323-95191-3.00002-x",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -2328,7 +2328,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-12-823018-3.00019-1",
    "url": "https://doi.org/10.1016/b978-0-12-823018-3.00019-1",
-   "citations": 6,
+   "citations": 8,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -2854,7 +2854,7 @@
    "type": "Journal article",
    "doi": "10.1007/s11696-021-01553-7",
    "url": "https://doi.org/10.1007/s11696-021-01553-7",
-   "citations": 40,
+   "citations": 41,
    "authors": [
     "Ashmalina Rahman",
     "Mohammad Hilni Harunsani",
@@ -2886,7 +2886,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-020-02496-1",
    "url": "https://doi.org/10.1007/s00449-020-02496-1",
-   "citations": 68,
+   "citations": 70,
    "authors": [
     "Ashmalina Rahman",
     "Mohammad Hilni Harunsani",
@@ -2922,7 +2922,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.mssp.2021.105761",
    "url": "https://doi.org/10.1016/j.mssp.2021.105761",
-   "citations": 60,
+   "citations": 62,
    "authors": [
     "Ashmalina Rahman",
     "Mohammad Hilni Harunsani",
@@ -3543,7 +3543,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-017-1846-3",
    "url": "https://doi.org/10.1007/s00449-017-1846-3",
-   "citations": 227,
+   "citations": 235,
    "authors": [
     "Azhar Ullah Khan",
     "Nazia Malik",
@@ -3561,7 +3561,7 @@
    "type": "Journal article",
    "doi": "10.1038/s41598-018-19617-2",
    "url": "https://doi.org/10.1038/s41598-018-19617-2",
-   "citations": 150,
+   "citations": 152,
    "authors": [
     "Mohammad Ehtisham Khan",
     "Mohammad Mansoob Khan",
@@ -4451,11 +4451,11 @@
    "title": "Mixed culture electrochemically active biofilms and their microscopic and spectroelectrochemical studies",
    "year": 2014,
    "month": null,
-   "venue": null,
+   "venue": "ACS Sustainable Chemistry & Engineering",
    "type": "Journal article",
    "doi": "10.1021/sc400330r",
    "url": "https://doi.org/10.1021/sc400330r",
-   "citations": 52,
+   "citations": 53,
    "authors": [
     "Mohammad Mansoob Khan",
     "Sajid Ali Ansari",
