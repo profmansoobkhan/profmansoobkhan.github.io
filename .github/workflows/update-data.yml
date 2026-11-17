@@ -1,10 +1,11 @@
 name: Update research metrics
 
-# Runs once a day, refreshes data/*.json and the numbers in the HTML,
+# Runs twice a day, refreshes data/*.json and the numbers in the HTML,
 # commits the change and asks GitHub Pages to rebuild the site.
 on:
   schedule:
     - cron: "17 21 * * *"   # 21:17 UTC = 05:17 in Brunei
+    - cron: "7 4 * * *"     # 04:07 UTC = 12:07 in Brunei (second daily run, in case one is skipped)
   workflow_dispatch:         # "Run workflow" button in the Actions tab
 
 permissions:
