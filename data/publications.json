@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "count": 288,
  "citation_source": "OpenAlex",
  "items": [
@@ -43,7 +43,7 @@
    "type": "Journal article",
    "doi": "10.1007/s10266-025-01267-2",
    "url": "https://doi.org/10.1007/s10266-025-01267-2",
-   "citations": 6,
+   "citations": 9,
    "authors": [
     "Palanivel Velmurugan",
     "Moorthy Muruganandham",
@@ -137,7 +137,7 @@
    "type": "Journal article",
    "doi": "10.1080/10408436.2025.2509646",
    "url": "https://doi.org/10.1080/10408436.2025.2509646",
-   "citations": 16,
+   "citations": 19,
    "authors": [
     "Shaikh Parwaiz",
     "James R. Jennings",
@@ -373,7 +373,7 @@
    "type": "Journal article",
    "doi": "10.1007/s43994-024-00206-1",
    "url": "https://doi.org/10.1007/s43994-024-00206-1",
-   "citations": 6,
+   "citations": 7,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Mansoob Khan"
@@ -419,7 +419,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-024-03123-z",
    "url": "https://doi.org/10.1007/s00449-024-03123-z",
-   "citations": 27,
+   "citations": 31,
    "authors": [
     "Abdul Wafi",
     "Mohammad Mansoob Khan"
@@ -434,7 +434,7 @@
    "type": "Journal article",
    "doi": "10.1002/cptc.202400234",
    "url": "https://doi.org/10.1002/cptc.202400234",
-   "citations": 9,
+   "citations": 11,
    "authors": [
     "Ashmalina Rahman",
     "Shaikh Parwaiz",
@@ -485,7 +485,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00014-9",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00014-9",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -513,7 +513,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00009-5",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00009-5",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -541,7 +541,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00012-5",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00012-5",
-   "citations": 1,
+   "citations": 2,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -555,7 +555,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00019-8",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00019-8",
-   "citations": 1,
+   "citations": 2,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -583,7 +583,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00011-3",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00011-3",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -597,7 +597,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00005-8",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00005-8",
-   "citations": 2,
+   "citations": 3,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -639,7 +639,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00029-0",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00029-0",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -695,7 +695,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00003-4",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00003-4",
-   "citations": 18,
+   "citations": 25,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -737,7 +737,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00004-6",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00004-6",
-   "citations": 4,
+   "citations": 7,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -793,7 +793,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00028-9",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00028-9",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -821,7 +821,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00015-0",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00015-0",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -877,7 +877,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00027-7",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00027-7",
-   "citations": 4,
+   "citations": 5,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -908,7 +908,7 @@
    "type": "Journal article",
    "doi": "10.1080/1536383x.2024.2399243",
    "url": "https://doi.org/10.1080/1536383x.2024.2399243",
-   "citations": 13,
+   "citations": 17,
    "authors": [
     "Shomaila Noureen",
     "Javeria Sultana",
@@ -928,7 +928,7 @@
    "type": "Journal article",
    "doi": "10.1080/14786451.2025.2481969",
    "url": "https://doi.org/10.1080/14786451.2025.2481969",
-   "citations": 9,
+   "citations": 11,
    "authors": [
     "Vinos Mushir Faris",
     "Samir Mustafa Hamad",
@@ -958,7 +958,7 @@
    "type": "Journal article",
    "doi": "10.61931/2224-9028.1633",
    "url": "https://doi.org/10.61931/2224-9028.1633",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     "Nur Atiqah Suhaili",
     "Ya Chee Lim",
@@ -1024,7 +1024,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.nxnano.2025.100208",
    "url": "https://doi.org/10.1016/j.nxnano.2025.100208",
-   "citations": 3,
+   "citations": 5,
    "authors": [
     "Govindarajalu Kishore",
     "Periyasamy Pritha",
@@ -1087,7 +1087,7 @@
    "type": "Journal article",
    "doi": "10.1038/s41598-025-97680-2",
    "url": "https://doi.org/10.1038/s41598-025-97680-2",
-   "citations": 12,
+   "citations": 18,
    "authors": [
     "Ashmalina Rahman",
     "Fazlurrahman Khan",
@@ -1105,7 +1105,7 @@
    "type": "Journal article",
    "doi": "10.1007/s11696-024-03737-3",
    "url": "https://doi.org/10.1007/s11696-024-03737-3",
-   "citations": 4,
+   "citations": 5,
    "authors": [
     "Alif Firman Firdausy",
     "Liszulfah Roza",
@@ -1122,7 +1122,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.mssp.2024.108634",
    "url": "https://doi.org/10.1016/j.mssp.2024.108634",
-   "citations": 33,
+   "citations": 37,
    "authors": [
     "Mohammad Mansoob Khan",
     "Khadijat Olabisi Abdulwahab"
@@ -1169,7 +1169,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-024-03044-x",
    "url": "https://doi.org/10.1007/s00449-024-03044-x",
-   "citations": 25,
+   "citations": 26,
    "authors": [
     "Nurul Nazirah Saifuddin",
     "Shaidatul Najihah Matussin",
@@ -1186,7 +1186,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.colsurfa.2024.133362",
    "url": "https://doi.org/10.1016/j.colsurfa.2024.133362",
-   "citations": 22,
+   "citations": 23,
    "authors": [
     "Abdelkader Nebatti Ech‐Chergui",
     "Farid Bennabi",
@@ -1211,7 +1211,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.diamond.2024.110912",
    "url": "https://doi.org/10.1016/j.diamond.2024.110912",
-   "citations": 11,
+   "citations": 12,
    "authors": [
     "Khalid Siraj",
     "James Simon Aballa",
@@ -1231,7 +1231,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-023-02932-y",
    "url": "https://doi.org/10.1007/s00449-023-02932-y",
-   "citations": 9,
+   "citations": 12,
    "authors": [
     "Mohd Fazal Ur Rehman",
     "Mohammad Mansoob Khan"
@@ -1299,7 +1299,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.mtcomm.2024.108775",
    "url": "https://doi.org/10.1016/j.mtcomm.2024.108775",
-   "citations": 12,
+   "citations": 13,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Hilni Harunsani",
@@ -1315,7 +1315,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.mtcomm.2024.109556",
    "url": "https://doi.org/10.1016/j.mtcomm.2024.109556",
-   "citations": 24,
+   "citations": 32,
    "authors": [
     "Asfandyar Khan",
     "Zsolt Valicsek",
@@ -1333,7 +1333,7 @@
    "type": "Journal article",
    "doi": "10.1080/10408436.2023.2272963",
    "url": "https://doi.org/10.1080/10408436.2023.2272963",
-   "citations": 106,
+   "citations": 115,
    "authors": [
     "Khadijat Olabisi Abdulwahab",
     "Mohammad Mansoob Khan",
@@ -1386,7 +1386,7 @@
    "type": "Journal article",
    "doi": "10.1021/acsomega.3c10416",
    "url": "https://doi.org/10.1021/acsomega.3c10416",
-   "citations": 8,
+   "citations": 9,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Fazlurrahman Khan",
@@ -1466,7 +1466,7 @@
    "type": "Journal article",
    "doi": "10.1007/s11243-024-00584-9",
    "url": "https://doi.org/10.1007/s11243-024-00584-9",
-   "citations": 18,
+   "citations": 19,
    "authors": [
     "Abdul Wafi",
     "Liszulfah Roza",
@@ -1489,7 +1489,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jphotochem.2023.115177",
    "url": "https://doi.org/10.1016/j.jphotochem.2023.115177",
-   "citations": 45,
+   "citations": 48,
    "authors": [
     "Asyiqin Zulkiflee",
     "Mohammad Mansoob Khan",
@@ -1528,7 +1528,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jece.2024.113175",
    "url": "https://doi.org/10.1016/j.jece.2024.113175",
-   "citations": 45,
+   "citations": 48,
    "authors": [
     "Shaikh Parwaiz",
     "Mohammad Mansoob Khan"
@@ -1561,7 +1561,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.plaphy.2024.108674",
    "url": "https://doi.org/10.1016/j.plaphy.2024.108674",
-   "citations": 163,
+   "citations": 182,
    "authors": [
     "Bisma Hilal",
     "Mohammad Mansoob Khan",
@@ -1680,7 +1680,7 @@
    "type": "Journal article",
    "doi": "10.1007/s10854-023-10435-5",
    "url": "https://doi.org/10.1007/s10854-023-10435-5",
-   "citations": 70,
+   "citations": 77,
    "authors": [
     "Yarub Al-Douri",
     "Mohammad Mansoob Khan",
@@ -1696,7 +1696,7 @@
    "type": "Journal article",
    "doi": "10.3389/fenvs.2023.1112019",
    "url": "https://doi.org/10.3389/fenvs.2023.1112019",
-   "citations": 34,
+   "citations": 38,
    "authors": [
     "Larbi El Hammari",
     "Rinad Hamed",
@@ -1726,7 +1726,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.rechem.2023.100891",
    "url": "https://doi.org/10.1016/j.rechem.2023.100891",
-   "citations": 6,
+   "citations": 8,
    "authors": [
     "Chun Mun Khor",
     "Mohammad Mansoob Khan",
@@ -1793,7 +1793,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-323-95191-3.00008-0",
    "url": "https://doi.org/10.1016/b978-0-323-95191-3.00008-0",
-   "citations": 5,
+   "citations": 8,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -1835,7 +1835,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-323-95191-3.00013-4",
    "url": "https://doi.org/10.1016/b978-0-323-95191-3.00013-4",
-   "citations": 3,
+   "citations": 5,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -1849,7 +1849,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-323-95191-3.00004-3",
    "url": "https://doi.org/10.1016/b978-0-323-95191-3.00004-3",
-   "citations": 0,
+   "citations": 1,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -1863,7 +1863,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-323-95191-3.00007-9",
    "url": "https://doi.org/10.1016/b978-0-323-95191-3.00007-9",
-   "citations": 7,
+   "citations": 11,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -1877,7 +1877,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-323-95191-3.00006-7",
    "url": "https://doi.org/10.1016/b978-0-323-95191-3.00006-7",
-   "citations": 2,
+   "citations": 3,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -1903,7 +1903,7 @@
    "type": "Book",
    "doi": "10.1016/c2021-0-01798-3",
    "url": "https://doi.org/10.1016/c2021-0-01798-3",
-   "citations": 15,
+   "citations": 17,
    "authors": [],
    "oa": false
   },
@@ -1915,7 +1915,7 @@
    "type": "Other",
    "doi": "10.2139/ssrn.4549141",
    "url": "https://doi.org/10.2139/ssrn.4549141",
-   "citations": 22,
+   "citations": 23,
    "authors": [
     "Abdelkader Nebatti Ech‐Chergui",
     "Farid Bennabi",
@@ -1940,7 +1940,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.mssp.2023.107547",
    "url": "https://doi.org/10.1016/j.mssp.2023.107547",
-   "citations": 55,
+   "citations": 56,
    "authors": [
     "Asyiqin Zulkiflee",
     "Mohammad Mansoob Khan",
@@ -1956,7 +1956,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jre.2022.09.003",
    "url": "https://doi.org/10.1016/j.jre.2022.09.003",
-   "citations": 208,
+   "citations": 210,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Hilni Harunsani",
@@ -1990,7 +1990,7 @@
    "type": "Journal article",
    "doi": "10.1021/acsomega.3c01199",
    "url": "https://doi.org/10.1021/acsomega.3c01199",
-   "citations": 127,
+   "citations": 130,
    "authors": [
     "Khadijat Olabisi Abdulwahab",
     "Mohammad Mansoob Khan",
@@ -2061,7 +2061,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-023-02878-1",
    "url": "https://doi.org/10.1007/s00449-023-02878-1",
-   "citations": 15,
+   "citations": 16,
    "authors": [
     "Mohammad Mansoob Khan",
     "Shaidatul Najihah Matussin",
@@ -2107,7 +2107,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.heliyon.2023.e21270",
    "url": "https://doi.org/10.1016/j.heliyon.2023.e21270",
-   "citations": 34,
+   "citations": 35,
    "authors": [
     "Asyiqin Zulkiflee",
     "Mohammad Mansoob Khan",
@@ -2145,7 +2145,7 @@
    "type": "Journal article",
    "doi": "10.1021/acsomega.2c07058",
    "url": "https://doi.org/10.1021/acsomega.2c07058",
-   "citations": 101,
+   "citations": 103,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Fazlurrahman Khan",
@@ -2182,7 +2182,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.catcom.2022.106556",
    "url": "https://doi.org/10.1016/j.catcom.2022.106556",
-   "citations": 80,
+   "citations": 83,
    "authors": [
     "Amiezatul Amirulsyafiee",
     "Mohammad Mansoob Khan",
@@ -2198,7 +2198,7 @@
    "type": "Journal article",
    "doi": "10.1007/s11696-022-02543-z",
    "url": "https://doi.org/10.1007/s11696-022-02543-z",
-   "citations": 27,
+   "citations": 30,
    "authors": [
     "Abdelkader Nebatti Ech‐Chergui",
     "Ali Sadek Kadari",
@@ -2294,7 +2294,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.marpolbul.2022.113478",
    "url": "https://doi.org/10.1016/j.marpolbul.2022.113478",
-   "citations": 28,
+   "citations": 29,
    "authors": [
     "Huan Chiao Lee",
     "Mohammad Mansoob Khan",
@@ -2383,7 +2383,7 @@
    "type": "Journal article",
    "doi": "10.1080/10408436.2021.1935713",
    "url": "https://doi.org/10.1080/10408436.2021.1935713",
-   "citations": 81,
+   "citations": 83,
    "authors": [
     "Fahad Saleem Ahmed Khan",
     "Nabisab Mujawar Mubarak",
@@ -2405,7 +2405,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.chphi.2022.100082",
    "url": "https://doi.org/10.1016/j.chphi.2022.100082",
-   "citations": 15,
+   "citations": 16,
    "authors": [
     "Chun Mun Khor",
     "Mohammad Mansoob Khan",
@@ -2423,7 +2423,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-021-02656-x",
    "url": "https://doi.org/10.1007/s00449-021-02656-x",
-   "citations": 24,
+   "citations": 25,
    "authors": [
     "Siti Najihah Naidi",
     "Fazlurrahman Khan",
@@ -2460,7 +2460,7 @@
    "type": "Journal article",
    "doi": "10.1007/s11144-022-02199-6",
    "url": "https://doi.org/10.1007/s11144-022-02199-6",
-   "citations": 16,
+   "citations": 17,
    "authors": [
     "Chun Mun Khor",
     "Mohammad Mansoob Khan",
@@ -2478,7 +2478,7 @@
    "type": "Journal article",
    "doi": "10.1021/acsomega.2c01314",
    "url": "https://doi.org/10.1021/acsomega.2c01314",
-   "citations": 142,
+   "citations": 148,
    "authors": [
     "Ashmalina Rahman",
     "James R. Jennings",
@@ -2510,7 +2510,7 @@
    "type": "Journal article",
    "doi": "10.3390/nano12162820",
    "url": "https://doi.org/10.3390/nano12162820",
-   "citations": 65,
+   "citations": 66,
    "authors": [
     "Mohammad Mansoob Khan",
     "Ashmalina Rahman",
@@ -2542,7 +2542,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-323-91611-0.00006-2",
    "url": "https://doi.org/10.1016/b978-0-323-91611-0.00006-2",
-   "citations": 6,
+   "citations": 7,
    "authors": [
     "Manahil Bakhtiar",
     "Farman Ali",
@@ -2563,7 +2563,7 @@
    "type": "Journal article",
    "doi": "10.1007/s12668-022-00956-4",
    "url": "https://doi.org/10.1007/s12668-022-00956-4",
-   "citations": 29,
+   "citations": 30,
    "authors": [
     "Siti Najihah Naidi",
     "Mohammad Hilni Harunsani",
@@ -2580,7 +2580,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-022-02788-8",
    "url": "https://doi.org/10.1007/s00449-022-02788-8",
-   "citations": 6,
+   "citations": 7,
    "authors": [
     "Mohammad Mansoob Khan",
     "Yea-Wen Goh",
@@ -2615,7 +2615,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-022-02733-9",
    "url": "https://doi.org/10.1007/s00449-022-02733-9",
-   "citations": 207,
+   "citations": 213,
    "authors": [
     "Vinda Puspasari",
     "Aga Ridhova",
@@ -2651,7 +2651,7 @@
    "type": "Journal article",
    "doi": "10.1039/d1nj04346c",
    "url": "https://doi.org/10.1039/d1nj04346c",
-   "citations": 164,
+   "citations": 167,
    "authors": [
     "Ashmalina Rahman",
     "Mohammad Mansoob Khan"
@@ -2707,7 +2707,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-12-822836-4.00028-8",
    "url": "https://doi.org/10.1016/b978-0-12-822836-4.00028-8",
-   "citations": 2,
+   "citations": 3,
    "authors": [
     "Ashmalina Rahman",
     "Ai Ling Tan",
@@ -2724,7 +2724,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-12-820498-6.00002-0",
    "url": "https://doi.org/10.1016/b978-0-12-820498-6.00002-0",
-   "citations": 31,
+   "citations": 37,
    "authors": [
     "Ersan Y. Muslih",
     "Badrul Munir",
@@ -2752,7 +2752,7 @@
    "type": "Journal article",
    "doi": "10.1039/d1bm00298h",
    "url": "https://doi.org/10.1039/d1bm00298h",
-   "citations": 62,
+   "citations": 64,
    "authors": [
     "Siti Najihah Naidi",
     "Fazlurrahman Khan",
@@ -2771,7 +2771,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-12-820498-6.00001-9",
    "url": "https://doi.org/10.1016/b978-0-12-820498-6.00001-9",
-   "citations": 33,
+   "citations": 39,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -2785,7 +2785,7 @@
    "type": "Journal article",
    "doi": "10.1039/d1nj00416f",
    "url": "https://doi.org/10.1039/d1nj00416f",
-   "citations": 52,
+   "citations": 53,
    "authors": [
     "Siti Najihah Naidi",
     "Fazlurrahman Khan",
@@ -2821,7 +2821,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-12-819961-9.00001-3",
    "url": "https://doi.org/10.1016/b978-0-12-819961-9.00001-3",
-   "citations": 2,
+   "citations": 3,
    "authors": [
     "Haryanto Haryanto",
     "Mohammad Mansoob Khan"
@@ -2836,7 +2836,7 @@
    "type": "Journal article",
    "doi": "10.1007/s12668-020-00820-3",
    "url": "https://doi.org/10.1007/s12668-020-00820-3",
-   "citations": 20,
+   "citations": 21,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Ai Ling Tan",
@@ -2872,7 +2872,7 @@
    "type": "Book",
    "doi": "10.1016/c2019-0-01819-5",
    "url": "https://doi.org/10.1016/c2019-0-01819-5",
-   "citations": 72,
+   "citations": 94,
    "authors": [
     "Khan, Mohammad Mansoob"
    ],
@@ -2905,7 +2905,7 @@
    "type": "Journal article",
    "doi": "10.1039/d1tb00248a",
    "url": "https://doi.org/10.1039/d1tb00248a",
-   "citations": 172,
+   "citations": 176,
    "authors": [
     "Siti Najihah Naidi",
     "Mohammad Hilni Harunsani",
@@ -2941,7 +2941,7 @@
    "type": "Journal article",
    "doi": "10.1149/1945-7111/abf263",
    "url": "https://doi.org/10.1149/1945-7111/abf263",
-   "citations": 10,
+   "citations": 11,
    "authors": [
     "K. Sanjeev Kumar",
     "M. Charles Arockiaraj",
@@ -2977,7 +2977,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-12-820532-7.00008-4",
    "url": "https://doi.org/10.1016/b978-0-12-820532-7.00008-4",
-   "citations": 26,
+   "citations": 35,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -2991,7 +2991,7 @@
    "type": "Journal article",
    "doi": "10.1080/08927014.2021.1948538",
    "url": "https://doi.org/10.1080/08927014.2021.1948538",
-   "citations": 38,
+   "citations": 42,
    "authors": [
     "Fazlurrahman Khan",
     "Nilushi Indika Bamunuarachchi",
@@ -3010,7 +3010,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jece.2021.105481",
    "url": "https://doi.org/10.1016/j.jece.2021.105481",
-   "citations": 61,
+   "citations": 64,
    "authors": [
     "Ashmalina Rahman",
     "Ai Ling Tan",
@@ -3029,7 +3029,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-021-02530-w",
    "url": "https://doi.org/10.1007/s00449-021-02530-w",
-   "citations": 128,
+   "citations": 135,
    "authors": [
     "Ashmalina Rahman",
     "Mohammad Hilni Harunsani",
@@ -3046,7 +3046,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jece.2020.104725",
    "url": "https://doi.org/10.1016/j.jece.2020.104725",
-   "citations": 298,
+   "citations": 310,
    "authors": [
     "Munir Ahmad",
     "Wajid Ur Rehman",
@@ -3068,7 +3068,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.mtcomm.2020.101677",
    "url": "https://doi.org/10.1016/j.mtcomm.2020.101677",
-   "citations": 34,
+   "citations": 35,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Hilni Harunsani",
@@ -3124,7 +3124,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jfca.2020.103520",
    "url": "https://doi.org/10.1016/j.jfca.2020.103520",
-   "citations": 21,
+   "citations": 23,
    "authors": [
     "Nurul Farhanah Haji Abd Hamid",
     "Mohammad Mansoob Khan",
@@ -3140,7 +3140,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.solidstatesciences.2020.106279",
    "url": "https://doi.org/10.1016/j.solidstatesciences.2020.106279",
-   "citations": 54,
+   "citations": 57,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Hilni Harunsani",
@@ -3159,7 +3159,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-020-02343-3",
    "url": "https://doi.org/10.1007/s00449-020-02343-3",
-   "citations": 70,
+   "citations": 71,
    "authors": [
     "Mohammad Mansoob Khan",
     "Mohammad Hilni Harunsani",
@@ -3178,7 +3178,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.ceramint.2020.03.250",
    "url": "https://doi.org/10.1016/j.ceramint.2020.03.250",
-   "citations": 69,
+   "citations": 70,
    "authors": [
     "Mehmet D. Çalişir",
     "Melike Güngör",
@@ -3208,7 +3208,7 @@
    "type": "Journal article",
    "doi": "10.1007/s12668-020-00775-5",
    "url": "https://doi.org/10.1007/s12668-020-00775-5",
-   "citations": 76,
+   "citations": 83,
    "authors": [
     "Mohammad Mansoob Khan",
     "Mohammad Hilni Harunsani",
@@ -3227,7 +3227,7 @@
    "type": "Journal article",
    "doi": "10.2174/1872210514666200313121953",
    "url": "https://doi.org/10.2174/1872210514666200313121953",
-   "citations": 30,
+   "citations": 31,
    "authors": [
     "Fazlurrahman Khan",
     "Jang-Won Lee",
@@ -3247,7 +3247,7 @@
    "type": "Journal article",
    "doi": "10.1021/acssuschemeng.9b06398",
    "url": "https://doi.org/10.1021/acssuschemeng.9b06398",
-   "citations": 190,
+   "citations": 201,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Hilni Harunsani",
@@ -3264,7 +3264,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-020-02330-8",
    "url": "https://doi.org/10.1007/s00449-020-02330-8",
-   "citations": 92,
+   "citations": 99,
    "authors": [
     "Azhar Ullah Khan",
     "M. Rizwan Khan",
@@ -3295,7 +3295,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.renene.2019.01.103",
    "url": "https://doi.org/10.1016/j.renene.2019.01.103",
-   "citations": 60,
+   "citations": 62,
    "authors": [
     "Mirabbos Hojamberdiev",
     "Mohammad Mansoob Khan",
@@ -3344,7 +3344,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.mssp.2018.11.030",
    "url": "https://doi.org/10.1016/j.mssp.2018.11.030",
-   "citations": 130,
+   "citations": 134,
    "authors": [
     "Mohammad Mansoob Khan",
     "Nurin Hayatus Saadah",
@@ -3363,7 +3363,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-018-2012-2",
    "url": "https://doi.org/10.1007/s00449-018-2012-2",
-   "citations": 125,
+   "citations": 129,
    "authors": [
     "Azhar Ullah Khan",
     "M. Rizwan Khan",
@@ -3381,7 +3381,7 @@
    "type": "Journal article",
    "doi": "10.1007/s12668-019-00643-x",
    "url": "https://doi.org/10.1007/s12668-019-00643-x",
-   "citations": 63,
+   "citations": 68,
    "authors": [
     "Azhar Ullah Khan",
     "M. Rizwan Khan",
@@ -3397,7 +3397,7 @@
    "type": "Journal article",
    "doi": "10.1021/acs.jpcc.9b05105",
    "url": "https://doi.org/10.1021/acs.jpcc.9b05105",
-   "citations": 84,
+   "citations": 86,
    "authors": [
     "Akbar Mohammad",
     "Md Rezaul Karim",
@@ -3415,7 +3415,7 @@
    "type": "Journal article",
    "doi": "10.1166/mex.2019.1495",
    "url": "https://doi.org/10.1166/mex.2019.1495",
-   "citations": 68,
+   "citations": 76,
    "authors": [
     "Shaikh Parwaiz",
     "Mohammad Mansoob Khan",
@@ -3431,7 +3431,7 @@
    "type": "Journal article",
    "doi": "10.1007/s12668-019-00616-0",
    "url": "https://doi.org/10.1007/s12668-019-00616-0",
-   "citations": 57,
+   "citations": 59,
    "authors": [
     "Mohammad Mansoob Khan",
     "Nurin Hayatus Saadah",
@@ -3450,7 +3450,7 @@
    "type": "Journal article",
    "doi": "10.1021/acs.jcim.8b00612",
    "url": "https://doi.org/10.1021/acs.jcim.8b00612",
-   "citations": 46,
+   "citations": 49,
    "authors": [
     "Shaikh Parwaiz",
     "Owais Ahmed Malik",
@@ -3514,7 +3514,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-08-101977-1.00002-8",
    "url": "https://doi.org/10.1016/b978-0-08-101977-1.00002-8",
-   "citations": 14,
+   "citations": 16,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -3528,7 +3528,7 @@
    "type": "Book chapter",
    "doi": "10.1002/9783527807918.ch11",
    "url": "https://doi.org/10.1002/9783527807918.ch11",
-   "citations": 4,
+   "citations": 5,
    "authors": [
     "Haryanto Haryanto",
     "Mohammad Mansoob Khan"
@@ -3590,7 +3590,7 @@
    "type": "Journal article",
    "doi": "10.1039/c8gc01746h",
    "url": "https://doi.org/10.1039/c8gc01746h",
-   "citations": 59,
+   "citations": 60,
    "authors": [
     "Mirabbos Hojamberdiev",
     "Yanfei Cai",
@@ -3612,7 +3612,7 @@
    "type": "Journal article",
    "doi": "10.1007/s12668-017-0496-x",
    "url": "https://doi.org/10.1007/s12668-017-0496-x",
-   "citations": 150,
+   "citations": 156,
    "authors": [
     "Aqib Javaid",
     "Sandra Folarin Oloketuyi",
@@ -3629,7 +3629,7 @@
    "type": "Journal article",
    "doi": "10.1039/c8ra00690c",
    "url": "https://doi.org/10.1039/c8ra00690c",
-   "citations": 61,
+   "citations": 65,
    "authors": [
     "Mohammad Ehtisham Khan",
     "Mohammad Mansoob Khan",
@@ -3645,7 +3645,7 @@
    "type": "Journal article",
    "doi": "10.1021/acsanm.8b00548",
    "url": "https://doi.org/10.1021/acsanm.8b00548",
-   "citations": 183,
+   "citations": 189,
    "authors": [
     "Mohammad Ehtisham Khan",
     "Thi Hiep Han",
@@ -3684,7 +3684,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.psep.2018.09.015",
    "url": "https://doi.org/10.1016/j.psep.2018.09.015",
-   "citations": 144,
+   "citations": 152,
    "authors": [
     "Rajendran Saravanan",
     "Devaraj Manoj",
@@ -3705,7 +3705,7 @@
    "type": "Book",
    "doi": "10.1016/c2016-0-01006-9",
    "url": "https://doi.org/10.1016/c2016-0-01006-9",
-   "citations": 109,
+   "citations": 116,
    "authors": [],
    "oa": false
   },
@@ -3732,7 +3732,7 @@
    "type": "Journal article",
    "doi": "10.2174/1389201019666180828090052",
    "url": "https://doi.org/10.2174/1389201019666180828090052",
-   "citations": 33,
+   "citations": 34,
    "authors": [
     "Fazlurrahman Khan",
     "Mohammad Mansoob Khan",
@@ -3764,7 +3764,7 @@
    "type": "Book",
    "doi": "10.1007/978-3-319-62446-4",
    "url": "https://doi.org/10.1007/978-3-319-62446-4",
-   "citations": 188,
+   "citations": 201,
    "authors": [],
    "oa": false
   },
@@ -3788,7 +3788,7 @@
    "type": "Journal article",
    "doi": "10.1038/s41598-017-06139-6",
    "url": "https://doi.org/10.1038/s41598-017-06139-6",
-   "citations": 309,
+   "citations": 323,
    "authors": [
     "Mohammad Ehtisham Khan",
     "Mohammad Mansoob Khan",
@@ -3804,7 +3804,7 @@
    "type": "Journal article",
    "doi": "10.1021/acs.jpcc.7b06846",
    "url": "https://doi.org/10.1021/acs.jpcc.7b06846",
-   "citations": 119,
+   "citations": 121,
    "authors": [
     "Shaikh Parwaiz",
     "Kousik Bhunia",
@@ -3850,7 +3850,7 @@
    "type": "Journal article",
    "doi": "10.1038/srep31641",
    "url": "https://doi.org/10.1038/srep31641",
-   "citations": 625,
+   "citations": 636,
    "authors": [
     "Saravanan Rajendran",
     "Mohammad Mansoob Khan",
@@ -3869,7 +3869,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jallcom.2016.03.070",
    "url": "https://doi.org/10.1016/j.jallcom.2016.03.070",
-   "citations": 114,
+   "citations": 116,
    "authors": [
     "Young In Choi",
     "Seungwon Lee",
@@ -3889,7 +3889,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jcis.2016.07.070",
    "url": "https://doi.org/10.1016/j.jcis.2016.07.070",
-   "citations": 171,
+   "citations": 176,
    "authors": [
     "Mohammad Ehtisham Khan",
     "Mohammad Mansoob Khan",
@@ -3922,7 +3922,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.molliq.2016.06.074",
    "url": "https://doi.org/10.1016/j.molliq.2016.06.074",
-   "citations": 692,
+   "citations": 700,
    "authors": [
     "Rajendran Saravanan",
     "Elisban Juani Sacari Sacari",
@@ -3941,7 +3941,7 @@
    "type": "Journal article",
    "doi": "10.1039/c5ra24575c",
    "url": "https://doi.org/10.1039/c5ra24575c",
-   "citations": 136,
+   "citations": 138,
    "authors": [
     "Mohammad Ehtisham Khan",
     "Mohammad Mansoob Khan",
@@ -3957,7 +3957,7 @@
    "type": "Journal article",
    "doi": "10.1039/c5nj03478g",
    "url": "https://doi.org/10.1039/c5nj03478g",
-   "citations": 705,
+   "citations": 747,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4009,7 +4009,7 @@
    "type": "Journal article",
    "doi": "10.1039/c5nj01320h",
    "url": "https://doi.org/10.1039/c5nj01320h",
-   "citations": 147,
+   "citations": 149,
    "authors": [
     "Mohammad Ehtisham Khan",
     "Mohammad Mansoob Khan",
@@ -4025,7 +4025,7 @@
    "type": "Journal article",
    "doi": "10.1039/c5nj01127b",
    "url": "https://doi.org/10.1039/c5nj01127b",
-   "citations": 50,
+   "citations": 53,
    "authors": [
     "Mohd Omaish Ansari",
     "Mohammad Mansoob Khan",
@@ -4042,7 +4042,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jscs.2015.06.004",
    "url": "https://doi.org/10.1016/j.jscs.2015.06.004",
-   "citations": 118,
+   "citations": 123,
    "authors": [
     "Mohd Omaish Ansari",
     "Mohammad Mansoob Khan",
@@ -4059,7 +4059,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.solmat.2015.05.029",
    "url": "https://doi.org/10.1016/j.solmat.2015.05.029",
-   "citations": 149,
+   "citations": 155,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4076,7 +4076,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.molliq.2015.05.040",
    "url": "https://doi.org/10.1016/j.molliq.2015.05.040",
-   "citations": 177,
+   "citations": 186,
    "authors": [
     "R. Saravanan",
     "Francisco J. Gracia",
@@ -4096,7 +4096,7 @@
    "type": "Journal article",
    "doi": "10.1007/s13391-015-5073-2",
    "url": "https://doi.org/10.1007/s13391-015-5073-2",
-   "citations": 14,
+   "citations": 15,
    "authors": [
     "Mohd Omaish Ansari",
     "Mohammad Mansoob Khan",
@@ -4113,7 +4113,7 @@
    "type": "Journal article",
    "doi": "10.1039/c5nj00556f",
    "url": "https://doi.org/10.1039/c5nj00556f",
-   "citations": 106,
+   "citations": 111,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4130,7 +4130,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.ceramint.2015.03.321",
    "url": "https://doi.org/10.1016/j.ceramint.2015.03.321",
-   "citations": 44,
+   "citations": 45,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4147,7 +4147,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jscs.2015.04.003",
    "url": "https://doi.org/10.1016/j.jscs.2015.04.003",
-   "citations": 696,
+   "citations": 745,
    "authors": [
     "Mohammad Mansoob Khan",
     "Syed Farooq Adil",
@@ -4163,7 +4163,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jcis.2015.04.035",
    "url": "https://doi.org/10.1016/j.jcis.2015.04.035",
-   "citations": 640,
+   "citations": 652,
    "authors": [
     "Rajendran Saravanan",
     "Mohammad Mansoob Khan",
@@ -4183,7 +4183,7 @@
    "type": "Journal article",
    "doi": "10.1039/c5ra02557e",
    "url": "https://doi.org/10.1039/c5ra02557e",
-   "citations": 447,
+   "citations": 454,
    "authors": [
     "Rajendran Saravanan",
     "Mohammad Mansoob Khan",
@@ -4219,7 +4219,7 @@
    "type": "Journal article",
    "doi": "10.1039/c4nj02245a",
    "url": "https://doi.org/10.1039/c4nj02245a",
-   "citations": 109,
+   "citations": 111,
    "authors": [
     "Mohammad Mansoob Khan",
     "Sajid Ali Ansari",
@@ -4252,7 +4252,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jcis.2014.06.026",
    "url": "https://doi.org/10.1016/j.jcis.2014.06.026",
-   "citations": 128,
+   "citations": 134,
    "authors": [
     "Mohammad Mansoob Khan",
     "Sajid Ali Ansari",
@@ -4271,7 +4271,7 @@
    "type": "Journal article",
    "doi": "10.1039/c4ra03448a",
    "url": "https://doi.org/10.1039/c4ra03448a",
-   "citations": 124,
+   "citations": 128,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4289,7 +4289,7 @@
    "type": "Journal article",
    "doi": "10.1021/ie500986n",
    "url": "https://doi.org/10.1021/ie500986n",
-   "citations": 367,
+   "citations": 390,
    "authors": [
     "Mohammad Mansoob Khan",
     "Sajid Ali Ansari",
@@ -4308,7 +4308,7 @@
    "type": "Journal article",
    "doi": "doi: 10.1021/am500488e",
    "url": "https://doi.org/doi: 10.1021/am500488e",
-   "citations": 90,
+   "citations": 95,
    "authors": [
     "Mohd Omaish Ansari",
     "Mohammad Mansoob Khan",
@@ -4327,7 +4327,7 @@
    "type": "Journal article",
    "doi": "10.1039/c4ra02602k",
    "url": "https://doi.org/10.1039/c4ra02602k",
-   "citations": 82,
+   "citations": 85,
    "authors": [
     "Mohd Omaish Ansari",
     "Mohammad Mansoob Khan",
@@ -4345,7 +4345,7 @@
    "type": "Journal article",
    "doi": "10.1021/jp500933t",
    "url": "https://doi.org/10.1021/jp500933t",
-   "citations": 133,
+   "citations": 136,
    "authors": [
     "Mohammad Mansoob Khan",
     "Sajid Ali Ansari",
@@ -4364,7 +4364,7 @@
    "type": "Journal article",
    "doi": "10.1039/c4ra00861h",
    "url": "https://doi.org/10.1039/c4ra00861h",
-   "citations": 349,
+   "citations": 369,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4383,7 +4383,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.cej.2013.12.033",
    "url": "https://doi.org/10.1016/j.cej.2013.12.033",
-   "citations": 82,
+   "citations": 84,
    "authors": [
     "Mohd Omaish Ansari",
     "Mohammad Mansoob Khan",
@@ -4402,7 +4402,7 @@
    "type": "Journal article",
    "doi": "10.1039/c3nj01488f",
    "url": "https://doi.org/10.1039/c3nj01488f",
-   "citations": 72,
+   "citations": 73,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4420,7 +4420,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jiec.2013.08.002",
    "url": "https://doi.org/10.1016/j.jiec.2013.08.002",
-   "citations": 279,
+   "citations": 284,
    "authors": [
     "Mohammad Mansoob Khan",
     "Jintae Lee",
@@ -4451,7 +4451,7 @@
    "title": "Mixed culture electrochemically active biofilms and their microscopic and spectroelectrochemical studies",
    "year": 2014,
    "month": null,
-   "venue": "ACS Sustainable Chemistry & Engineering",
+   "venue": null,
    "type": "Journal article",
    "doi": "10.1021/sc400330r",
    "url": "https://doi.org/10.1021/sc400330r",
@@ -4502,7 +4502,7 @@
    "type": "Journal article",
    "doi": "10.1039/c3ta14052k",
    "url": "https://doi.org/10.1039/c3ta14052k",
-   "citations": 894,
+   "citations": 921,
    "authors": [
     "Mohammad Mansoob Khan",
     "Sajid Ali Ansari",
@@ -4534,7 +4534,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jiec.2013.08.006",
    "url": "https://doi.org/10.1016/j.jiec.2013.08.006",
-   "citations": 126,
+   "citations": 130,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4563,7 +4563,7 @@
    "type": "Journal article",
    "doi": "10.1039/c3nr02678g",
    "url": "https://doi.org/10.1039/c3nr02678g",
-   "citations": 636,
+   "citations": 645,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4582,7 +4582,7 @@
    "type": "Journal article",
    "doi": "10.1021/jp410063p",
    "url": "https://doi.org/10.1021/jp410063p",
-   "citations": 430,
+   "citations": 443,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4616,7 +4616,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jiec.2013.02.030",
    "url": "https://doi.org/10.1016/j.jiec.2013.02.030",
-   "citations": 35,
+   "citations": 36,
    "authors": [
     "Mohammad Mansoob Khan",
     "Sajid Ali Ansari",
@@ -4645,7 +4645,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.msec.2013.07.028",
    "url": "https://doi.org/10.1016/j.msec.2013.07.028",
-   "citations": 76,
+   "citations": 78,
    "authors": [
     "Mohammad Mansoob Khan",
     "Sajid Ali Ansari",
@@ -4662,7 +4662,7 @@
    "type": "Journal article",
    "doi": "10.1039/c3nr01280h",
    "url": "https://doi.org/10.1039/c3nr01280h",
-   "citations": 175,
+   "citations": 177,
    "authors": [
     "Shafeer Kalathil",
     "Mohammad Mansoob Khan",
@@ -4694,7 +4694,7 @@
    "type": "Journal article",
    "doi": "10.1007/s11051-012-1051-x",
    "url": "https://doi.org/10.1007/s11051-012-1051-x",
-   "citations": 37,
+   "citations": 38,
    "authors": [
     "Shafeer Kalathil",
     "Mohammad Mansoob Khan",
@@ -4712,7 +4712,7 @@
    "type": "Journal article",
    "doi": "10.5012/bkcs.2012.33.5.1753",
    "url": "https://doi.org/10.5012/bkcs.2012.33.5.1753",
-   "citations": 48,
+   "citations": 51,
    "authors": [
     "Mohammad Mansoob Khan",
     "Shafeer Kalathil",
@@ -4729,7 +4729,7 @@
    "type": "Journal article",
    "doi": "10.5012/bkcs.2012.33.8.2592",
    "url": "https://doi.org/10.5012/bkcs.2012.33.8.2592",
-   "citations": 95,
+   "citations": 98,
    "authors": [
     "Mohammad Mansoob Khan",
     "Shafeer Kalathil",
@@ -4813,7 +4813,7 @@
    "type": "Journal article",
    "doi": "10.1081/sim-120037515",
    "url": "https://doi.org/10.1081/sim-120037515",
-   "citations": 6,
+   "citations": 8,
    "authors": [
     "Zafar A. Siddiqi",
     "Mohammad Mansoob Khan"
