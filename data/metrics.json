@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17",
- "updated_utc": "2026-11-17T12:59Z",
+ "updated": "2026-11-18",
+ "updated_utc": "2026-11-18T02:54Z",
  "primary": {
   "source": "Google Scholar",
   "citations": 20909,
@@ -18,7 +18,7 @@
  },
  "books": 6,
  "openalex": {
-  "citations": 18844,
+  "citations": 18852,
   "h_index": 71,
   "i10_index": 183,
   "indexed_works": 320,
@@ -70,22 +70,22 @@
    },
    {
     "year": 2021,
-    "citations": 1783,
+    "citations": 1782,
     "works": 26
    },
    {
     "year": 2022,
-    "citations": 1677,
+    "citations": 1678,
     "works": 26
    },
    {
     "year": 2023,
-    "citations": 1837,
+    "citations": 1838,
     "works": 34
    },
    {
     "year": 2024,
-    "citations": 2187,
+    "citations": 2186,
     "works": 33
    },
    {
@@ -95,13 +95,13 @@
    },
    {
     "year": 2026,
-    "citations": 1843,
+    "citations": 1851,
     "works": 15
    }
   ],
-  "as_of": "2026-11-16",
+  "as_of": "2026-11-17",
   "url": "https://openalex.org/A5036505076",
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "scholar": {
   "citations": 20909,

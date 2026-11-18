@@ -27,6 +27,16 @@
     "h_index": 72,
     "i10_index": 192
    }
+  },
+  {
+   "date": "2026-11-18",
+   "publications": 288,
+   "openalex": {
+    "citations": 18852,
+    "h_index": 71,
+    "i10_index": 183
+   },
+   "scholar": null
   }
  ]
 }

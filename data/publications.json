@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "count": 288,
  "citation_source": "OpenAlex",
  "items": [
@@ -291,7 +291,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.toxlet.2025.111769",
    "url": "https://doi.org/10.1016/j.toxlet.2025.111769",
-   "citations": 33,
+   "citations": 34,
    "authors": [
     "Mohd Fazal Ur Rehman",
     "Mohammad Muaz Khan",
@@ -569,7 +569,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00017-4",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00017-4",
-   "citations": 10,
+   "citations": 11,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -1430,7 +1430,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.heliyon.2024.e32719",
    "url": "https://doi.org/10.1016/j.heliyon.2024.e32719",
-   "citations": 7,
+   "citations": 8,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Fazlurrahman Khan",
@@ -1990,7 +1990,7 @@
    "type": "Journal article",
    "doi": "10.1021/acsomega.3c01199",
    "url": "https://doi.org/10.1021/acsomega.3c01199",
-   "citations": 130,
+   "citations": 131,
    "authors": [
     "Khadijat Olabisi Abdulwahab",
     "Mohammad Mansoob Khan",
@@ -2092,7 +2092,7 @@
    "type": "Journal article",
    "doi": "10.1039/d2cy01976k",
    "url": "https://doi.org/10.1039/d2cy01976k",
-   "citations": 37,
+   "citations": 38,
    "authors": [
     "Mohammad Mansoob Khan",
     "Shaidatul Najihah Matussin"
@@ -2478,7 +2478,7 @@
    "type": "Journal article",
    "doi": "10.1021/acsomega.2c01314",
    "url": "https://doi.org/10.1021/acsomega.2c01314",
-   "citations": 148,
+   "citations": 149,
    "authors": [
     "Ashmalina Rahman",
     "James R. Jennings",
@@ -2615,7 +2615,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-022-02733-9",
    "url": "https://doi.org/10.1007/s00449-022-02733-9",
-   "citations": 213,
+   "citations": 214,
    "authors": [
     "Vinda Puspasari",
     "Aga Ridhova",
@@ -2991,7 +2991,7 @@
    "type": "Journal article",
    "doi": "10.1080/08927014.2021.1948538",
    "url": "https://doi.org/10.1080/08927014.2021.1948538",
-   "citations": 42,
+   "citations": 43,
    "authors": [
     "Fazlurrahman Khan",
     "Nilushi Indika Bamunuarachchi",
@@ -4451,7 +4451,7 @@
    "title": "Mixed culture electrochemically active biofilms and their microscopic and spectroelectrochemical studies",
    "year": 2014,
    "month": null,
-   "venue": null,
+   "venue": "ACS Sustainable Chemistry & Engineering",
    "type": "Journal article",
    "doi": "10.1021/sc400330r",
    "url": "https://doi.org/10.1021/sc400330r",
