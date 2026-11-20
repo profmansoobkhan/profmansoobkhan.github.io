@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19",
- "updated_utc": "2026-11-19T12:44Z",
+ "updated": "2026-11-20",
+ "updated_utc": "2026-11-20T02:20Z",
  "primary": {
   "source": "Google Scholar",
   "citations": 20909,
@@ -99,9 +99,9 @@
     "works": 15
    }
   ],
-  "as_of": "2026-11-18",
+  "as_of": "2026-11-19",
   "url": "https://openalex.org/A5036505076",
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "scholar": {
   "citations": 20909,

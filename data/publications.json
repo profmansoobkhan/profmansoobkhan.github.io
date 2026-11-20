@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "count": 288,
  "citation_source": "OpenAlex",
  "items": [
@@ -323,7 +323,7 @@
    "type": "Journal article",
    "doi": "10.1002/cbic.202500604",
    "url": "https://doi.org/10.1002/cbic.202500604",
-   "citations": 2,
+   "citations": 3,
    "authors": [
     "Ashmalina Rahman",
     "Mohammad Mansoob Khan"
@@ -357,7 +357,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.rechem.2025.102672",
    "url": "https://doi.org/10.1016/j.rechem.2025.102672",
-   "citations": 26,
+   "citations": 27,
    "authors": [
     "Abdul Wafi",
     "Demas Aji",
@@ -1264,7 +1264,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.mssp.2023.107930",
    "url": "https://doi.org/10.1016/j.mssp.2023.107930",
-   "citations": 47,
+   "citations": 48,
    "authors": [
     "Ashmalina Rahman",
     "James R. Jennings",
@@ -1863,7 +1863,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-323-95191-3.00007-9",
    "url": "https://doi.org/10.1016/b978-0-323-95191-3.00007-9",
-   "citations": 11,
+   "citations": 12,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -2228,7 +2228,7 @@
    "authors": [
     "Chun Mun Khor",
     "Mohammad Mansoob Khan",
-    "Mohd Yusuf Khan",
+    "Abuzar Khan",
     "Mohd Yusuf Khan",
     "Mohammad Hilni Harunsani"
    ],
@@ -2601,7 +2601,7 @@
    "authors": [
     "Amiezatul Amirulsyafiee",
     "Mohammad Mansoob Khan",
-    "Abuzar Khan",
+    "Mohd Yusuf Khan",
     "Abuzar Khan",
     "Mohammad Hilni Harunsani"
    ],
@@ -3247,7 +3247,7 @@
    "type": "Journal article",
    "doi": "10.1021/acssuschemeng.9b06398",
    "url": "https://doi.org/10.1021/acssuschemeng.9b06398",
-   "citations": 201,
+   "citations": 202,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Hilni Harunsani",
@@ -3363,7 +3363,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-018-2012-2",
    "url": "https://doi.org/10.1007/s00449-018-2012-2",
-   "citations": 129,
+   "citations": 130,
    "authors": [
     "Azhar Ullah Khan",
     "M. Rizwan Khan",
@@ -3612,7 +3612,7 @@
    "type": "Journal article",
    "doi": "10.1007/s12668-017-0496-x",
    "url": "https://doi.org/10.1007/s12668-017-0496-x",
-   "citations": 156,
+   "citations": 157,
    "authors": [
     "Aqib Javaid",
     "Sandra Folarin Oloketuyi",
@@ -3922,7 +3922,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.molliq.2016.06.074",
    "url": "https://doi.org/10.1016/j.molliq.2016.06.074",
-   "citations": 700,
+   "citations": 701,
    "authors": [
     "Rajendran Saravanan",
     "Elisban Juani Sacari Sacari",
@@ -4130,7 +4130,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.ceramint.2015.03.321",
    "url": "https://doi.org/10.1016/j.ceramint.2015.03.321",
-   "citations": 45,
+   "citations": 46,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4271,7 +4271,7 @@
    "type": "Journal article",
    "doi": "10.1039/c4ra03448a",
    "url": "https://doi.org/10.1039/c4ra03448a",
-   "citations": 128,
+   "citations": 129,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4563,7 +4563,7 @@
    "type": "Journal article",
    "doi": "10.1039/c3nr02678g",
    "url": "https://doi.org/10.1039/c3nr02678g",
-   "citations": 645,
+   "citations": 646,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
