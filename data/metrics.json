@@ -1,12 +1,12 @@
 {
  "updated": "2026-11-21",
- "updated_utc": "2026-11-21T02:16Z",
+ "updated_utc": "2026-11-21T12:23Z",
  "primary": {
   "source": "Google Scholar",
-  "citations": 20909,
+  "citations": 20927,
   "h_index": 72,
   "i10_index": 192,
-  "as_of": "2026-11-17"
+  "as_of": "2026-11-21"
  },
  "publications": 288,
  "publications_by_type": {
@@ -104,7 +104,7 @@
   "checked": "2026-11-21"
  },
  "scholar": {
-  "citations": 20909,
+  "citations": 20927,
   "h_index": 72,
   "i10_index": 192,
   "by_year": [
@@ -142,7 +142,7 @@
    },
    {
     "year": 2021,
-    "citations": 2016
+    "citations": 2019
    },
    {
     "year": 2022,
@@ -150,23 +150,23 @@
    },
    {
     "year": 2023,
-    "citations": 2010
+    "citations": 2012
    },
    {
     "year": 2024,
-    "citations": 2395
+    "citations": 2396
    },
    {
     "year": 2025,
-    "citations": 2719
+    "citations": 2720
    },
    {
     "year": 2026,
-    "citations": 2209
+    "citations": 2217
    }
   ],
   "via": "Google Scholar",
-  "as_of": "2026-11-17"
+  "as_of": "2026-11-21"
  },
  "by_year": [
   {
@@ -203,7 +203,7 @@
   },
   {
    "year": 2021,
-   "citations": 2016
+   "citations": 2019
   },
   {
    "year": 2022,
@@ -211,19 +211,19 @@
   },
   {
    "year": 2023,
-   "citations": 2010
+   "citations": 2012
   },
   {
    "year": 2024,
-   "citations": 2395
+   "citations": 2396
   },
   {
    "year": 2025,
-   "citations": 2719
+   "citations": 2720
   },
   {
    "year": 2026,
-   "citations": 2209
+   "citations": 2217
   }
  ],
  "by_year_source": "Google Scholar"
