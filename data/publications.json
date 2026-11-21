@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "count": 288,
  "citation_source": "OpenAlex",
  "items": [
@@ -946,7 +946,7 @@
    "type": "Book",
    "doi": "10.1016/c2023-0-50790-6",
    "url": "https://doi.org/10.1016/c2023-0-50790-6",
-   "citations": 7,
+   "citations": 8,
    "authors": [],
    "oa": false
   },
@@ -1186,7 +1186,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.colsurfa.2024.133362",
    "url": "https://doi.org/10.1016/j.colsurfa.2024.133362",
-   "citations": 23,
+   "citations": 24,
    "authors": [
     "Abdelkader Nebatti Ech‐Chergui",
     "Farid Bennabi",
@@ -1577,7 +1577,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.ceramint.2024.07.150",
    "url": "https://doi.org/10.1016/j.ceramint.2024.07.150",
-   "citations": 13,
+   "citations": 14,
    "authors": [
     "Imane Radja",
     "Yasmina Khane",
@@ -1680,7 +1680,7 @@
    "type": "Journal article",
    "doi": "10.1007/s10854-023-10435-5",
    "url": "https://doi.org/10.1007/s10854-023-10435-5",
-   "citations": 77,
+   "citations": 78,
    "authors": [
     "Yarub Al-Douri",
     "Mohammad Mansoob Khan",
@@ -1915,7 +1915,7 @@
    "type": "Other",
    "doi": "10.2139/ssrn.4549141",
    "url": "https://doi.org/10.2139/ssrn.4549141",
-   "citations": 23,
+   "citations": 24,
    "authors": [
     "Abdelkader Nebatti Ech‐Chergui",
     "Farid Bennabi",
@@ -3010,7 +3010,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jece.2021.105481",
    "url": "https://doi.org/10.1016/j.jece.2021.105481",
-   "citations": 64,
+   "citations": 65,
    "authors": [
     "Ashmalina Rahman",
     "Ai Ling Tan",
@@ -3957,7 +3957,7 @@
    "type": "Journal article",
    "doi": "10.1039/c5nj03478g",
    "url": "https://doi.org/10.1039/c5nj03478g",
-   "citations": 747,
+   "citations": 748,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4432,7 +4432,7 @@
    "title": "Enhanced thermoelectric performance and ammonia sensing properties of sulfonated polyaniline/graphene thin films",
    "year": 2014,
    "month": null,
-   "venue": "Materials Letters",
+   "venue": null,
    "type": "Journal article",
    "doi": "10.1016/j.matlet.2013.09.098",
    "url": "https://doi.org/10.1016/j.matlet.2013.09.098",

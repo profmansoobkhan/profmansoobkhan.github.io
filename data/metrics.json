@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20",
- "updated_utc": "2026-11-20T12:41Z",
+ "updated": "2026-11-21",
+ "updated_utc": "2026-11-21T02:16Z",
  "primary": {
   "source": "Google Scholar",
   "citations": 20909,
@@ -18,7 +18,7 @@
  },
  "books": 6,
  "openalex": {
-  "citations": 18855,
+  "citations": 18866,
   "h_index": 71,
   "i10_index": 183,
   "indexed_works": 319,
@@ -35,12 +35,12 @@
    },
    {
     "year": 2014,
-    "citations": 284,
+    "citations": 283,
     "works": 9
    },
    {
     "year": 2015,
-    "citations": 494,
+    "citations": 495,
     "works": 17
    },
    {
@@ -50,17 +50,17 @@
    },
    {
     "year": 2017,
-    "citations": 1123,
+    "citations": 1122,
     "works": 6
    },
    {
     "year": 2018,
-    "citations": 1321,
+    "citations": 1320,
     "works": 20
    },
    {
     "year": 2019,
-    "citations": 1451,
+    "citations": 1453,
     "works": 8
    },
    {
@@ -85,23 +85,23 @@
    },
    {
     "year": 2024,
-    "citations": 2187,
+    "citations": 2188,
     "works": 33
    },
    {
     "year": 2025,
-    "citations": 2191,
+    "citations": 2192,
     "works": 53
    },
    {
     "year": 2026,
-    "citations": 1855,
+    "citations": 1864,
     "works": 15
    }
   ],
-  "as_of": "2026-11-19",
+  "as_of": "2026-11-20",
   "url": "https://openalex.org/A5036505076",
-  "checked": "2026-11-20"
+  "checked": "2026-11-21"
  },
  "scholar": {
   "citations": 20909,
