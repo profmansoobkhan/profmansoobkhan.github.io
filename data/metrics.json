@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21",
- "updated_utc": "2026-11-21T12:23Z",
+ "updated": "2026-11-22",
+ "updated_utc": "2026-11-22T01:20Z",
  "primary": {
   "source": "Google Scholar",
   "citations": 20927,
@@ -18,90 +18,90 @@
  },
  "books": 6,
  "openalex": {
-  "citations": 18866,
+  "citations": 18927,
   "h_index": 71,
   "i10_index": 183,
   "indexed_works": 319,
   "by_year": [
    {
     "year": 2012,
-    "citations": 29,
+    "citations": 30,
     "works": 4
    },
    {
     "year": 2013,
-    "citations": 102,
-    "works": 21
+    "citations": 97,
+    "works": 20
    },
    {
     "year": 2014,
-    "citations": 283,
-    "works": 9
+    "citations": 276,
+    "works": 10
    },
    {
     "year": 2015,
-    "citations": 495,
+    "citations": 487,
     "works": 17
    },
    {
     "year": 2016,
-    "citations": 657,
+    "citations": 678,
     "works": 9
    },
    {
     "year": 2017,
-    "citations": 1122,
+    "citations": 1112,
     "works": 6
    },
    {
     "year": 2018,
-    "citations": 1320,
+    "citations": 1323,
     "works": 20
    },
    {
     "year": 2019,
-    "citations": 1453,
+    "citations": 1463,
     "works": 8
    },
    {
     "year": 2020,
-    "citations": 1530,
+    "citations": 1536,
     "works": 12
    },
    {
     "year": 2021,
-    "citations": 1782,
+    "citations": 1788,
     "works": 26
    },
    {
     "year": 2022,
-    "citations": 1678,
+    "citations": 1684,
     "works": 26
    },
    {
     "year": 2023,
-    "citations": 1839,
+    "citations": 1850,
     "works": 34
    },
    {
     "year": 2024,
-    "citations": 2188,
+    "citations": 2181,
     "works": 33
    },
    {
     "year": 2025,
-    "citations": 2192,
+    "citations": 2204,
     "works": 53
    },
    {
     "year": 2026,
-    "citations": 1864,
+    "citations": 1888,
     "works": 15
    }
   ],
-  "as_of": "2026-11-20",
+  "as_of": "2026-11-21",
   "url": "https://openalex.org/A5036505076",
-  "checked": "2026-11-21"
+  "checked": "2026-11-22"
  },
  "scholar": {
   "citations": 20927,
