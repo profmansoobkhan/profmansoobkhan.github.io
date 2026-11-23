@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "count": 288,
  "citation_source": "OpenAlex",
  "items": [
@@ -291,7 +291,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.toxlet.2025.111769",
    "url": "https://doi.org/10.1016/j.toxlet.2025.111769",
-   "citations": 35,
+   "citations": 36,
    "authors": [
     "Mohd Fazal Ur Rehman",
     "Mohammad Muaz Khan",
@@ -569,7 +569,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-443-28913-2.00017-4",
    "url": "https://doi.org/10.1016/b978-0-443-28913-2.00017-4",
-   "citations": 11,
+   "citations": 12,
    "authors": [
     "Mohammad Mansoob Khan"
    ],
@@ -1333,7 +1333,7 @@
    "type": "Journal article",
    "doi": "10.1080/10408436.2023.2272963",
    "url": "https://doi.org/10.1080/10408436.2023.2272963",
-   "citations": 115,
+   "citations": 116,
    "authors": [
     "Khadijat Olabisi Abdulwahab",
     "Mohammad Mansoob Khan",
@@ -1561,7 +1561,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.plaphy.2024.108674",
    "url": "https://doi.org/10.1016/j.plaphy.2024.108674",
-   "citations": 186,
+   "citations": 189,
    "authors": [
     "Bisma Hilal",
     "Mohammad Mansoob Khan",
@@ -1956,7 +1956,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jre.2022.09.003",
    "url": "https://doi.org/10.1016/j.jre.2022.09.003",
-   "citations": 211,
+   "citations": 212,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Hilni Harunsani",
@@ -2092,7 +2092,7 @@
    "type": "Journal article",
    "doi": "10.1039/d2cy01976k",
    "url": "https://doi.org/10.1039/d2cy01976k",
-   "citations": 38,
+   "citations": 39,
    "authors": [
     "Mohammad Mansoob Khan",
     "Shaidatul Najihah Matussin"
@@ -2478,7 +2478,7 @@
    "type": "Journal article",
    "doi": "10.1021/acsomega.2c01314",
    "url": "https://doi.org/10.1021/acsomega.2c01314",
-   "citations": 150,
+   "citations": 152,
    "authors": [
     "Ashmalina Rahman",
     "James R. Jennings",
@@ -2724,7 +2724,7 @@
    "type": "Book chapter",
    "doi": "10.1016/b978-0-12-820498-6.00002-0",
    "url": "https://doi.org/10.1016/b978-0-12-820498-6.00002-0",
-   "citations": 38,
+   "citations": 39,
    "authors": [
     "Ersan Y. Muslih",
     "Badrul Munir",
@@ -2905,7 +2905,7 @@
    "type": "Journal article",
    "doi": "10.1039/d1tb00248a",
    "url": "https://doi.org/10.1039/d1tb00248a",
-   "citations": 176,
+   "citations": 177,
    "authors": [
     "Siti Najihah Naidi",
     "Mohammad Hilni Harunsani",
@@ -3029,7 +3029,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-021-02530-w",
    "url": "https://doi.org/10.1007/s00449-021-02530-w",
-   "citations": 136,
+   "citations": 138,
    "authors": [
     "Ashmalina Rahman",
     "Mohammad Hilni Harunsani",
@@ -3227,7 +3227,7 @@
    "type": "Journal article",
    "doi": "10.2174/1872210514666200313121953",
    "url": "https://doi.org/10.2174/1872210514666200313121953",
-   "citations": 31,
+   "citations": 32,
    "authors": [
     "Fazlurrahman Khan",
     "Jang-Won Lee",
@@ -3247,7 +3247,7 @@
    "type": "Journal article",
    "doi": "10.1021/acssuschemeng.9b06398",
    "url": "https://doi.org/10.1021/acssuschemeng.9b06398",
-   "citations": 202,
+   "citations": 203,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Hilni Harunsani",
@@ -3264,7 +3264,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-020-02330-8",
    "url": "https://doi.org/10.1007/s00449-020-02330-8",
-   "citations": 99,
+   "citations": 102,
    "authors": [
     "Azhar Ullah Khan",
     "M. Rizwan Khan",
@@ -3306,7 +3306,7 @@
     "Ralf Riedel",
     "Masashi Hasegawa"
    ],
-   "oa": true
+   "oa": false
   },
   {
    "title": "CeO2-based nanocomposites: An advanced alternative to TiO2 and ZnO in sunscreens",
@@ -3732,7 +3732,7 @@
    "type": "Journal article",
    "doi": "10.2174/1389201019666180828090052",
    "url": "https://doi.org/10.2174/1389201019666180828090052",
-   "citations": 34,
+   "citations": 35,
    "authors": [
     "Fazlurrahman Khan",
     "Mohammad Mansoob Khan",
@@ -3850,7 +3850,7 @@
    "type": "Journal article",
    "doi": "10.1038/srep31641",
    "url": "https://doi.org/10.1038/srep31641",
-   "citations": 637,
+   "citations": 638,
    "authors": [
     "Saravanan Rajendran",
     "Mohammad Mansoob Khan",
@@ -3957,7 +3957,7 @@
    "type": "Journal article",
    "doi": "10.1039/c5nj03478g",
    "url": "https://doi.org/10.1039/c5nj03478g",
-   "citations": 755,
+   "citations": 756,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4113,7 +4113,7 @@
    "type": "Journal article",
    "doi": "10.1039/c5nj00556f",
    "url": "https://doi.org/10.1039/c5nj00556f",
-   "citations": 111,
+   "citations": 112,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4147,7 +4147,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jscs.2015.04.003",
    "url": "https://doi.org/10.1016/j.jscs.2015.04.003",
-   "citations": 750,
+   "citations": 752,
    "authors": [
     "Mohammad Mansoob Khan",
     "Syed Farooq Adil",
@@ -4364,7 +4364,7 @@
    "type": "Journal article",
    "doi": "10.1039/c4ra00861h",
    "url": "https://doi.org/10.1039/c4ra00861h",
-   "citations": 369,
+   "citations": 370,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
@@ -4582,7 +4582,7 @@
    "type": "Journal article",
    "doi": "10.1021/jp410063p",
    "url": "https://doi.org/10.1021/jp410063p",
-   "citations": 446,
+   "citations": 447,
    "authors": [
     "Sajid Ali Ansari",
     "Mohammad Mansoob Khan",
