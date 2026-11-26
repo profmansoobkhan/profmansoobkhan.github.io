@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-26",
- "updated_utc": "2026-11-26T03:35Z",
+ "updated_utc": "2026-11-26T13:42Z",
  "primary": {
   "source": "Google Scholar",
   "citations": 20927,
@@ -8,9 +8,9 @@
   "i10_index": 192,
   "as_of": "2026-11-21"
  },
- "publications": 288,
+ "publications": 289,
  "publications_by_type": {
-  "Journal article": 221,
+  "Journal article": 222,
   "Book chapter": 53,
   "Book": 11,
   "Other": 2,
@@ -18,7 +18,7 @@
  },
  "books": 6,
  "openalex": {
-  "citations": 18915,
+  "citations": 18936,
   "h_index": 72,
   "i10_index": 180,
   "indexed_works": 316,
@@ -40,7 +40,7 @@
    },
    {
     "year": 2015,
-    "citations": 482,
+    "citations": 483,
     "works": 17
    },
    {
@@ -50,7 +50,7 @@
    },
    {
     "year": 2017,
-    "citations": 1108,
+    "citations": 1109,
     "works": 7
    },
    {
@@ -65,7 +65,7 @@
    },
    {
     "year": 2020,
-    "citations": 1531,
+    "citations": 1534,
     "works": 12
    },
    {
@@ -80,26 +80,26 @@
    },
    {
     "year": 2023,
-    "citations": 1858,
+    "citations": 1860,
     "works": 33
    },
    {
     "year": 2024,
-    "citations": 2194,
+    "citations": 2195,
     "works": 33
    },
    {
     "year": 2025,
-    "citations": 2197,
+    "citations": 2199,
     "works": 54
    },
    {
     "year": 2026,
-    "citations": 1919,
+    "citations": 1930,
     "works": 11
    }
   ],
-  "as_of": "2026-11-25",
+  "as_of": "2026-11-26",
   "url": "https://openalex.org/A5036505076",
   "checked": "2026-11-26"
  },
