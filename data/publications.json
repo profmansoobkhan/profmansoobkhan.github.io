@@ -418,7 +418,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jre.2024.07.012",
    "url": "https://doi.org/10.1016/j.jre.2024.07.012",
-   "citations": 6,
+   "citations": 7,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Hilni Harunsani",
@@ -1658,7 +1658,7 @@
    "type": "Journal article",
    "doi": "10.1021/acsomega.3c02524",
    "url": "https://doi.org/10.1021/acsomega.3c02524",
-   "citations": 15,
+   "citations": 16,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Fazlurrahman Khan",
@@ -1971,7 +1971,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jre.2022.09.003",
    "url": "https://doi.org/10.1016/j.jre.2022.09.003",
-   "citations": 211,
+   "citations": 212,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Mohammad Hilni Harunsani",
@@ -2005,7 +2005,7 @@
    "type": "Journal article",
    "doi": "10.1021/acsomega.3c01199",
    "url": "https://doi.org/10.1021/acsomega.3c01199",
-   "citations": 131,
+   "citations": 132,
    "authors": [
     "Khadijat Olabisi Abdulwahab",
     "Mohammad Mansoob Khan",
@@ -2039,7 +2039,7 @@
    "type": "Journal article",
    "doi": "10.1039/d3ra02474a",
    "url": "https://doi.org/10.1039/d3ra02474a",
-   "citations": 10,
+   "citations": 11,
    "authors": [
     "Shaidatul Najihah Matussin",
     "Fazlurrahman Khan",
@@ -2630,7 +2630,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-022-02733-9",
    "url": "https://doi.org/10.1007/s00449-022-02733-9",
-   "citations": 214,
+   "citations": 215,
    "authors": [
     "Vinda Puspasari",
     "Aga Ridhova",
@@ -3378,7 +3378,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-018-2012-2",
    "url": "https://doi.org/10.1007/s00449-018-2012-2",
-   "citations": 124,
+   "citations": 125,
    "authors": [
     "Azhar Ullah Khan",
     "M. Rizwan Khan",
@@ -3558,7 +3558,7 @@
    "type": "Journal article",
    "doi": "10.1007/s00449-017-1846-3",
    "url": "https://doi.org/10.1007/s00449-017-1846-3",
-   "citations": 223,
+   "citations": 224,
    "authors": [
     "Azhar Ullah Khan",
     "Nazia Malik",
@@ -3576,7 +3576,7 @@
    "type": "Journal article",
    "doi": "10.1038/s41598-018-19617-2",
    "url": "https://doi.org/10.1038/s41598-018-19617-2",
-   "citations": 152,
+   "citations": 153,
    "authors": [
     "Mohammad Ehtisham Khan",
     "Mohammad Mansoob Khan",
@@ -3869,7 +3869,7 @@
    "type": "Journal article",
    "doi": "10.1038/srep31641",
    "url": "https://doi.org/10.1038/srep31641",
-   "citations": 632,
+   "citations": 634,
    "authors": [
     "Saravanan Rajendran",
     "Mohammad Mansoob Khan",
@@ -3926,10 +3926,7 @@
    "url": "https://doi.org/10.1002/chin.201625222",
    "citations": 2,
    "authors": [
-    "Sajid Ali Ansari",
-    "Mohammad Mansoob Khan",
-    "Mohd Omaish Ansari",
-    "Moo Hwan Cho"
+    "ChemInform"
    ],
    "oa": false
   },
@@ -3941,7 +3938,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.molliq.2016.06.074",
    "url": "https://doi.org/10.1016/j.molliq.2016.06.074",
-   "citations": 698,
+   "citations": 702,
    "authors": [
     "R. Saravanan",
     "Elisban Juani Sacari Sacari",
@@ -4061,7 +4058,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jscs.2015.06.004",
    "url": "https://doi.org/10.1016/j.jscs.2015.06.004",
-   "citations": 121,
+   "citations": 122,
    "authors": [
     "Mohd Omaish Ansari",
     "Mohammad Mansoob Khan",
@@ -4182,7 +4179,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jcis.2015.04.035",
    "url": "https://doi.org/10.1016/j.jcis.2015.04.035",
-   "citations": 649,
+   "citations": 652,
    "authors": [
     "R. Saravanan",
     "Mohammad Mansoob Khan",
@@ -4202,7 +4199,7 @@
    "type": "Journal article",
    "doi": "10.1039/c5ra02557e",
    "url": "https://doi.org/10.1039/c5ra02557e",
-   "citations": 451,
+   "citations": 452,
    "authors": [
     "R. Saravanan",
     "Mohammad Mansoob Khan",
@@ -4439,7 +4436,7 @@
    "type": "Journal article",
    "doi": "10.1016/j.jiec.2013.08.002",
    "url": "https://doi.org/10.1016/j.jiec.2013.08.002",
-   "citations": 283,
+   "citations": 284,
    "authors": [
     "Mohammad Mansoob Khan",
     "Jintae Lee",
@@ -4578,7 +4575,7 @@
    "title": "Oxygen vacancy induced band gap narrowing of ZnO nanostructures by an electrochemically active biofilm",
    "year": 2013,
    "month": 7,
-   "venue": null,
+   "venue": "Nanoscale",
    "type": "Journal article",
    "doi": "10.1039/c3nr02678g",
    "url": "https://doi.org/10.1039/c3nr02678g",
