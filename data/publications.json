@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "count": 289,
  "citation_source": "OpenAlex",
  "items": [
@@ -1599,7 +1599,7 @@
     "Marisa Carvalho de Oliveira",
     "E. Longo",
     "Renan Augusto Pontes Ribeiro",
-    "Mehmit Isik",
+    "M. Isik",
     "Farid Bennabi",
     "Abdelkader Nebatti Ech‐Chergui",
     "M’hamed Guezzoul",
@@ -4578,7 +4578,7 @@
    "title": "Oxygen vacancy induced band gap narrowing of ZnO nanostructures by an electrochemically active biofilm",
    "year": 2013,
    "month": 7,
-   "venue": "Nanoscale",
+   "venue": null,
    "type": "Journal article",
    "doi": "10.1039/c3nr02678g",
    "url": "https://doi.org/10.1039/c3nr02678g",
